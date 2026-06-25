@@ -1,6 +1,6 @@
 {
-  "version": "0.5.28",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.28/OptionsDesk-Setup-0.5.28.exe",
-  "sha256": "24322f530efdb1f64fa583188684b51ef1871331052ba4f4247b39fc38ae1b2d",
-  "notes": "Quitar la cuenta de PRODUCCION desde Config ahora SI funciona (boton Quitar en la API Key de Produccion, aunque venga del .env): la desactiva y vuelve los datos a sandbox. Y la ventana ya no abre recortada con el escalado de Windows (125%/150%): se ajusta y centra (arregla el calculo de DPI de 0.5.27). Llega por auto-update."
+  "version": "0.5.29",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.29/OptionsDesk-Setup-0.5.29.exe",
+  "sha256": "93271cb5d6684bedbf9c3ab86175f967912f5ee4c7cd1299f03c2ff1e98b91b8",
+  "notes": "Detector v2: tras analizar 4 libros de Cardona se anadieron 5 estrategias nuevas (caida regular ~1%, caida fuerte ~2%+, gap al alza, gap bajista que abre al alza, hanger en zona cara) + deteccion de GAP en el grafico + la regla de las 11am + caucion de pre-market. Solo lectura. Llega por auto-update."
 }
