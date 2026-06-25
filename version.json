@@ -1,6 +1,6 @@
 {
-  "version": "0.5.39",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.39/OptionsDesk-Setup-0.5.39.exe",
-  "sha256": "2afafb3115413c97441e81a7330db0da07bfad65305aa4f11da5ca7496c0e911",
-  "notes": "Nuevo escaner de CONFLUENCIA en Mercado: muestra las acciones donde la senal por tendencia y una estrategia del Detector coinciden en el mismo lado (mayor conviccion); las disparadas primero; clic -> al grafico. Tambien por voz. Educativo. Llega por auto-update."
+  "version": "0.5.40",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.40/OptionsDesk-Setup-0.5.40.exe",
+  "sha256": "0c69abfde9189607a1ebc1e047575d5587ecb6a8cd80b21ae0de6d7dd440929d",
+  "notes": "El escaner de Confluencia (Mercado) se actualiza solo cada 10 minutos (pausa con la pestana oculta) y escanea al abrir Mercado sin pulsar el boton. El boton sigue para forzarlo; muestra la hora de la ultima actualizacion. Llega por auto-update."
 }
