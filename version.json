@@ -1,6 +1,6 @@
 {
-  "version": "0.5.34",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.34/OptionsDesk-Setup-0.5.34.exe",
-  "sha256": "cec87a5fae0650979c754148536477531f54d829490b8531c0f0859cff9670c0",
-  "notes": "La etiqueta del Detector en el grafico muestra el nombre corto de la estrategia ademas del numero (ej. E8 Gap al alza CALL), bilingue ES/EN. Llega por auto-update."
+  "version": "0.5.35",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.35/OptionsDesk-Setup-0.5.35.exe",
+  "sha256": "e3791dce62def4cc7d9cb5142c9b648d0cbcc755186c9923e92c91b680f6f0c3",
+  "notes": "Claridad de datos en tiempo real: Config muestra Datos de precio Tiempo real / Retrasado (sandbox) y aclara que para precios en vivo necesitas clave de Produccion (solo datos), y que ponerla NO opera dinero real (el trading sigue en papel hasta que actives Produccion con tu PIN). Llega por auto-update."
 }
