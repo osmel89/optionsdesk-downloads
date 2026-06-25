@@ -1,6 +1,6 @@
 {
-  "version": "0.5.40",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.40/OptionsDesk-Setup-0.5.40.exe",
-  "sha256": "0c69abfde9189607a1ebc1e047575d5587ecb6a8cd80b21ae0de6d7dd440929d",
-  "notes": "El escaner de Confluencia (Mercado) se actualiza solo cada 10 minutos (pausa con la pestana oculta) y escanea al abrir Mercado sin pulsar el boton. El boton sigue para forzarlo; muestra la hora de la ultima actualizacion. Llega por auto-update."
+  "version": "0.5.41",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.41/OptionsDesk-Setup-0.5.41.exe",
+  "sha256": "6717f75520ca49bb9bcd2243ad489866584806e43be92d06a5e7de080528f0e0",
+  "notes": "Sonido + aviso por voz de VISION cuando aparece una confluencia disparada nueva (tendencia + estrategia del libro coinciden y se esta dando ahora)."
 }
