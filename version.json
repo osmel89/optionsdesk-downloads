@@ -1,6 +1,6 @@
 {
-  "version": "0.5.30",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.30/OptionsDesk-Setup-0.5.30.exe",
-  "sha256": "7678101f3d524374528ce511dd85356eeb859f97c9e14639a447f0fb26f41d36",
-  "notes": "Cuatro aportes de los libros de Cardona: veto/caucion FOMC, tablas de referencia (por accion + 3 semanas + earnings), reglas de salida en posiciones (primera vela roja, 2x), y el play POST-earnings OPT-IN (apagado por defecto, interruptor en Config). Solo lectura. Llega por auto-update."
+  "version": "0.5.31",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.31/OptionsDesk-Setup-0.5.31.exe",
+  "sha256": "6f72bea285a01b895a3e94fd723837a12aff2524bf1ad31998c039ae3bca06a5",
+  "notes": "Nueva pestana ESTRATEGIAS: catalogo educativo de las 11 estrategias del Detector (E1-E11) con explicacion + mini-grafico de ejemplo por estrategia, bilingue ES/EN y enlaces para verlas en vivo. Educativo. Llega por auto-update."
 }
