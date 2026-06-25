@@ -1,6 +1,6 @@
 {
-  "version": "0.5.38",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.38/OptionsDesk-Setup-0.5.38.exe",
-  "sha256": "7c16fb4ee300b2104376d9f0a9261359a9a954b08aef39a746c94cd22d1b6b84",
-  "notes": "Cuando el Detector y las Senales se contradicen (estrategia de reversion CALL vs tendencia PUT), la app lo explica: es una reversion contra la tendencia, mas arriesgada y de corto plazo; cuando chocan, esperar confirmacion o seguir la tendencia. En grafico, Senales y voz. Llega por auto-update."
+  "version": "0.5.39",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.39/OptionsDesk-Setup-0.5.39.exe",
+  "sha256": "2afafb3115413c97441e81a7330db0da07bfad65305aa4f11da5ca7496c0e911",
+  "notes": "Nuevo escaner de CONFLUENCIA en Mercado: muestra las acciones donde la senal por tendencia y una estrategia del Detector coinciden en el mismo lado (mayor conviccion); las disparadas primero; clic -> al grafico. Tambien por voz. Educativo. Llega por auto-update."
 }
