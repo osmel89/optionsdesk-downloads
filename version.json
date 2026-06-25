@@ -1,6 +1,6 @@
 {
-  "version": "0.5.31",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.31/OptionsDesk-Setup-0.5.31.exe",
-  "sha256": "6f72bea285a01b895a3e94fd723837a12aff2524bf1ad31998c039ae3bca06a5",
-  "notes": "Nueva pestana ESTRATEGIAS: catalogo educativo de las 11 estrategias del Detector (E1-E11) con explicacion + mini-grafico de ejemplo por estrategia, bilingue ES/EN y enlaces para verlas en vivo. Educativo. Llega por auto-update."
+  "version": "0.5.32",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.32/OptionsDesk-Setup-0.5.32.exe",
+  "sha256": "32d8a73bb4247893b7dd90cd2d96bade59b522731383c6404f0e987b10bc4aa3",
+  "notes": "El Detector DIBUJA la estrategia en el grafico: traza la linea de tendencia y el canal, y RESALTA la linea que falta romper para el gatillo (verde-arriba/rojo-abajo). Aclarado el texto \"claro en: 1 dia/1 hora/15 min\" = direccion confirmada en esos graficos (no es cuenta atras). Educativo. Llega por auto-update."
 }
