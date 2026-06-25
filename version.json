@@ -1,6 +1,6 @@
 {
-  "version": "0.5.37",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.37/OptionsDesk-Setup-0.5.37.exe",
-  "sha256": "a548b37cfa11294008bd8538c9bb767a22cb9084f0c71298c9c487888c0eab26",
-  "notes": "Vigilancia: el aviso de cuota de Marketaux agotada ya no se repite (sale una sola vez); el sentimiento solo se consulta para simbolos con noticias hoy (ahorra la cuota gratis compartida); el aviso explica que cada cliente puede poner su propia llave de Marketaux en Config. Llega por auto-update."
+  "version": "0.5.38",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.38/OptionsDesk-Setup-0.5.38.exe",
+  "sha256": "7c16fb4ee300b2104376d9f0a9261359a9a954b08aef39a746c94cd22d1b6b84",
+  "notes": "Cuando el Detector y las Senales se contradicen (estrategia de reversion CALL vs tendencia PUT), la app lo explica: es una reversion contra la tendencia, mas arriesgada y de corto plazo; cuando chocan, esperar confirmacion o seguir la tendencia. En grafico, Senales y voz. Llega por auto-update."
 }
