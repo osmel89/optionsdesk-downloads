@@ -1,6 +1,6 @@
 {
-  "version": "0.5.41",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.41/OptionsDesk-Setup-0.5.41.exe",
-  "sha256": "6717f75520ca49bb9bcd2243ad489866584806e43be92d06a5e7de080528f0e0",
-  "notes": "Sonido + aviso por voz de VISION cuando aparece una confluencia disparada nueva (tendencia + estrategia del libro coinciden y se esta dando ahora)."
+  "version": "0.5.42",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.42/OptionsDesk-Setup-0.5.42.exe",
+  "sha256": "f9111607fbc11747665fa7da136bcc3a2fdf8547322be51497814c50e01e4299",
+  "notes": "Mas volatiles en Mercado + rapidez (render progresivo y esqueletos) + PIN una sola vez por sesion, cancelar solo a limite, ejecutar inline, descartadas se borran solas."
 }
