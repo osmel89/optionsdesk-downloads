@@ -1,6 +1,6 @@
 {
-  "version": "0.5.32",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.32/OptionsDesk-Setup-0.5.32.exe",
-  "sha256": "32d8a73bb4247893b7dd90cd2d96bade59b522731383c6404f0e987b10bc4aa3",
-  "notes": "El Detector DIBUJA la estrategia en el grafico: traza la linea de tendencia y el canal, y RESALTA la linea que falta romper para el gatillo (verde-arriba/rojo-abajo). Aclarado el texto \"claro en: 1 dia/1 hora/15 min\" = direccion confirmada en esos graficos (no es cuenta atras). Educativo. Llega por auto-update."
+  "version": "0.5.33",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.33/OptionsDesk-Setup-0.5.33.exe",
+  "sha256": "42924d1446ae4c13758e649271600ac400490ec3b1b62f4549cfb4d6acca4547",
+  "notes": "El dibujo del Detector se NOTA: lineas mas gruesas y de colores vivos (linea a romper verde/rojo brillante gruesa; resistencia ambar, soporte cian, canal violeta) + etiqueta pequena sobre la vela que dice QUE estrategia se da y si ya se cumple o se forma. Educativo. Llega por auto-update."
 }
