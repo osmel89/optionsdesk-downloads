@@ -1,6 +1,6 @@
 {
-  "version": "0.5.29",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.29/OptionsDesk-Setup-0.5.29.exe",
-  "sha256": "93271cb5d6684bedbf9c3ab86175f967912f5ee4c7cd1299f03c2ff1e98b91b8",
-  "notes": "Detector v2: tras analizar 4 libros de Cardona se anadieron 5 estrategias nuevas (caida regular ~1%, caida fuerte ~2%+, gap al alza, gap bajista que abre al alza, hanger en zona cara) + deteccion de GAP en el grafico + la regla de las 11am + caucion de pre-market. Solo lectura. Llega por auto-update."
+  "version": "0.5.30",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.30/OptionsDesk-Setup-0.5.30.exe",
+  "sha256": "7678101f3d524374528ce511dd85356eeb859f97c9e14639a447f0fb26f41d36",
+  "notes": "Cuatro aportes de los libros de Cardona: veto/caucion FOMC, tablas de referencia (por accion + 3 semanas + earnings), reglas de salida en posiciones (primera vela roja, 2x), y el play POST-earnings OPT-IN (apagado por defecto, interruptor en Config). Solo lectura. Llega por auto-update."
 }
