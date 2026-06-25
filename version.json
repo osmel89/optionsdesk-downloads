@@ -1,1 +1,6 @@
-{"version": "0.5.26", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.26/OptionsDesk-Setup-0.5.26.exe", "sha256": "f0a2fddd2f0d95cc85b12b46cbfa6f77281f5dce6839cb47731198e86ccbe846", "notes": "Arreglo del Error 500: si una clave de Tradier (sobre todo produccion) devuelve datos raros o falla, el grafico ya NO da un Error 500 crudo \u2014 muestra un mensaje claro (revisa o quita tu clave en Config) y registra el detalle. Los indicadores tambien rechazan NaN/infinito. Llega por auto-update."}
+{
+  "version": "0.5.27",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.27/OptionsDesk-Setup-0.5.27.exe",
+  "sha256": "b9832e988dae0e3be8fdfe637de9526b6686986758a635cdb3566f73cfd876ba",
+  "notes": "La ventana ya no abre recortada: se ajusta a la pantalla y queda centrada, asi los botones de minimizar/maximizar/cerrar siempre se ven (antes en pantallas pequenas o con escalado de Windows 125%/150% se salia por la derecha). Incluye el arreglo del Error 500 de 0.5.26. Llega por auto-update."
+}
