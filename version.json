@@ -1,6 +1,6 @@
 {
-  "version": "0.5.52",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.52/OptionsDesk-Setup-0.5.52.exe",
-  "sha256": "b80de3e8f31779b4a97a92d0487d42721d6bf893a16cf14aca9a8167d8292b3b",
-  "notes": "Ventana abre maximizada y ajustada al monitor + botones de ventana siempre visibles. Incluye rastro de ingresos de la Rueda + escaner por Return on Basis."
+  "version": "0.5.53",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.53/OptionsDesk-Setup-0.5.53.exe",
+  "sha256": "b5265d7543947d800837b8792948205b16e68f97e3e67cdbd85c6a8a0a2220c8",
+  "notes": "Historial del Detector: ultimas 10 estrategias, lineas gruesas en la ruptura, nombre de la estrategia y sin contradicciones."
 }
