@@ -1,6 +1,6 @@
 {
-  "version": "0.5.44",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.44/OptionsDesk-Setup-0.5.44.exe",
-  "sha256": "19cefc8157645c8511c19ade1127f50e06c082cc0759bd9a0f05266ce7f30695",
-  "notes": "La Rueda (covered calls / cash-secured put) — analizador solo lectura, blindado al administrador. Basado en el estudio de 7 libros."
+  "version": "0.5.45",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.45/OptionsDesk-Setup-0.5.45.exe",
+  "sha256": "9bda710456d380a2b532a87d065c81c09230874d2fa3a36f35f527aa6d728ac6",
+  "notes": "Ejecucion de la Rueda: vender covered calls y cash-secured puts detras del PIN, con verificacion de cobertura (nunca naked). Explicacion sencilla integrada."
 }
