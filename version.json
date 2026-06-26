@@ -1,6 +1,6 @@
 {
-  "version": "0.5.55",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.55/OptionsDesk-Setup-0.5.55.exe",
-  "sha256": "44c2204247dc985554144aec6a313b6a3a92841012f00d58990afbd12493f106",
-  "notes": "Acceso a la Rueda llega a otros usuarios (login propio) + Cambio por temporalidad en el grafico (1h/1d/1sem/1mes/3m/1ano)."
+  "version": "0.5.56",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.56/OptionsDesk-Setup-0.5.56.exe",
+  "sha256": "0ef97f1355ed2811fa3015647fec59959facb408ed591d6c2abdb822910ba6c4",
+  "notes": "Auto-update cada 3 horas (no solo al abrir) + registro en server.log. Incluye acceso a la Rueda multi-usuario y cambio por temporalidad."
 }
