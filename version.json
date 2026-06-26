@@ -1,6 +1,6 @@
 {
-  "version": "0.5.54",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.54/OptionsDesk-Setup-0.5.54.exe",
-  "sha256": "aeedfa9444f7eb413e61e0038b4af67fd575fd68003085ad55a27627229d6df3",
-  "notes": "La estrella de favorito sale en TODAS las secciones de Mercado (subidas, bajadas, activas)."
+  "version": "0.5.55",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.55/OptionsDesk-Setup-0.5.55.exe",
+  "sha256": "44c2204247dc985554144aec6a313b6a3a92841012f00d58990afbd12493f106",
+  "notes": "Acceso a la Rueda llega a otros usuarios (login propio) + Cambio por temporalidad en el grafico (1h/1d/1sem/1mes/3m/1ano)."
 }
