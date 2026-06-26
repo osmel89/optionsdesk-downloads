@@ -1,6 +1,6 @@
 {
-  "version": "0.5.49",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.49/OptionsDesk-Setup-0.5.49.exe",
-  "sha256": "9e61eec9f2acf84f2ec17a214cc5c4462892104f64354ab262ceb06423db13ff",
-  "notes": "Detector: historial en el grafico (ultimas 5 estrategias que se dieron, dibujadas con sus lineas, preferentemente en 1 hora)."
+  "version": "0.5.50",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.50/OptionsDesk-Setup-0.5.50.exe",
+  "sha256": "33597b7b99055ac4e0f2c163d7570a170d560a8ed8b8558d13b0d06dc587f1fb",
+  "notes": "Herramientas de dibujo (TC2000) en el grafico: tendencia, horizontal, vertical, rayo, rectangulo, ancladas al precio/tiempo y guardadas por simbolo."
 }
