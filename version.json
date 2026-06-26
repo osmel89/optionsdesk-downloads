@@ -1,6 +1,6 @@
 {
-  "version": "0.5.47",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.47/OptionsDesk-Setup-0.5.47.exe",
-  "sha256": "c2e7dd7a16d2a6d9e1b14dbe062dc7265fdfe5266a7ea2ee046513884f9c231b",
-  "notes": "Sugeridor de rolar (roll out / roll down con credito neto) + test de asignacion por dividendo, en la Rueda (solo admin)."
+  "version": "0.5.48",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.48/OptionsDesk-Setup-0.5.48.exe",
+  "sha256": "df70ab1e15f57c13453a17313f2a4c3ab4245f731c13272fa828d444b7073a91",
+  "notes": "Arreglo del grafico que se iba de pantalla al cambiar a una accion de precio muy distinto + marca de spread bid/ask ancho en la watchlist."
 }
