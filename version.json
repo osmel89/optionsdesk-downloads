@@ -1,6 +1,6 @@
 {
-  "version": "0.5.58",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.58/OptionsDesk-Setup-0.5.58.exe",
-  "sha256": "58742b67c319b80f5e97fcfca83ae0bf4083af08492411599cdf849679e83ce1",
-  "notes": "Oportunidad call/put bien alineada: conteo solo direccional + mensaje sin senal clara especifico (nombra los factores)."
+  "version": "0.5.59",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.59/OptionsDesk-Setup-0.5.59.exe",
+  "sha256": "563821fba5bcd7d6a0a895bd70a6152489c2261d464095027b18efbaa1fb3933",
+  "notes": "Escalera de strikes mas clara y honesta: marca ITM/ATM/OTM y agrega 'Prob. ganar' (cubrir el costo) junto a 'Acaba ITM', para no confundir un strike ya dentro del dinero. La Rueda ahora opera SEMANAL por defecto (~7 dias) con selector de vencimiento. Nuevo boton 'Re-verificar acceso' en la Rueda para refrescar el permiso sin reiniciar. Llega por auto-update."
 }
