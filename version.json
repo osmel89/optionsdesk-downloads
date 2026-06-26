@@ -1,6 +1,6 @@
 {
-  "version": "0.5.57",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.57/OptionsDesk-Setup-0.5.57.exe",
-  "sha256": "a53af7d012a62295e532a65758d6658ed7da893349989bf07f13617a55b741e3",
-  "notes": "Detector coincide con la vela del grafico (hanger E10, martillo E5/E7, invalidacion de gaps) + posiciones abiertas en Vigilancia con Ver/vender + permiso Rueda al abrir la app."
+  "version": "0.5.58",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.58/OptionsDesk-Setup-0.5.58.exe",
+  "sha256": "58742b67c319b80f5e97fcfca83ae0bf4083af08492411599cdf849679e83ce1",
+  "notes": "Oportunidad call/put bien alineada: conteo solo direccional + mensaje sin senal clara especifico (nombra los factores)."
 }
