@@ -1,6 +1,6 @@
 {
-  "version": "0.5.51",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.51/OptionsDesk-Setup-0.5.51.exe",
-  "sha256": "1160254aed47adf9934a4c724d33c66829bdbd525a5efeb37221e67f66f16bb8",
-  "notes": "Rastro de ingresos de la Rueda (solo admin) + escaner de la Rueda rankeado por Return on Basis (anualizado = referencial)."
+  "version": "0.5.52",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.52/OptionsDesk-Setup-0.5.52.exe",
+  "sha256": "b80de3e8f31779b4a97a92d0487d42721d6bf893a16cf14aca9a8167d8292b3b",
+  "notes": "Ventana abre maximizada y ajustada al monitor + botones de ventana siempre visibles. Incluye rastro de ingresos de la Rueda + escaner por Return on Basis."
 }
