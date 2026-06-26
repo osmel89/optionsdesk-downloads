@@ -1,6 +1,6 @@
 {
-  "version": "0.5.45",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.45/OptionsDesk-Setup-0.5.45.exe",
-  "sha256": "9bda710456d380a2b532a87d065c81c09230874d2fa3a36f35f527aa6d728ac6",
-  "notes": "Ejecucion de la Rueda: vender covered calls y cash-secured puts detras del PIN, con verificacion de cobertura (nunca naked). Explicacion sencilla integrada."
+  "version": "0.5.46",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.46/OptionsDesk-Setup-0.5.46.exe",
+  "sha256": "851645813fe30f08e3af9fa1237fa33071dad4f533c7d39ddd94dfda19cbd16f",
+  "notes": "Ventana maximizada al abrir (ajustada al monitor) + panel solo-admin en Mercado: oportunidades de luz verde para la Rueda (buena prima)."
 }
