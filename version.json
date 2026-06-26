@@ -1,6 +1,6 @@
 {
-  "version": "0.5.48",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.48/OptionsDesk-Setup-0.5.48.exe",
-  "sha256": "df70ab1e15f57c13453a17313f2a4c3ab4245f731c13272fa828d444b7073a91",
-  "notes": "Arreglo del grafico que se iba de pantalla al cambiar a una accion de precio muy distinto + marca de spread bid/ask ancho en la watchlist."
+  "version": "0.5.49",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.49/OptionsDesk-Setup-0.5.49.exe",
+  "sha256": "9e61eec9f2acf84f2ec17a214cc5c4462892104f64354ab262ceb06423db13ff",
+  "notes": "Detector: historial en el grafico (ultimas 5 estrategias que se dieron, dibujadas con sus lineas, preferentemente en 1 hora)."
 }
