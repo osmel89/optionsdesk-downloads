@@ -1,6 +1,0 @@
-{
-  "version": "0.5.64",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.64/OptionsDesk-Setup-0.5.64.exe",
-  "sha256": "f3ec32acf964889621bbb0f2b2c98d1153fd696184a1d10393d9065cbe854d96",
-  "notes": "Menu de capas a la IZQUIERDA con interruptores y pestanita colapsable (sin el boton Capas), colores de MA alineados. Arreglos: /ui/ con ruta absoluta y cada update limpia el codigo viejo (in-place limpio). Llega por auto-update SIN cerrar la app (~20s)."
-}
