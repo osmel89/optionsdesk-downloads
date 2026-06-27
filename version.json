@@ -1,6 +1,6 @@
 {
-  "version": "0.5.62",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.62/OptionsDesk-Setup-0.5.62.exe",
-  "sha256": "40089b428edef33c5e3f5ca7fe77f632dc740e105c321908cef6e6a36a840044",
-  "notes": "Menu redisenado: las casillas de capas pasan a un PANEL lateral derecho agrupado (Medias/Indicadores/Senales/Posicion/Herramientas), sin tapar el eje de precio. Boton 'Capas' para ocultar/mostrar y agrandar el grafico. Llega por auto-update."
+  "version": "0.5.61",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.61/OptionsDesk-Setup-0.5.61.exe",
+  "sha256": "c4427b088e4751b538037257eea236cd574bd13baa7a41532ab76b458562a018",
+  "notes": "Pop-up de analisis: la Oportunidad (CALL/PUT) y el Detector ya NO tapan el grafico. Insignia compacta que PARPADEA cuando hay algo importante; clic = ventana grande y legible con todo el detalle. Cierra con X, clic fuera o Esc. Llega por auto-update."
 }
