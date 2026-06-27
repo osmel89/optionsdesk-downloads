@@ -1,6 +1,6 @@
 {
-  "version": "0.5.61",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.61/OptionsDesk-Setup-0.5.61.exe",
-  "sha256": "c4427b088e4751b538037257eea236cd574bd13baa7a41532ab76b458562a018",
-  "notes": "Pop-up de analisis: la Oportunidad (CALL/PUT) y el Detector ya NO tapan el grafico. Insignia compacta que PARPADEA cuando hay algo importante; clic = ventana grande y legible con todo el detalle. Cierra con X, clic fuera o Esc. Llega por auto-update."
+  "version": "0.5.64",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.64/OptionsDesk-Setup-0.5.64.exe",
+  "sha256": "f3ec32acf964889621bbb0f2b2c98d1153fd696184a1d10393d9065cbe854d96",
+  "notes": "Menu de capas a la IZQUIERDA con interruptores y pestanita colapsable (sin el boton Capas), colores de MA alineados. Arreglos: /ui/ con ruta absoluta y cada update limpia el codigo viejo (in-place limpio). Llega por auto-update SIN cerrar la app (~20s)."
 }
