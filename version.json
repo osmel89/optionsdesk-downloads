@@ -1,6 +1,6 @@
 {
-  "version": "0.5.163",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.163/OptionsDesk-Setup-0.5.163.exe",
-  "sha256": "254d67fbc4262235f7c7df6154fde9ff9986b3dee7a597747aeb98a5043789f8",
-  "notes": "Honestidad en papel: sim vs mercado real en ordenes trabajando; nota de ventana rodante en Reportes."
+  "version": "0.5.164",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.164/OptionsDesk-Setup-0.5.164.exe",
+  "sha256": "58fbc56bfce322a8c45189b5c6c10f3fc9c39caf02ea09b424ba90ee9e57e8b2",
+  "notes": "Escaneres 1h: hora del gatillo con dia (ayer/fecha) + aviso antes de las 10:00 ET."
 }
