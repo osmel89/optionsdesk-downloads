@@ -1,6 +1,6 @@
 {
-  "version": "0.5.162",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.162/OptionsDesk-Setup-0.5.162.exe",
-  "sha256": "1d72faed47029f940bb2e0a45bd7da7a6fd7cd42fc6821c4fd626e1b306d4089",
-  "notes": "Vigilancia: tabla a todo el ancho (botones quitar dentro del marco)."
+  "version": "0.5.163",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.163/OptionsDesk-Setup-0.5.163.exe",
+  "sha256": "254d67fbc4262235f7c7df6154fde9ff9986b3dee7a597747aeb98a5043789f8",
+  "notes": "Honestidad en papel: sim vs mercado real en ordenes trabajando; nota de ventana rodante en Reportes."
 }
