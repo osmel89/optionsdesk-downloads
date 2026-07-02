@@ -1,6 +1,6 @@
 {
-  "version": "0.5.161",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.161/OptionsDesk-Setup-0.5.161.exe",
-  "sha256": "ef420112dca8a4f9e9e40da3ad96ab5a67b4b8583504f628286b01f2a9e69dd6",
-  "notes": "Columna PRE-MARKET en tiempo real en la Vigilancia."
+  "version": "0.5.162",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.162/OptionsDesk-Setup-0.5.162.exe",
+  "sha256": "1d72faed47029f940bb2e0a45bd7da7a6fd7cd42fc6821c4fd626e1b306d4089",
+  "notes": "Vigilancia: tabla a todo el ancho (botones quitar dentro del marco)."
 }
