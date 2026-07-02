@@ -1,6 +1,6 @@
 {
-  "version": "0.5.165",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.165/OptionsDesk-Setup-0.5.165.exe",
-  "sha256": "d156a99909b7dfb5be1af24eb39dc0334186137d02223fee7aab3f343cc3044e",
-  "notes": "Avisos con universo completo del escaner + verificacion de entrega real del SMS."
+  "version": "0.5.166",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.166/OptionsDesk-Setup-0.5.166.exe",
+  "sha256": "613ff8c25f2ad7dde29776b37132d17c1865b3d05ae8f5a44bd7f19a08398c4a",
+  "notes": "Avisos con foto del grafico + varios telefonos."
 }
