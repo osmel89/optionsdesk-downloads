@@ -1,6 +1,6 @@
 {
-  "version": "0.5.167",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.167/OptionsDesk-Setup-0.5.167.exe",
-  "sha256": "00c586b4b432bb837abadc870de58cede15796653e212e3548e418e603819c5a",
-  "notes": "Explicacion clara del error 30007 del SMS (filtrado de operadora) con la accion concreta."
+  "version": "0.5.168",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.168/OptionsDesk-Setup-0.5.168.exe",
+  "sha256": "6b8ae10b323ce2529b1835938dd8b5f09b1d863ea568ba55bf0e92169da1e7fe",
+  "notes": "Nota de vela en formacion en el Detector del grafico."
 }
