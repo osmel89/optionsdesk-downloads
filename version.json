@@ -1,6 +1,6 @@
 {
-  "version": "0.5.171",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.171/OptionsDesk-Setup-0.5.171.exe",
-  "sha256": "2fe39091bbb371f4cd9aa3367e576eb68b43f387ccf84c15fc73058ab1502363",
-  "notes": "Coherencia Mercado-Senales (direccion del Detector contundente) + tarjeta E15 por temporalidad."
+  "version": "0.5.172",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.172/OptionsDesk-Setup-0.5.172.exe",
+  "sha256": "730acd05c5f1dbf50fbc0c58a903a71f397165051ca31c9d0cd949bd524c9f15",
+  "notes": "Estrategia OptionsDesk v2 (anticipador): compresion + ballenas + catalizador, ruptura, radar y embudo."
 }
