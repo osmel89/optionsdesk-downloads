@@ -1,6 +1,6 @@
 {
-  "version": "0.5.169",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.169/OptionsDesk-Setup-0.5.169.exe",
-  "sha256": "fa84269ce5fca8d0a5f6b5df7374c49320a1f1c81ec19253e70fc65f4394b735",
-  "notes": "Estado de la verificacion toll-free visible en Probar SMS."
+  "version": "0.5.170",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.170/OptionsDesk-Setup-0.5.170.exe",
+  "sha256": "1b4fb2b2974338585392170e8c3ad54c3f154d64be029f756fe503cf6484548f",
+  "notes": "Campanita de alertas con sonido + capas del grafico encendidas de fabrica."
 }
