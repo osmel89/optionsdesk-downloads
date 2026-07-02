@@ -1,6 +1,6 @@
 {
-  "version": "0.5.173",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.173/OptionsDesk-Setup-0.5.173.exe",
-  "sha256": "71980f57b22ef30bb98dfe4b9ef23cfd58b2f850988f28e33de563b10d9945f9",
-  "notes": "Gap de HOY en estrategias de gap (fix E8 fantasma) + Senales toma la direccion del gatillo del libro."
+  "version": "0.5.174",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.174/OptionsDesk-Setup-0.5.174.exe",
+  "sha256": "2ff333f2e7aac01a92bb5ad50a897bfbc35ed3871319945cf8f2c1b7d49bbe93",
+  "notes": "Historico de velas desde enero de 2022 (diario y semanal)."
 }
