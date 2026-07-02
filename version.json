@@ -1,6 +1,6 @@
 {
-  "version": "0.5.164",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.164/OptionsDesk-Setup-0.5.164.exe",
-  "sha256": "58fbc56bfce322a8c45189b5c6c10f3fc9c39caf02ea09b424ba90ee9e57e8b2",
-  "notes": "Escaneres 1h: hora del gatillo con dia (ayer/fecha) + aviso antes de las 10:00 ET."
+  "version": "0.5.165",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.165/OptionsDesk-Setup-0.5.165.exe",
+  "sha256": "d156a99909b7dfb5be1af24eb39dc0334186137d02223fee7aab3f343cc3044e",
+  "notes": "Avisos con universo completo del escaner + verificacion de entrega real del SMS."
 }
