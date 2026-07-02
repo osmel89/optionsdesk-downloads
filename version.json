@@ -1,6 +1,6 @@
 {
-  "version": "0.5.159",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.159/OptionsDesk-Setup-0.5.159.exe",
-  "sha256": "c7a242d77c62b0cb0d1f74a9f858092dd5bba913ee3f7bdee75bf4b6142dcab6",
-  "notes": "La estrategia se marca en la vela exacta de la ruptura; historial y lineas honestas. Las marcas historicas del grafico se moveran a la vela real (es la correccion, no un error)."
+  "version": "0.5.160",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.160/OptionsDesk-Setup-0.5.160.exe",
+  "sha256": "5712a47c24e8fbcccb0a48c23aea8926a649402bc0fb3a3cdac65094ba6381b1",
+  "notes": "Portafolio estilo broker profesional; confluencia intradia 1h; avisos con QR; Reportes con drawdown y clic-para-filtrar."
 }
