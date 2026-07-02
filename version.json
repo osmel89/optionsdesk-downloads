@@ -1,6 +1,6 @@
 {
-  "version": "0.5.172",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.172/OptionsDesk-Setup-0.5.172.exe",
-  "sha256": "730acd05c5f1dbf50fbc0c58a903a71f397165051ca31c9d0cd949bd524c9f15",
-  "notes": "Estrategia OptionsDesk v2 (anticipador): compresion + ballenas + catalizador, ruptura, radar y embudo."
+  "version": "0.5.173",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.173/OptionsDesk-Setup-0.5.173.exe",
+  "sha256": "71980f57b22ef30bb98dfe4b9ef23cfd58b2f850988f28e33de563b10d9945f9",
+  "notes": "Gap de HOY en estrategias de gap (fix E8 fantasma) + Senales toma la direccion del gatillo del libro."
 }
