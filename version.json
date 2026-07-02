@@ -1,6 +1,6 @@
 {
-  "version": "0.5.170",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.170/OptionsDesk-Setup-0.5.170.exe",
-  "sha256": "1b4fb2b2974338585392170e8c3ad54c3f154d64be029f756fe503cf6484548f",
-  "notes": "Campanita de alertas con sonido + capas del grafico encendidas de fabrica."
+  "version": "0.5.171",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.171/OptionsDesk-Setup-0.5.171.exe",
+  "sha256": "2fe39091bbb371f4cd9aa3367e576eb68b43f387ccf84c15fc73058ab1502363",
+  "notes": "Coherencia Mercado-Senales (direccion del Detector contundente) + tarjeta E15 por temporalidad."
 }
