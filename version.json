@@ -1,6 +1,6 @@
 {
-  "version": "0.5.168",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.168/OptionsDesk-Setup-0.5.168.exe",
-  "sha256": "6b8ae10b323ce2529b1835938dd8b5f09b1d863ea568ba55bf0e92169da1e7fe",
-  "notes": "Nota de vela en formacion en el Detector del grafico."
+  "version": "0.5.169",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.169/OptionsDesk-Setup-0.5.169.exe",
+  "sha256": "fa84269ce5fca8d0a5f6b5df7374c49320a1f1c81ec19253e70fc65f4394b735",
+  "notes": "Estado de la verificacion toll-free visible en Probar SMS."
 }
