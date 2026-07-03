@@ -1,6 +1,6 @@
 {
-  "version": "0.5.175",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.175/OptionsDesk-Setup-0.5.175.exe",
-  "sha256": "4e54f8e86cebff7390705303264ee0c583d7253c7133c496000997aa568146e0",
-  "notes": "Nueva pestana Estadistica: historial real de cada estrategia (replay diario desde 2022) con % de acierto y tamano de ganancia, visible en Senales, grafico y Mercado."
+  "version": "0.5.176",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.176/OptionsDesk-Setup-0.5.176.exe",
+  "sha256": "37ae8669078176f74f75c3d2612d63cb4fd9097b1db2699a5289f8e68f5d9eb8",
+  "notes": "Estadistica en 3 temporalidades (Diario/1h/15min), solo estrategias activas, progreso visible y data vieja al instante; semilla de fabrica versionada. Correcciones de honestidad tras repaso adversarial."
 }
