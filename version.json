@@ -1,6 +1,6 @@
 {
-  "version": "0.5.181",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.181/OptionsDesk-Setup-0.5.181.exe",
-  "sha256": "475cdc7afd9b6034601e5e0d32fe3451479227ebc09b628c38b538f259abb401",
-  "notes": "SMS gestionado (servidor central en Cloudflare): el cliente solo pone su numero; los SMS salen por tu Twilio a salvo en el servidor. Nueva seccion en Config."
+  "version": "0.5.182",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.182/OptionsDesk-Setup-0.5.182.exe",
+  "sha256": "4bd532e19bedbd9935729bf2719e40aa3b46a2eb55fd01da10187e8b2e77088e",
+  "notes": "Avisos al telefono super simples: solo tu numero + codigo de verificacion. Servidor y clave de fabrica; SMS solo a numeros verificados. Seguridad reforzada (OTP + topes anti-abuso + cache de velas)."
 }
