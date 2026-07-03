@@ -1,6 +1,6 @@
 {
-  "version": "0.5.178",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.178/OptionsDesk-Setup-0.5.178.exe",
-  "sha256": "f58e368dcd7c2f788dc2f0e45a15299d3f8461049b05ade1d50d9cf4fbdc1a4c",
-  "notes": "Mas historia intradia + arreglo del tamano de ganancia (historico reconstruido) + coherencia grafico-historico + pulido del dashboard, tras auditoria completa."
+  "version": "0.5.179",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.179/OptionsDesk-Setup-0.5.179.exe",
+  "sha256": "fac53b70bef76326560d032314fef5a69f939fbabcfaaa7922c1241525aa5cb2",
+  "notes": "Avisos de posicion (ganancias/perdida/earnings) a la campana + push/SMS con foto + borrar alertas de la campana + verificar estrategias en el grafico."
 }
