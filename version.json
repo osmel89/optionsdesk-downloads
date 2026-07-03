@@ -1,6 +1,6 @@
 {
-  "version": "0.5.176",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.176/OptionsDesk-Setup-0.5.176.exe",
-  "sha256": "37ae8669078176f74f75c3d2612d63cb4fd9097b1db2699a5289f8e68f5d9eb8",
-  "notes": "Estadistica en 3 temporalidades (Diario/1h/15min), solo estrategias activas, progreso visible y data vieja al instante; semilla de fabrica versionada. Correcciones de honestidad tras repaso adversarial."
+  "version": "0.5.177",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.177/OptionsDesk-Setup-0.5.177.exe",
+  "sha256": "43f0c78801f2081a2f65eb99f761d74cab81e97616eb47554f9121c9a4acc4b8",
+  "notes": "Estadistica rediseñada como dashboard + ganancia estimada de la opcion por estrategia (conservadora/equilibrada/agresiva, modelo, mejor caso) + arreglo del filtro por simbolo."
 }
