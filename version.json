@@ -1,6 +1,6 @@
 {
-  "version": "0.5.179",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.179/OptionsDesk-Setup-0.5.179.exe",
-  "sha256": "fac53b70bef76326560d032314fef5a69f939fbabcfaaa7922c1241525aa5cb2",
-  "notes": "Avisos de posicion (ganancias/perdida/earnings) a la campana + push/SMS con foto + borrar alertas de la campana + verificar estrategias en el grafico."
+  "version": "0.5.180",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.180/OptionsDesk-Setup-0.5.180.exe",
+  "sha256": "c41702c89fb2d5a181d0b64f4ab258012ca8203b34b6afeb810473c5a2a015b1",
+  "notes": "«Ver en el grafico» preciso: solo con simbolo seleccionado y marca solo esa estrategia en ese simbolo/temporalidad."
 }
