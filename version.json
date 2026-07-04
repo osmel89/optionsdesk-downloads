@@ -1,6 +1,6 @@
 {
-  "version": "0.5.187",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.187/OptionsDesk-Setup-0.5.187.exe",
-  "sha256": "933c3456247ebc0255bbeee28828bf261e32088b39c18bb2fc88ead0734468ba",
-  "notes": "Mas simple: se quitaron 'Ultimas 10 estrategias' y 'ver todas'. Al activar el Detector se ven la senal actual + todas las estrategias activas que se dieron en la vista. Un solo interruptor."
+  "version": "0.5.188",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.188/OptionsDesk-Setup-0.5.188.exe",
+  "sha256": "fb6364dabc955f5ee12891fff845ccfedc92f3b05ebfa1da0345e9f0ba133aed",
+  "notes": "Grafico limpio: el Detector dibuja solo las lineas del setup actual; las estrategias que se dieron van en su propio interruptor apagado por defecto (arregla el amontonamiento). En Ver en el grafico, clic en cada flecha dibuja su bosquejo."
 }
