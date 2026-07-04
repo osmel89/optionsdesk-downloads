@@ -1,6 +1,6 @@
 {
-  "version": "0.5.185",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.185/OptionsDesk-Setup-0.5.185.exe",
-  "sha256": "80942640e47d2a9b8f75798a43d1f0a2ff79a0302a80d992c1fb8a121b7e66e5",
-  "notes": "Ver en el grafico ahora muestra los disparos profundos (3+ anos, con exito/fallo). Estadistica intradia limpia (sin pre/after-market)."
+  "version": "0.5.186",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.186/OptionsDesk-Setup-0.5.186.exe",
+  "sha256": "4a42fc084c4ee0b99409f2ea48678e6e0087a04c63f2accea614446afd01324d",
+  "notes": "Arreglo: las flechas de las estrategias en el grafico volvieron a aparecer (un cambio de 0.5.185 las tiraba). Ver en el grafico y Ultimas 10 funcionan de nuevo."
 }
