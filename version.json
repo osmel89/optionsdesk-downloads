@@ -1,6 +1,6 @@
 {
-  "version": "0.5.189",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.189/OptionsDesk-Setup-0.5.189.exe",
-  "sha256": "162227dca51593d361fa1acedd7f914edd1807b4a9c886b5ab3bda73c54abce7",
-  "notes": "Ranking de acciones por estrategia en Estadistica (que simbolos la dan mas + su %) con Ver en el grafico; y Movimiento/resultado en el grafico (Revisar): hasta donde llego el precio + el % por perfil (modelo mejor caso)."
+  "version": "0.5.190",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.190/OptionsDesk-Setup-0.5.190.exe",
+  "sha256": "572f7bac2e8affc1d8c652bb9eacdcdc4fd297ada2a9e47ee5d41e199dc7bd7c",
+  "notes": "Ranking de acciones por % mas alto primero (muestras chicas al final); arreglo de las etiquetas % del movimiento que se encimaban."
 }
