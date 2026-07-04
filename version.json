@@ -1,6 +1,6 @@
 {
-  "version": "0.5.188",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.188/OptionsDesk-Setup-0.5.188.exe",
-  "sha256": "fb6364dabc955f5ee12891fff845ccfedc92f3b05ebfa1da0345e9f0ba133aed",
-  "notes": "Grafico limpio: el Detector dibuja solo las lineas del setup actual; las estrategias que se dieron van en su propio interruptor apagado por defecto (arregla el amontonamiento). En Ver en el grafico, clic en cada flecha dibuja su bosquejo."
+  "version": "0.5.189",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.189/OptionsDesk-Setup-0.5.189.exe",
+  "sha256": "162227dca51593d361fa1acedd7f914edd1807b4a9c886b5ab3bda73c54abce7",
+  "notes": "Ranking de acciones por estrategia en Estadistica (que simbolos la dan mas + su %) con Ver en el grafico; y Movimiento/resultado en el grafico (Revisar): hasta donde llego el precio + el % por perfil (modelo mejor caso)."
 }
