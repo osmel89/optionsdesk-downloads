@@ -1,6 +1,6 @@
 {
-  "version": "0.5.184",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.184/OptionsDesk-Setup-0.5.184.exe",
-  "sha256": "f89b01cad82ff0799d0e690a23ee26b7c58eb852f40e5e4515d8bc1f3969bd24",
-  "notes": "Estadistica PROFUNDA (3+ anos intradia, 107 simbolos, 541k disparos ya cocinados). Motor mucho mas rapido (O(N2)->O(N)). Hora de CIERRE en el grafico como TC2000."
+  "version": "0.5.185",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.185/OptionsDesk-Setup-0.5.185.exe",
+  "sha256": "80942640e47d2a9b8f75798a43d1f0a2ff79a0302a80d992c1fb8a121b7e66e5",
+  "notes": "Ver en el grafico ahora muestra los disparos profundos (3+ anos, con exito/fallo). Estadistica intradia limpia (sin pre/after-market)."
 }
