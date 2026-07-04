@@ -1,6 +1,6 @@
 {
-  "version": "0.5.186",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.186/OptionsDesk-Setup-0.5.186.exe",
-  "sha256": "4a42fc084c4ee0b99409f2ea48678e6e0087a04c63f2accea614446afd01324d",
-  "notes": "Arreglo: las flechas de las estrategias en el grafico volvieron a aparecer (un cambio de 0.5.185 las tiraba). Ver en el grafico y Ultimas 10 funcionan de nuevo."
+  "version": "0.5.187",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.187/OptionsDesk-Setup-0.5.187.exe",
+  "sha256": "933c3456247ebc0255bbeee28828bf261e32088b39c18bb2fc88ead0734468ba",
+  "notes": "Mas simple: se quitaron 'Ultimas 10 estrategias' y 'ver todas'. Al activar el Detector se ven la senal actual + todas las estrategias activas que se dieron en la vista. Un solo interruptor."
 }
