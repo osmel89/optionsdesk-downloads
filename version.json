@@ -1,6 +1,6 @@
 {
-  "version": "0.5.182",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.182/OptionsDesk-Setup-0.5.182.exe",
-  "sha256": "4bd532e19bedbd9935729bf2719e40aa3b46a2eb55fd01da10187e8b2e77088e",
-  "notes": "Avisos al telefono super simples: solo tu numero + codigo de verificacion. Servidor y clave de fabrica; SMS solo a numeros verificados. Seguridad reforzada (OTP + topes anti-abuso + cache de velas)."
+  "version": "0.5.183",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.183/OptionsDesk-Setup-0.5.183.exe",
+  "sha256": "d4fecbb9407f57f96a9545899e754aa6b552ef8664c66add2db063ddb1f5b635",
+  "notes": "Universo ampliado a ~107 acciones/ETFs liquidos. Quitada la seccion Twilio avanzada (avisos simples: numero + codigo). Base para el historico profundo (estadistica profunda en la proxima version)."
 }
