@@ -1,6 +1,6 @@
 {
-  "version": "0.5.183",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.183/OptionsDesk-Setup-0.5.183.exe",
-  "sha256": "d4fecbb9407f57f96a9545899e754aa6b552ef8664c66add2db063ddb1f5b635",
-  "notes": "Universo ampliado a ~107 acciones/ETFs liquidos. Quitada la seccion Twilio avanzada (avisos simples: numero + codigo). Base para el historico profundo (estadistica profunda en la proxima version)."
+  "version": "0.5.184",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.184/OptionsDesk-Setup-0.5.184.exe",
+  "sha256": "f89b01cad82ff0799d0e690a23ee26b7c58eb852f40e5e4515d8bc1f3969bd24",
+  "notes": "Estadistica PROFUNDA (3+ anos intradia, 107 simbolos, 541k disparos ya cocinados). Motor mucho mas rapido (O(N2)->O(N)). Hora de CIERRE en el grafico como TC2000."
 }
