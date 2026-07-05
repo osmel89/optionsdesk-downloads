@@ -1,6 +1,6 @@
 {
-  "version": "0.5.191",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.191/OptionsDesk-Setup-0.5.191.exe",
-  "sha256": "388a29bd7f552a0ca2cdb52ad6e61abc960acd9f1ff2f6cc4b01cacb200a7ec3",
-  "notes": "Los disparos que fallaron ahora se marcan con una X roja en el grafico (Movimiento/resultado)."
+  "version": "0.5.192",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.192/OptionsDesk-Setup-0.5.192.exe",
+  "sha256": "62245700c045847673c89dd2d2592be022613ffbeb7b9f3070d9079064baadee",
+  "notes": "Nuevo Top de estrategias por Expectativa en Estadistica (acierto + ganancia - perdidas) y un interruptor para activar/desactivar cada estrategia en todo el programa."
 }
