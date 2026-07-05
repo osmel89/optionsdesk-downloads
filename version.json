@@ -1,6 +1,6 @@
 {
-  "version": "0.5.198",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.198/OptionsDesk-Setup-0.5.198.exe",
-  "sha256": "33b1cd3b38c4f200423a375206d090edfaecc7bdca3c26e56d7a48fc6dba1ecc",
-  "notes": "Nueva regla de calificacion honesta en Estadistica (acierta si toca primero el objetivo, falla si toca primero el stop), todo el historico re-calificado desde velas reales, y auditoria completa con 28 arreglos (graficos, avisos, seguridad)."
+  "version": "0.5.199",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.199/OptionsDesk-Setup-0.5.199.exe",
+  "sha256": "183a4ee4510ac03eb480e51c46ab1c343519ed845975796b6cc450a07d51de49",
+  "notes": "Cada disparo que no se dio ahora explica su porque en el grafico: el stop se toco primero, no llego al objetivo, o cerro en contra al final de la ventana."
 }
