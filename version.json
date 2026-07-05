@@ -1,6 +1,6 @@
 {
-  "version": "0.5.200",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.200/OptionsDesk-Setup-0.5.200.exe",
-  "sha256": "c05af64249fcae07ac2579fbea2d08c4a89933dfe48f5007fff0934b8acd310c",
-  "notes": "Nueva vista comparativa SIN STOP: cada disparo del grafico muestra ambas verdades (con stop y sin stop, con la ganancia estimada de la opcion si hubieras aguantado) y cada estrategia lleva su acierto y expectativa sin stop, aparte y con su propia base."
+  "version": "0.5.201",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.201/OptionsDesk-Setup-0.5.201.exe",
+  "sha256": "1a1d01ea84b02a26be3783789b540c246f21285725bffe6636a1a3ab75e0910d",
+  "notes": "La regla SIN STOP es ahora la principal en Estadistica: se dio si toco el objetivo o cerro positivo al final de la ventana; no se dio solo si termino en negativo. La vista con stop queda como comparativa. Cada una con su propia base declarada."
 }
