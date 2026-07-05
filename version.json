@@ -1,6 +1,6 @@
 {
-  "version": "0.5.195",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.195/OptionsDesk-Setup-0.5.195.exe",
-  "sha256": "3fba150f3edafe0b9804b2bc184f3adc8d7e3cec380512dce8f4189470fa0902",
-  "notes": "En Recomendaciones de Estadistica cada par muestra el nombre de la estrategia junto a su numero (para saber cual es sin recordar el numero)."
+  "version": "0.5.196",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.196/OptionsDesk-Setup-0.5.196.exe",
+  "sha256": "83795d530b4e583d109329e1b9947ed790eb4abdfa6f5856b9c9089669ab79d2",
+  "notes": "La barra de informacion del grafico ahora se puede mover: agarra el tirador y arrastrala donde quieras; recuerda la posicion."
 }
