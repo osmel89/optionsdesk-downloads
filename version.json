@@ -1,6 +1,6 @@
 {
-  "version": "0.5.194",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.194/OptionsDesk-Setup-0.5.194.exe",
-  "sha256": "a9855f307ae51f8a92683369bec7833b21126e0bea567302f4ea10378e75e626",
-  "notes": "Navegador de disparos en el grafico (recorrer una estrategia en cualquier accion, con filtro se dio / no se dio) y avisos al telefono unificados en Avisos por SMS (se quito ntfy)."
+  "version": "0.5.195",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.195/OptionsDesk-Setup-0.5.195.exe",
+  "sha256": "3fba150f3edafe0b9804b2bc184f3adc8d7e3cec380512dce8f4189470fa0902",
+  "notes": "En Recomendaciones de Estadistica cada par muestra el nombre de la estrategia junto a su numero (para saber cual es sin recordar el numero)."
 }
