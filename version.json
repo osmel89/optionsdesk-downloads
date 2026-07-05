@@ -1,6 +1,6 @@
 {
-  "version": "0.5.196",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.196/OptionsDesk-Setup-0.5.196.exe",
-  "sha256": "83795d530b4e583d109329e1b9947ed790eb4abdfa6f5856b9c9089669ab79d2",
-  "notes": "La barra de informacion del grafico ahora se puede mover: agarra el tirador y arrastrala donde quieras; recuerda la posicion."
+  "version": "0.5.197",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.197/OptionsDesk-Setup-0.5.197.exe",
+  "sha256": "97f734f0411b24e78c2d275b9211a904f83f261c8b1231ee91d95ad62541dbf3",
+  "notes": "Cada objeto de la barra del grafico se puede mover por separado: agarra un chip y sueltalo donde quieras; recuerda su sitio (doble clic lo repone, el boton reset repone todos)."
 }
