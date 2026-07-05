@@ -1,6 +1,6 @@
 {
-  "version": "0.5.199",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.199/OptionsDesk-Setup-0.5.199.exe",
-  "sha256": "183a4ee4510ac03eb480e51c46ab1c343519ed845975796b6cc450a07d51de49",
-  "notes": "Cada disparo que no se dio ahora explica su porque en el grafico: el stop se toco primero, no llego al objetivo, o cerro en contra al final de la ventana."
+  "version": "0.5.200",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.200/OptionsDesk-Setup-0.5.200.exe",
+  "sha256": "c05af64249fcae07ac2579fbea2d08c4a89933dfe48f5007fff0934b8acd310c",
+  "notes": "Nueva vista comparativa SIN STOP: cada disparo del grafico muestra ambas verdades (con stop y sin stop, con la ganancia estimada de la opcion si hubieras aguantado) y cada estrategia lleva su acierto y expectativa sin stop, aparte y con su propia base."
 }
