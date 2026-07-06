@@ -1,6 +1,6 @@
 {
-  "version": "0.5.214",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.214/OptionsDesk-Setup-0.5.214.exe",
-  "sha256": "5f0beda191cb85dd4171b37cabb3330202d8fdc861f9ca1d493a274891b1a13b",
-  "notes": "Portafolio: estimado de las ventas de hoy pendientes de liquidar en la ganancia del dia. Incluye Detector en la temporalidad del grafico (0.5.213) y foto dentro del SMS (0.5.212)."
+  "version": "0.5.215",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.215/OptionsDesk-Setup-0.5.215.exe",
+  "sha256": "d15ec6b85786e34542d858fb614344651634049bffcda6a6bd1fd915b3074804",
+  "notes": "El grafico coincide con Mercado y los avisos: el Detector evalua la vela CERRADA (sin parpadeo). Antes evaluaba la vela en formacion y la estrategia que Mercado marcaba desaparecia al abrir el grafico (caso NFLX E5). Incluye estimado de ventas de hoy (0.5.214)."
 }
