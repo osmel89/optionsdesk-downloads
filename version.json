@@ -1,6 +1,6 @@
 {
-  "version": "0.5.210",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.210/OptionsDesk-Setup-0.5.210.exe",
-  "sha256": "8d7c4cf76a12a8e4f7c6ee809677666c73ae924f530fb63240b366032c64fec3",
-  "notes": "Diagnostico de la foto en los avisos (motivo registrado si falla; boton Probar aviso con foto en Config). Incluye PIN recordado por hoy (0.5.209) y push por accion (0.5.208)."
+  "version": "0.5.211",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.211/OptionsDesk-Setup-0.5.211.exe",
+  "sha256": "78e2ab8ca76133c5674e95b341e99a32c10538ad452d16b730647ed151db1452",
+  "notes": "Quita el mensaje largo de arriba al desbloquear el PIN (tapaba el menu). Incluye diagnostico de la foto en avisos (0.5.210) y PIN recordado por hoy (0.5.209)."
 }
