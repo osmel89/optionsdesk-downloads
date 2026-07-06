@@ -1,6 +1,6 @@
 {
-  "version": "0.5.211",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.211/OptionsDesk-Setup-0.5.211.exe",
-  "sha256": "78e2ab8ca76133c5674e95b341e99a32c10538ad452d16b730647ed151db1452",
-  "notes": "Quita el mensaje largo de arriba al desbloquear el PIN (tapaba el menu). Incluye diagnostico de la foto en avisos (0.5.210) y PIN recordado por hoy (0.5.209)."
+  "version": "0.5.212",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.212/OptionsDesk-Setup-0.5.212.exe",
+  "sha256": "cbdcb6988ac403bf991fdf7d74905cbe33fdb893a422ce6a6801cbea47dd6535",
+  "notes": "La foto del grafico viaja DENTRO del SMS (MMS): hasta 4 graficos por aviso. Probar SMS envia la prueba con foto y diagnostica si falla. Incluye 0.5.209-211 (PIN por hoy, diagnostico push, menu limpio)."
 }
