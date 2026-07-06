@@ -1,6 +1,6 @@
 {
-  "version": "0.5.217",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.217/OptionsDesk-Setup-0.5.217.exe",
-  "sha256": "037738786eec5a7de0805082c6b00ed3661ce7595e5416e09a6931d178e360bb",
-  "notes": "Login SIEMPRE oscuro y legible (arregla el texto oscuro sobre tarjeta oscura en equipos con tema claro). Incluye estimado de hoy en Reportes (0.5.216) y grafico=Mercado (0.5.215)."
+  "version": "0.5.218",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.218/OptionsDesk-Setup-0.5.218.exe",
+  "sha256": "a46c84266a02ce7c89fb3feb1ac22f409ec881ec9c1aabd4bdfcb75200ce2690",
+  "notes": "Texto del login mas claro para clientes solo-OptionsDesk (sin la referencia a VISION ni PRO). Incluye login siempre legible (0.5.217) y estimado de hoy en Reportes (0.5.216)."
 }
