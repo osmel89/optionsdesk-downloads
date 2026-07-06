@@ -1,6 +1,6 @@
 {
-  "version": "0.5.205",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.205/OptionsDesk-Setup-0.5.205.exe",
-  "sha256": "1e3900e1228adf4316ccc30d270ddf7f7673d53bdfae8c48329c1054d12045d2",
-  "notes": "Dos monitores: maximizar/restaurar se quedan en el monitor de la ventana. Incluye planes od_plan (0.5.204), runtime VC (0.5.203) y gating Basico/Pro/MAX (0.5.202)."
+  "version": "0.5.206",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.206/OptionsDesk-Setup-0.5.206.exe",
+  "sha256": "b580acbd32bc7979885d57ae011de9ea61746622e76b4767f6ed8893db8b8b93",
+  "notes": "Avisos honestos tras feriado: contundentes intradia solo con vela de HOY (con fecha si es de otro dia) y campanita sin duplicados. Incluye maximizar multi-monitor (0.5.205) y planes od_plan (0.5.204)."
 }
