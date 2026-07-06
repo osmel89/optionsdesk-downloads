@@ -1,6 +1,6 @@
 {
-  "version": "0.5.208",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.208/OptionsDesk-Setup-0.5.208.exe",
-  "sha256": "960ba148ee9772c96251124c63ef79e7077bfb837f1da2ecdc102a7af7c963e1",
-  "notes": "Avisos push POR ACCION con la foto de su grafico y su detalle (como antes en ntfy). Incluye probabilidad de la estrategia en el grafico (0.5.207) y avisos honestos tras feriado (0.5.206)."
+  "version": "0.5.209",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.209/OptionsDesk-Setup-0.5.209.exe",
+  "sha256": "caebe497c13c3b1cb3b211e4d07fd9a2a6523faff8d2fac006fee6e7b0cd4ed1",
+  "notes": "El PIN se recuerda por HOY (las actualizaciones ya no lo piden; caduca al final del dia; Bloquear lo borra; el servidor sigue verificandolo en cada orden). Incluye push por accion con su foto (0.5.208)."
 }
