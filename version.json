@@ -1,6 +1,6 @@
 {
-  "version": "0.5.204",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.204/OptionsDesk-Setup-0.5.204.exe",
-  "sha256": "aadf124e8b7d49d55408da8af199f50533817df2d5863e6f297f69a8115ad1d7",
-  "notes": "Conexion real con los planes de la web (od_plan Basico/Pro/MAX de heyvisionai.com): comprar o subir de plan desbloquea al instante. Incluye el gating 0.5.202 y el runtime VC de la 0.5.203."
+  "version": "0.5.205",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.205/OptionsDesk-Setup-0.5.205.exe",
+  "sha256": "1e3900e1228adf4316ccc30d270ddf7f7673d53bdfae8c48329c1054d12045d2",
+  "notes": "Dos monitores: maximizar/restaurar se quedan en el monitor de la ventana. Incluye planes od_plan (0.5.204), runtime VC (0.5.203) y gating Basico/Pro/MAX (0.5.202)."
 }
