@@ -1,6 +1,6 @@
 {
-  "version": "0.5.207",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.207/OptionsDesk-Setup-0.5.207.exe",
-  "sha256": "dc4558335f15a2c5759b6b92e77a8413df1e0cfa7d3525134e743efe8f262679",
-  "notes": "La etiqueta de la estrategia en el grafico lleva su probabilidad medida: % de la accion (8+ resueltas) o el global etiquetado. Incluye avisos honestos tras feriado (0.5.206) y maximizar multi-monitor (0.5.205)."
+  "version": "0.5.208",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.208/OptionsDesk-Setup-0.5.208.exe",
+  "sha256": "960ba148ee9772c96251124c63ef79e7077bfb837f1da2ecdc102a7af7c963e1",
+  "notes": "Avisos push POR ACCION con la foto de su grafico y su detalle (como antes en ntfy). Incluye probabilidad de la estrategia en el grafico (0.5.207) y avisos honestos tras feriado (0.5.206)."
 }
