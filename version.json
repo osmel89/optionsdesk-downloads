@@ -1,6 +1,6 @@
 {
-  "version": "0.5.215",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.215/OptionsDesk-Setup-0.5.215.exe",
-  "sha256": "d15ec6b85786e34542d858fb614344651634049bffcda6a6bd1fd915b3074804",
-  "notes": "El grafico coincide con Mercado y los avisos: el Detector evalua la vela CERRADA (sin parpadeo). Antes evaluaba la vela en formacion y la estrategia que Mercado marcaba desaparecia al abrir el grafico (caso NFLX E5). Incluye estimado de ventas de hoy (0.5.214)."
+  "version": "0.5.216",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.216/OptionsDesk-Setup-0.5.216.exe",
+  "sha256": "fc144849ebe696b69fddfd15d45331f17be7f5687893819ad1aef8128b5d4a6b",
+  "notes": "Reportes incluye las operaciones de HOY estimadas (sin esperar la liquidacion), marcadas est. Incluye grafico=vela cerrada coincide con Mercado (0.5.215) y estimado en Portafolio (0.5.214)."
 }
