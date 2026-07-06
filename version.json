@@ -1,6 +1,6 @@
 {
-  "version": "0.5.202",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.202/OptionsDesk-Setup-0.5.202.exe",
-  "sha256": "243fac8d32554167baa33859dd747ef59425d767afc3cd104003f820e92fa01b",
-  "notes": "Planes Basico / Pro / MAX: la app lee tu plan de la web y habilita lo que incluye; lo demas se ve con candado y se desbloquea al instante al subir de plan (bloqueo del lado del servidor). La Estadistica suma el rastro en vivo con calibracion."
+  "version": "0.5.203",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.203/OptionsDesk-Setup-0.5.203.exe",
+  "sha256": "a5e7c4d396906164b01c3fa51e8e150e3cae2a279c8fd7f00eb011d0d1b76eb0",
+  "notes": "Instalacion en PC nueva: el programa ya trae dentro el runtime de Visual C++ de Microsoft (adios al error VCRUNTIME140.dll). Incluye los planes Basico/Pro/MAX de la 0.5.202."
 }
