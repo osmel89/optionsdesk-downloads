@@ -1,6 +1,6 @@
 {
-  "version": "0.5.219",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.219/OptionsDesk-Setup-0.5.219.exe",
-  "sha256": "cdcc90464e9000dd0a8383098f238c470c4c49545f55a07bf975d330ffaac5c1",
-  "notes": "Login que fallaba en silencio ahora dice el motivo (cuenta en otro dispositivo / tope de equipos). Incluye texto de login claro (0.5.218) y login siempre legible (0.5.217)."
+  "version": "0.5.220",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.220/OptionsDesk-Setup-0.5.220.exe",
+  "sha256": "2d5ce002b6931cba0aeb84dca51574fcd70c75a667ee3cc981509905176d15a9",
+  "notes": "Diagnostico del login en /account/status (campo lastLogin) para ver por que falla un login sin error. Incluye login que dice el motivo (0.5.219) y texto de login claro (0.5.218)."
 }
