@@ -1,6 +1,6 @@
 {
-  "version": "0.5.209",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.209/OptionsDesk-Setup-0.5.209.exe",
-  "sha256": "caebe497c13c3b1cb3b211e4d07fd9a2a6523faff8d2fac006fee6e7b0cd4ed1",
-  "notes": "El PIN se recuerda por HOY (las actualizaciones ya no lo piden; caduca al final del dia; Bloquear lo borra; el servidor sigue verificandolo en cada orden). Incluye push por accion con su foto (0.5.208)."
+  "version": "0.5.210",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.210/OptionsDesk-Setup-0.5.210.exe",
+  "sha256": "8d7c4cf76a12a8e4f7c6ee809677666c73ae924f530fb63240b366032c64fec3",
+  "notes": "Diagnostico de la foto en los avisos (motivo registrado si falla; boton Probar aviso con foto en Config). Incluye PIN recordado por hoy (0.5.209) y push por accion (0.5.208)."
 }
