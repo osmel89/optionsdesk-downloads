@@ -1,6 +1,6 @@
 {
-  "version": "0.5.206",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.206/OptionsDesk-Setup-0.5.206.exe",
-  "sha256": "b580acbd32bc7979885d57ae011de9ea61746622e76b4767f6ed8893db8b8b93",
-  "notes": "Avisos honestos tras feriado: contundentes intradia solo con vela de HOY (con fecha si es de otro dia) y campanita sin duplicados. Incluye maximizar multi-monitor (0.5.205) y planes od_plan (0.5.204)."
+  "version": "0.5.207",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.207/OptionsDesk-Setup-0.5.207.exe",
+  "sha256": "dc4558335f15a2c5759b6b92e77a8413df1e0cfa7d3525134e743efe8f262679",
+  "notes": "La etiqueta de la estrategia en el grafico lleva su probabilidad medida: % de la accion (8+ resueltas) o el global etiquetado. Incluye avisos honestos tras feriado (0.5.206) y maximizar multi-monitor (0.5.205)."
 }
