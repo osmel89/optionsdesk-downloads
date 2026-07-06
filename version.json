@@ -1,6 +1,6 @@
 {
-  "version": "0.5.212",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.212/OptionsDesk-Setup-0.5.212.exe",
-  "sha256": "cbdcb6988ac403bf991fdf7d74905cbe33fdb893a422ce6a6801cbea47dd6535",
-  "notes": "La foto del grafico viaja DENTRO del SMS (MMS): hasta 4 graficos por aviso. Probar SMS envia la prueba con foto y diagnostica si falla. Incluye 0.5.209-211 (PIN por hoy, diagnostico push, menu limpio)."
+  "version": "0.5.213",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.213/OptionsDesk-Setup-0.5.213.exe",
+  "sha256": "c7292205f734010ff839beac739945977e3d87d66516fae028b307109d70f115",
+  "notes": "Detector en la temporalidad del grafico (1h/diario, coincide con Mercado) + grafico mas rapido (paneles pesados tras el primer pintado). Incluye foto dentro del SMS (0.5.212)."
 }
