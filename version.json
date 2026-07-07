@@ -1,6 +1,6 @@
 {
-  "version": "0.5.220",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.220/OptionsDesk-Setup-0.5.220.exe",
-  "sha256": "2d5ce002b6931cba0aeb84dca51574fcd70c75a667ee3cc981509905176d15a9",
-  "notes": "Diagnostico del login en /account/status (campo lastLogin) para ver por que falla un login sin error. Incluye login que dice el motivo (0.5.219) y texto de login claro (0.5.218)."
+  "version": "0.5.221",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.221/OptionsDesk-Setup-0.5.221.exe",
+  "sha256": "a81a06cd84e10a1b976ddf1df113fabe4699e42d0fc309daad99b3489a75209e",
+  "notes": "Barra de menu responsiva: se ajusta a laptops/monitores pequenos y, si hace falta, pasa a varias filas para que TODAS las pestanas (incluida Config) queden siempre visibles."
 }
