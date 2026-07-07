@@ -1,6 +1,6 @@
 {
-  "version": "0.5.235",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.235/OptionsDesk-Setup-0.5.235.exe",
-  "sha256": "00c9151bdce9250906cfcc9bc5d0336629a4bfac7bd701747906e5a2d8dde8a0",
-  "notes": "Realizado del dia unificado (Portafolio=Reportes, estimado con foto de costo) + sello de integridad del instalador con auto-reparacion."
+  "version": "0.5.236",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.236/OptionsDesk-Setup-0.5.236.exe",
+  "sha256": "fc0e7f6c64783d39e19dd2af0ef22f61b330e861879674b95533e2230ca87f0e",
+  "notes": "Segundo respaldo de costo (historial de operaciones) para estimar las ventas de hoy."
 }
