@@ -1,6 +1,6 @@
 {
-  "version": "0.5.233",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.233/OptionsDesk-Setup-0.5.233.exe",
-  "sha256": "a1ec8225bd592239505d04f0060417aea5e2afc4518df89e6102e6fe796bf2eb",
-  "notes": "Auditoria ronda 2: estadistica a prueba de carreras, Portafolio respeta el Modo, SMS con tope exacto y sin duplicados, failover de jobs, arreglos de UI y owner.flag con clave."
+  "version": "0.5.234",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.234/OptionsDesk-Setup-0.5.234.exe",
+  "sha256": "092bd941b57c73374fc42455bf889e6fad827815d496d5dfdeb446a45fd9d8be",
+  "notes": "Radar En marcha con precios reales de pre/after-market (bid/ask vivo + confirmacion con operaciones reales)."
 }
