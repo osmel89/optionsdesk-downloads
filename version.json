@@ -1,6 +1,6 @@
 {
-  "version": "0.5.225",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.225/OptionsDesk-Setup-0.5.225.exe",
-  "sha256": "c02f0a8feb86bee50c08f3c227c2a4556a874969f704e58611203638feca5a1c",
-  "notes": "Correcciones tras una auditoria interna: convicción ya no penaliza el vencimiento semanal; IV Rank no marca 'barata' con datos planos/rancios; Mercado/Régimen no fallan con datos vacíos; la Rueda rola en la dirección correcta y la cadena muestra PCR/skew; refuerzo de seguridad en el efectivo de puts aseguradas. La regla de oro intacta (el PIN gatea la ejecución)."
+  "version": "0.5.226",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.226/OptionsDesk-Setup-0.5.226.exe",
+  "sha256": "c205384aa7b3b0f4ffbbde357a65d88f9200d7b4c18d28cf18f4530bfd084d9c",
+  "notes": "Badge de oportunidad CALL/PUT (el mismo del gráfico) junto a cada accion en los escaneres 'Varias estrategias coinciden' e 'Intradia (1h)' de Mercado, para mayor conviccion. Se carga perezoso; educativo, no asesoria."
 }
