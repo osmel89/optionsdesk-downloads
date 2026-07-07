@@ -1,6 +1,6 @@
 {
-  "version": "0.5.234",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.234/OptionsDesk-Setup-0.5.234.exe",
-  "sha256": "092bd941b57c73374fc42455bf889e6fad827815d496d5dfdeb446a45fd9d8be",
-  "notes": "Radar En marcha con precios reales de pre/after-market (bid/ask vivo + confirmacion con operaciones reales)."
+  "version": "0.5.235",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.235/OptionsDesk-Setup-0.5.235.exe",
+  "sha256": "00c9151bdce9250906cfcc9bc5d0336629a4bfac7bd701747906e5a2d8dde8a0",
+  "notes": "Realizado del dia unificado (Portafolio=Reportes, estimado con foto de costo) + sello de integridad del instalador con auto-reparacion."
 }
