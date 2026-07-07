@@ -1,6 +1,6 @@
 {
-  "version": "0.5.224",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.224/OptionsDesk-Setup-0.5.224.exe",
-  "sha256": "608915c8ec950cf4a7a63944a42d7f60eee15af9fdb1fa4e732ec920f6d5d250",
-  "notes": "Presentacion uniforme de las estrategias como metodos de OptionsDesk (analisis tecnico clasico: medias, Bollinger, velas japonesas, squeeze, gaps). Cambio de presentacion; el funcionamiento, las senales y los calculos son identicos."
+  "version": "0.5.225",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.225/OptionsDesk-Setup-0.5.225.exe",
+  "sha256": "c02f0a8feb86bee50c08f3c227c2a4556a874969f704e58611203638feca5a1c",
+  "notes": "Correcciones tras una auditoria interna: convicción ya no penaliza el vencimiento semanal; IV Rank no marca 'barata' con datos planos/rancios; Mercado/Régimen no fallan con datos vacíos; la Rueda rola en la dirección correcta y la cadena muestra PCR/skew; refuerzo de seguridad en el efectivo de puts aseguradas. La regla de oro intacta (el PIN gatea la ejecución)."
 }
