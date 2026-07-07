@@ -1,6 +1,6 @@
 {
-  "version": "0.5.223",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.223/OptionsDesk-Setup-0.5.223.exe",
-  "sha256": "864f6643d5372f03137be6a988c5c50df0c7f589535aaafd8398f9ffe3e3ff93",
-  "notes": "Menu superior reorganizado en grupos desplegables: Velas, Senales, Analisis (Mercado/Radar/Vigilancia), Operar (Ejecucion/Portafolio/Reportes/Rueda/Estadistica), Info y Config. Mas limpio y cabe en pantallas pequenas."
+  "version": "0.5.224",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.224/OptionsDesk-Setup-0.5.224.exe",
+  "sha256": "608915c8ec950cf4a7a63944a42d7f60eee15af9fdb1fa4e732ec920f6d5d250",
+  "notes": "Presentacion uniforme de las estrategias como metodos de OptionsDesk (analisis tecnico clasico: medias, Bollinger, velas japonesas, squeeze, gaps). Cambio de presentacion; el funcionamiento, las senales y los calculos son identicos."
 }
