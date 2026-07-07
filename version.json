@@ -1,6 +1,6 @@
 {
-  "version": "0.5.231",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.231/OptionsDesk-Setup-0.5.231.exe",
-  "sha256": "652299e64870f97cd08dea7f9ac7b3914d5d1561b04fb27a60d41fde20c8109e",
-  "notes": "Reportes: la venta de HOY siempre se ve (aviso de ventas del dia pendientes de liquidar). Ademas la app guarda el costo base de tus posiciones SOLA, en segundo plano, asi las ventas futuras se estiman al instante. Y el calendario se abre al hacer clic en los campos de fecha (Desde/Hasta). Educativo, no asesoria."
+  "version": "0.5.232",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.232/OptionsDesk-Setup-0.5.232.exe",
+  "sha256": "c02d6cb01a5e58af4bc6fbc8ad76f1dc35854fbdffedc4e3fb92915f1170d1ad",
+  "notes": "Rendimiento: el escaneo de Mercado ya no da timeout (la senal de oportunidad se calcula para las primeras filas y el resto se completa solo en pantalla). Radar mas rapido y sin colgarse (tope de tiempo por simbolo + mas paralelismo + aviso si va lento). Optimizacion general: conexion de noticias/datos reutilizada + cache de earnings/consenso/fundamentales -> Analisis, Senales y Vigilancia responden mas rapido. Educativo, no asesoria."
 }
