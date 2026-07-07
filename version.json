@@ -1,6 +1,6 @@
 {
-  "version": "0.5.229",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.229/OptionsDesk-Setup-0.5.229.exe",
-  "sha256": "bdf0cb09a68100917136cdec5f8444deb904ef6fc93d757c52fdc4de74f6a366",
-  "notes": "El badge de oportunidad de los escaneres de Mercado se calcula en el SERVIDOR y llega JUNTO con el escaneo (no fila por fila). Cache compartida ~90s entre los 3 escaneres y el grafico -> re-escanear es instantaneo. El primer escaneo tarda un poco mas. Educativo, no asesoria."
+  "version": "0.5.230",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.230/OptionsDesk-Setup-0.5.230.exe",
+  "sha256": "ca7a5a6fecc53c0ff61a342d595e138d911fb98580b44aa86ccca6031db2bf64",
+  "notes": "Reportes en tiempo real: la venta de HOY se estima al instante usando el costo base guardado de tus posiciones (foto tomada al ver Ejecucion/Portafolio). Nota: el mercado y las senales van SIEMPRE en hora del Este (ET), correcto en cualquier zona horaria. Educativo, no asesoria."
 }
