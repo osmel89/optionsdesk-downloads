@@ -1,6 +1,6 @@
 {
-  "version": "0.5.227",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.227/OptionsDesk-Setup-0.5.227.exe",
-  "sha256": "05980dab7877a9e56e3a989805e209cf467308df7395872ebfb51656e1c393f4",
-  "notes": "Badge de oportunidad CALL/PUT en los TRES escaneres de Mercado (Confluencia, Varias coinciden, Intradia) con ✓/⚠/—; y la senal de oportunidad dentro de los avisos con foto del Detector. Educativo, no asesoria; el PIN gatea la ejecucion."
+  "version": "0.5.228",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.228/OptionsDesk-Setup-0.5.228.exe",
+  "sha256": "6e5722f9efd256e9ccbde9cdc7eb2a9b9ead411d0737f1a90c14208971997d35",
+  "notes": "Arreglo REAL del Detector: la estrategia E2 (Pullback al MA40) exige la RUPTURA FRESCA de la linea como gatillo, no un cruce de medias rezagado (que marcaba un lado -p.ej. PUT- con el precio ya reversado, caso NVDA). Sin ruptura queda 'formandose', no 'se esta dando'. Revisadas las 23 estrategias: era el unico afectado. Educativo, no asesoria."
 }
