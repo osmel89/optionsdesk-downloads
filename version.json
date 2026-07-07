@@ -1,6 +1,6 @@
 {
-  "version": "0.5.228",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.228/OptionsDesk-Setup-0.5.228.exe",
-  "sha256": "6e5722f9efd256e9ccbde9cdc7eb2a9b9ead411d0737f1a90c14208971997d35",
-  "notes": "Arreglo REAL del Detector: la estrategia E2 (Pullback al MA40) exige la RUPTURA FRESCA de la linea como gatillo, no un cruce de medias rezagado (que marcaba un lado -p.ej. PUT- con el precio ya reversado, caso NVDA). Sin ruptura queda 'formandose', no 'se esta dando'. Revisadas las 23 estrategias: era el unico afectado. Educativo, no asesoria."
+  "version": "0.5.229",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.229/OptionsDesk-Setup-0.5.229.exe",
+  "sha256": "bdf0cb09a68100917136cdec5f8444deb904ef6fc93d757c52fdc4de74f6a366",
+  "notes": "El badge de oportunidad de los escaneres de Mercado se calcula en el SERVIDOR y llega JUNTO con el escaneo (no fila por fila). Cache compartida ~90s entre los 3 escaneres y el grafico -> re-escanear es instantaneo. El primer escaneo tarda un poco mas. Educativo, no asesoria."
 }
