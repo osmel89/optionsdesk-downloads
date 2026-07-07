@@ -1,6 +1,6 @@
 {
-  "version": "0.5.230",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.230/OptionsDesk-Setup-0.5.230.exe",
-  "sha256": "ca7a5a6fecc53c0ff61a342d595e138d911fb98580b44aa86ccca6031db2bf64",
-  "notes": "Reportes en tiempo real: la venta de HOY se estima al instante usando el costo base guardado de tus posiciones (foto tomada al ver Ejecucion/Portafolio). Nota: el mercado y las senales van SIEMPRE en hora del Este (ET), correcto en cualquier zona horaria. Educativo, no asesoria."
+  "version": "0.5.231",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.231/OptionsDesk-Setup-0.5.231.exe",
+  "sha256": "652299e64870f97cd08dea7f9ac7b3914d5d1561b04fb27a60d41fde20c8109e",
+  "notes": "Reportes: la venta de HOY siempre se ve (aviso de ventas del dia pendientes de liquidar). Ademas la app guarda el costo base de tus posiciones SOLA, en segundo plano, asi las ventas futuras se estiman al instante. Y el calendario se abre al hacer clic en los campos de fecha (Desde/Hasta). Educativo, no asesoria."
 }
