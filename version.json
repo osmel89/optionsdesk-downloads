@@ -1,6 +1,6 @@
 {
-  "version": "0.5.226",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.226/OptionsDesk-Setup-0.5.226.exe",
-  "sha256": "c205384aa7b3b0f4ffbbde357a65d88f9200d7b4c18d28cf18f4530bfd084d9c",
-  "notes": "Badge de oportunidad CALL/PUT (el mismo del gráfico) junto a cada accion en los escaneres 'Varias estrategias coinciden' e 'Intradia (1h)' de Mercado, para mayor conviccion. Se carga perezoso; educativo, no asesoria."
+  "version": "0.5.227",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.227/OptionsDesk-Setup-0.5.227.exe",
+  "sha256": "05980dab7877a9e56e3a989805e209cf467308df7395872ebfb51656e1c393f4",
+  "notes": "Badge de oportunidad CALL/PUT en los TRES escaneres de Mercado (Confluencia, Varias coinciden, Intradia) con ✓/⚠/—; y la senal de oportunidad dentro de los avisos con foto del Detector. Educativo, no asesoria; el PIN gatea la ejecucion."
 }
