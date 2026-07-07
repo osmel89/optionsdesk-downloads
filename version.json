@@ -1,6 +1,6 @@
 {
-  "version": "0.5.222",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.222/OptionsDesk-Setup-0.5.222.exe",
-  "sha256": "2ba996aca9cc74e0b3e4f9ec41a7b9bfe72b5f289a24d6d8ca7e79822232e810",
-  "notes": "Nueva pestana Tutoriales (guia de Tradier paso a paso e ilustrada + biblioteca de videos) y Preguntas frecuentes en Ayuda (dudas de uso: broker, papel vs produccion, VISION, datos en vivo, cancelar, login). Enlace al tutorial de Tradier en Config."
+  "version": "0.5.223",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.223/OptionsDesk-Setup-0.5.223.exe",
+  "sha256": "864f6643d5372f03137be6a988c5c50df0c7f589535aaafd8398f9ffe3e3ff93",
+  "notes": "Menu superior reorganizado en grupos desplegables: Velas, Senales, Analisis (Mercado/Radar/Vigilancia), Operar (Ejecucion/Portafolio/Reportes/Rueda/Estadistica), Info y Config. Mas limpio y cabe en pantallas pequenas."
 }
