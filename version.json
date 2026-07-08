@@ -1,6 +1,6 @@
 {
-  "version": "0.5.236",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.236/OptionsDesk-Setup-0.5.236.exe",
-  "sha256": "fc0e7f6c64783d39e19dd2af0ef22f61b330e861879674b95533e2230ca87f0e",
-  "notes": "Segundo respaldo de costo (historial de operaciones) para estimar las ventas de hoy."
+  "version": "0.5.237",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.237/OptionsDesk-Setup-0.5.237.exe",
+  "sha256": "a689c615ff68276b0eeeaea087836509f9506e01f6da93f864ee21ab386ff543",
+  "notes": "Reportes/Portafolio: ventas de dias anteriores sin liquidar visibles como 'registrada' con su fecha; sin doble conteo al liquidar; aviso separa liquidadas/registradas/estimadas; arreglos de filtros."
 }
