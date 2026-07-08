@@ -1,6 +1,6 @@
 {
-  "version": "0.5.237",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.237/OptionsDesk-Setup-0.5.237.exe",
-  "sha256": "a689c615ff68276b0eeeaea087836509f9506e01f6da93f864ee21ab386ff543",
-  "notes": "Reportes/Portafolio: ventas de dias anteriores sin liquidar visibles como 'registrada' con su fecha; sin doble conteo al liquidar; aviso separa liquidadas/registradas/estimadas; arreglos de filtros."
+  "version": "0.5.238",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.238/OptionsDesk-Setup-0.5.238.exe",
+  "sha256": "5a699c76e48895df04b5070fa72cf290a5f247e7fa63c0535579fde986084e6a",
+  "notes": "Auditoria nocturna: historial sin cierres fantasma (venta cuenta al confirmarse el llenado), Reportes casa cantidades una a una, radar pre-market inmune a quotes rotos, anti-carrera del grafico, freno del auto-reparador."
 }
