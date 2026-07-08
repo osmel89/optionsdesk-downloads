@@ -1,6 +1,6 @@
 {
-  "version": "0.5.240",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.240/OptionsDesk-Setup-0.5.240.exe",
-  "sha256": "656e49c5df01294bd077e9994cda2795157e05942e1cc7d6c04275907ff0a55d",
-  "notes": "Sentimiento claro (fondo vs hoy) + lineas del Detector que no desaparecen (conserva el dibujo ante un fallo transitorio; clic en la flecha = redibujar)."
+  "version": "0.5.241",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.241/OptionsDesk-Setup-0.5.241.exe",
+  "sha256": "72498df36e9adb8b98e7938935ffd955d050b0c4c6e7b5d86588d362be0ecc67",
+  "notes": "Tutoriales: video 2 'Tu cuenta de Tradier' disponible (Ver en Info → Tutoriales)."
 }
