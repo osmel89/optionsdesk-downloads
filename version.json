@@ -1,6 +1,6 @@
 {
-  "version": "0.5.238",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.238/OptionsDesk-Setup-0.5.238.exe",
-  "sha256": "5a699c76e48895df04b5070fa72cf290a5f247e7fa63c0535579fde986084e6a",
-  "notes": "Auditoria nocturna: historial sin cierres fantasma (venta cuenta al confirmarse el llenado), Reportes casa cantidades una a una, radar pre-market inmune a quotes rotos, anti-carrera del grafico, freno del auto-reparador."
+  "version": "0.5.239",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.239/OptionsDesk-Setup-0.5.239.exe",
+  "sha256": "db6613ed2415c68c758aca78a254d6a2bc20de22fe05e1cb445e8ddb428430d3",
+  "notes": "Sentimiento de Mercado con las mismas ~107 acciones de los escaneres (amplitud/movers/cinta); misma velocidad."
 }
