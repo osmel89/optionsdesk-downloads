@@ -1,6 +1,6 @@
 {
-  "version": "0.5.239",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.239/OptionsDesk-Setup-0.5.239.exe",
-  "sha256": "db6613ed2415c68c758aca78a254d6a2bc20de22fe05e1cb445e8ddb428430d3",
-  "notes": "Sentimiento de Mercado con las mismas ~107 acciones de los escaneres (amplitud/movers/cinta); misma velocidad."
+  "version": "0.5.240",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.240/OptionsDesk-Setup-0.5.240.exe",
+  "sha256": "656e49c5df01294bd077e9994cda2795157e05942e1cc7d6c04275907ff0a55d",
+  "notes": "Sentimiento claro (fondo vs hoy) + lineas del Detector que no desaparecen (conserva el dibujo ante un fallo transitorio; clic en la flecha = redibujar)."
 }
