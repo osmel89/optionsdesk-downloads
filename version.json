@@ -1,6 +1,6 @@
 {
-  "version": "0.5.247",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.247/OptionsDesk-Setup-0.5.247.exe",
-  "sha256": "2835ba3270c45933f549de7502eae78dfd21e904d3944fdf5ed3cc32aed12a4a",
-  "notes": "Vigilante: arreglo del dashboard (del robot, revisado), informes al panel (403 UA), mejor dedup de errores."
+  "version": "0.5.249",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.249/OptionsDesk-Setup-0.5.249.exe",
+  "sha256": "774e5baf56b6af091d61cd63569b64532dde644ea33d42d2129de156fe92c7f3",
+  "notes": "Rendimiento: Oportunidad en paralelo + cache 45s (cambio de simbolo agil); incluye los arreglos del robot (0.5.248)."
 }
