@@ -1,6 +1,6 @@
 {
-  "version": "0.5.251",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.251/OptionsDesk-Setup-0.5.251.exe",
-  "sha256": "4fda8d851b79a4ccaa5f190a1c95f156ac3fce94ff913158f8393dbeee51f2d6",
-  "notes": "Mercado: chips por fila — E15 de la casa (aunque este formandose, k/7) y Prima barata/cara como en Senales."
+  "version": "0.5.252",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.252/OptionsDesk-Setup-0.5.252.exe",
+  "sha256": "73841d3f9d7c3ea502abd0dda25f85b77e2ba5d45aa565974d7e32778be0986c",
+  "notes": "Arreglo: Prima cara falsa en Senales al mirar en 1h (vol realizada mal anualizada); Senales y Mercado ya coinciden."
 }
