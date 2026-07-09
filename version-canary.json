@@ -1,0 +1,7 @@
+{
+  "version": "0.5.248",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.248/OptionsDesk-Setup-0.5.248.exe",
+  "sha256": "73800ed09c57ecf80b0871fe418f029a562c66d71c9984095e34c9bd722a67e2",
+  "publishedAt": "2026-07-09T13:21:18Z",
+  "notes": "[canario] Vigilante: la cola de errores ya no marca 'sandbox' a clientes con datos de produccion; el panel del robot se refresca solo y avisa si el servidor central no responde."
+}
