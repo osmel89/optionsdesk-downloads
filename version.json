@@ -1,6 +1,6 @@
 {
-  "version": "0.5.252",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.252/OptionsDesk-Setup-0.5.252.exe",
-  "sha256": "73841d3f9d7c3ea502abd0dda25f85b77e2ba5d45aa565974d7e32778be0986c",
-  "notes": "Arreglo: Prima cara falsa en Senales al mirar en 1h (vol realizada mal anualizada); Senales y Mercado ya coinciden."
+  "version": "0.5.253",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.253/OptionsDesk-Setup-0.5.253.exe",
+  "sha256": "018c78cdd84f8b31e4050aee7e42a38b546777324420e9438e3504a99603ec1c",
+  "notes": "E15: pilar de prima cae al proxy etiquetado cuando no hay IV Rank (coherente con Senales/Mercado, caso TNA)."
 }
