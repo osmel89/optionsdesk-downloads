@@ -1,6 +1,6 @@
 {
-  "version": "0.5.243",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.243/OptionsDesk-Setup-0.5.243.exe",
-  "sha256": "48e62e0a1f4b17ce15ca7948a0492d3273d9d578de7195f8515d925f7c9a8c14",
-  "notes": "Sensores de salud (reporte anonimo de errores al central, deduplicado, apagable) + arreglo del error silencioso de los escaneres de Mercado."
+  "version": "0.5.244",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.244/OptionsDesk-Setup-0.5.244.exe",
+  "sha256": "c1807e68174a34f75ca2e8752ab502b6dae3e6c2d4c5ad94d9f97513719f52e3",
+  "notes": "Pestana Vigilante (solo admin: informes del robot + errores de clientes + versiones) y canal canario del updater."
 }
