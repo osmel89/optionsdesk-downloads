@@ -1,7 +1,7 @@
 {
-  "version": "0.5.248",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.248/OptionsDesk-Setup-0.5.248.exe",
-  "sha256": "73800ed09c57ecf80b0871fe418f029a562c66d71c9984095e34c9bd722a67e2",
-  "publishedAt": "2026-07-09T13:21:18Z",
-  "notes": "[canario] Vigilante: la cola de errores ya no marca 'sandbox' a clientes con datos de produccion; el panel del robot se refresca solo y avisa si el servidor central no responde."
+  "version": "0.5.254",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.254/OptionsDesk-Setup-0.5.254.exe",
+  "sha256": "f206807bd61875b2f94ddf6ce705c3618259744b953db16e8bf5525757301a17",
+  "publishedAt": "2026-07-09T23:13:23Z",
+  "notes": "[canario] El banco de velas ya no muere por timeout del loop: corta limpio con su propio presupuesto y el cursor avanza solo por los simbolos realmente procesados (antes perdia hasta 8 de 12 por vuelta). Un simbolo colgado ya no atasca ni tumba el tick. Corregido un texto en Mercado."
 }
