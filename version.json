@@ -1,6 +1,6 @@
 {
-  "version": "0.5.245",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.245/OptionsDesk-Setup-0.5.245.exe",
-  "sha256": "0c2e5330079002b13f1b7d545b5df2f22826bc338466d53c466687659e08e8c9",
-  "notes": "Vigilante: boton Correr ahora + panel en vivo del robot (solo admin)."
+  "version": "0.5.246",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.246/OptionsDesk-Setup-0.5.246.exe",
+  "sha256": "750b9352db276bcb74bf79ff88ce29f8face7a21ebf3b3e94b2bcf9155cd60e6",
+  "notes": "Vigilante: boton Correr ahora funciona desde la app instalada (buscaba en la carpeta equivocada)."
 }
