@@ -1,6 +1,6 @@
 {
-  "version": "0.5.246",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.246/OptionsDesk-Setup-0.5.246.exe",
-  "sha256": "750b9352db276bcb74bf79ff88ce29f8face7a21ebf3b3e94b2bcf9155cd60e6",
-  "notes": "Vigilante: boton Correr ahora funciona desde la app instalada (buscaba en la carpeta equivocada)."
+  "version": "0.5.247",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.247/OptionsDesk-Setup-0.5.247.exe",
+  "sha256": "2835ba3270c45933f549de7502eae78dfd21e904d3944fdf5ed3cc32aed12a4a",
+  "notes": "Vigilante: arreglo del dashboard (del robot, revisado), informes al panel (403 UA), mejor dedup de errores."
 }
