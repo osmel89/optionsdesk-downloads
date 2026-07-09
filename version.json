@@ -1,6 +1,6 @@
 {
-  "version": "0.5.242",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.242/OptionsDesk-Setup-0.5.242.exe",
-  "sha256": "3296176fe22ceb885bc372fa8397e1a17ad7f7f761a0a7f39d895f7b43c442a7",
-  "notes": "Tutoriales: 8 videos nuevos (9 de 11 disponibles en Info → Tutoriales)."
+  "version": "0.5.243",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.243/OptionsDesk-Setup-0.5.243.exe",
+  "sha256": "48e62e0a1f4b17ce15ca7948a0492d3273d9d578de7195f8515d925f7c9a8c14",
+  "notes": "Sensores de salud (reporte anonimo de errores al central, deduplicado, apagable) + arreglo del error silencioso de los escaneres de Mercado."
 }
