@@ -1,6 +1,6 @@
 {
-  "version": "0.5.257",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.257/OptionsDesk-Setup-0.5.257.exe",
-  "sha256": "e8d0a5e425ab7b7ee7e25bb77ea86778f7752dfa071db48e6144f108f1f1c47d",
-  "notes": "Pre-market en dolares (Vigilancia) + estimado por posicion en el Portafolio antes de abrir; incluye el 0.5.256 canario del robot."
+  "version": "0.5.258",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.258/OptionsDesk-Setup-0.5.258.exe",
+  "sha256": "ab63d174d0bdd6a7bc402ca53ebdc00b9934160d0d7b2a5de24001c4f10e1425",
+  "notes": "E15 evalua ambos lados cuando ambos tienen candidato (gana el mejor score; avisa si casi empatan)."
 }
