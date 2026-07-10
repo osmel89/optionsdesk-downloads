@@ -1,6 +1,6 @@
 {
-  "version": "0.5.253",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.253/OptionsDesk-Setup-0.5.253.exe",
-  "sha256": "018c78cdd84f8b31e4050aee7e42a38b546777324420e9438e3504a99603ec1c",
-  "notes": "E15: pilar de prima cae al proxy etiquetado cuando no hay IV Rank (coherente con Senales/Mercado, caso TNA)."
+  "version": "0.5.254",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.254/OptionsDesk-Setup-0.5.254.exe",
+  "sha256": "83990dbf36e2a720d30e17be54136216f5ee8e8891faa325460b82a5bcfbd787",
+  "notes": "CAMBIO sigue la temporalidad del grafico (en dolares y %, como TC2000) + vender/comprar para cerrar siempre en el selector de Operar."
 }
