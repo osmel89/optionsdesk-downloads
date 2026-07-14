@@ -1,6 +1,6 @@
 {
-  "version": "0.5.263",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.263/OptionsDesk-Setup-0.5.263.exe",
-  "sha256": "3014061674af9b63109cecbe4c8f46f6a49d9b6b413eb2d13a22530ebc24c4ba",
-  "notes": "Clic derecho en el grafico: alerta de precio (campanita+push), anadir media, escala log, lineas de sesion, exportar CSV."
+  "version": "0.5.264",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.264/OptionsDesk-Setup-0.5.264.exe",
+  "sha256": "11ef6ba54fc2f3dd71c208a63e6e079192b85ee0aa8b5a29db4cb760dd6aa1e4",
+  "notes": "Comparaciones en el grafico (SPY/QQQ/DIA/cualquier simbolo, hasta 3) normalizadas al mismo punto de partida."
 }
