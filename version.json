@@ -1,6 +1,6 @@
 {
-  "version": "0.5.260",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.260/OptionsDesk-Setup-0.5.260.exe",
-  "sha256": "f8cad012338c1fa76c82fb49f8626cc17acfbd9725a323c3bab34a5bd882f50e",
-  "notes": "Reconciliacion instantanea de las ventas automaticas del bracket (objetivo/stop OCO): cierre del lote con el fill real + balance por estrategia al dia."
+  "version": "0.5.261",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.261/OptionsDesk-Setup-0.5.261.exe",
+  "sha256": "5bba94f86e1257c20f82af1b82a3a9ce760fc277787722ec54ae8a2b800eda9f",
+  "notes": "Velas estilo TC2000: verde lima y rojo puros e intensos, volumen a juego."
 }
