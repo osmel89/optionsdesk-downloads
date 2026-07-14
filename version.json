@@ -1,6 +1,6 @@
 {
-  "version": "0.5.262",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.262/OptionsDesk-Setup-0.5.262.exe",
-  "sha256": "534d66fd954f700c4dcaca54df70280074527de4d952cc0487695cef3faffa27",
-  "notes": "Grafico con el negro puro de TC2000 (#000) y grilla neutra; velas lima/rojo con la misma nitidez."
+  "version": "0.5.263",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.263/OptionsDesk-Setup-0.5.263.exe",
+  "sha256": "3014061674af9b63109cecbe4c8f46f6a49d9b6b413eb2d13a22530ebc24c4ba",
+  "notes": "Clic derecho en el grafico: alerta de precio (campanita+push), anadir media, escala log, lineas de sesion, exportar CSV."
 }
