@@ -1,6 +1,6 @@
 {
-  "version": "0.5.266",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.266/OptionsDesk-Setup-0.5.266.exe",
-  "sha256": "3d4749e1a0b3ae5826910198334bcb735930b6c29e0e9571f3ca0445eb6dc1c2",
-  "notes": "Amplitud del mercado (% de acciones sobre MA40/MA200 en el grafico diario) + eventos earnings marcados en las velas (pasados con sorpresa y el proximo) + auditoria del programa pro-chart con 12 arreglos."
+  "version": "0.5.267",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.267/OptionsDesk-Setup-0.5.267.exe",
+  "sha256": "39bf8166dc12d39ee914700c88ae75f9b1300d6f26446327d40ccd7fe678fccb",
+  "notes": "Vistas guardadas (tabs de layouts) + multi-grafico 2x2 (simbolo y temporalidad por panel) + grafico del contrato de opcion (prima + subyacente + ITM sombreado). Auditoria: 6 hallazgos arreglados."
 }
