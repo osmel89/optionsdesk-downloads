@@ -1,6 +1,6 @@
 {
-  "version": "0.5.265",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.265/OptionsDesk-Setup-0.5.265.exe",
-  "sha256": "1b9f74a4e9fc25347ea9f7f7b999d0a88a85e21727bdff2cdd6f02722bc1bb76",
-  "notes": "Apariencia del grafico editable (clic derecho): velas llenas/huecas, grosor de medias, grilla y marca de agua."
+  "version": "0.5.266",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.266/OptionsDesk-Setup-0.5.266.exe",
+  "sha256": "3d4749e1a0b3ae5826910198334bcb735930b6c29e0e9571f3ca0445eb6dc1c2",
+  "notes": "Amplitud del mercado (% de acciones sobre MA40/MA200 en el grafico diario) + eventos earnings marcados en las velas (pasados con sorpresa y el proximo) + auditoria del programa pro-chart con 12 arreglos."
 }
