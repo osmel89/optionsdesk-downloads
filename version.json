@@ -1,6 +1,6 @@
 {
-  "version": "0.5.269",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.269/OptionsDesk-Setup-0.5.269.exe",
-  "sha256": "ee792a5a3b52b0d798f4b60115b09efc664ad2397a4098aae39abaace232998a",
-  "notes": "Sin posicion en el simbolo -> no se muestra ningun letrero (antes salia 'No tienes posicion abierta en ...')."
+  "version": "0.5.270",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.270/OptionsDesk-Setup-0.5.270.exe",
+  "sha256": "8c74b4fa19c0f51ca2f4b15f07d7b6a60eeb62f0451ad80ae67143e0ba65c578",
+  "notes": "Ajustes TC2000: menu clic derecho con submenus + catalogo, Propiedades del grafico (Price Style equivalente), capas por panel en multi-grafico, y el grafico del contrato estilo TC2000 (accion + strike + ITM + prima eje izquierdo)."
 }
