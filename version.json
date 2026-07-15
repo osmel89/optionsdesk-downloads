@@ -1,6 +1,6 @@
 {
-  "version": "0.5.268",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.268/OptionsDesk-Setup-0.5.268.exe",
-  "sha256": "3a1de009372809fd42b829290c1ab8d3128ecb4a5de6954d1555ff4e3c8e9f39",
-  "notes": "Barras de volumen con los mismos colores de las velas TC2000 (lima/rojo puros), en el grafico principal y el Multi-grafico."
+  "version": "0.5.269",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.269/OptionsDesk-Setup-0.5.269.exe",
+  "sha256": "ee792a5a3b52b0d798f4b60115b09efc664ad2397a4098aae39abaace232998a",
+  "notes": "Sin posicion en el simbolo -> no se muestra ningun letrero (antes salia 'No tienes posicion abierta en ...')."
 }
