@@ -1,6 +1,6 @@
 {
-  "version": "0.5.273",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.273/OptionsDesk-Setup-0.5.273.exe",
-  "sha256": "df0f236bf7e67ec962a87d5425a54bfd5448177e3dec7c48c014c0462e8a3843",
-  "notes": "Multi-grafico: catalogo COMPLETO de capas por panel (13 + medias personalizadas), igual que el grafico principal."
+  "version": "0.5.274",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.274/OptionsDesk-Setup-0.5.274.exe",
+  "sha256": "42c4c856b103c25f06ee0406c22ab98e414f3b7474fc6b65383ee40cb6a62ec1",
+  "notes": "Ordenes con plan de salida (paquete) visibles completas en Ordenes trabajando + fix del error JS del estado en vivo."
 }
