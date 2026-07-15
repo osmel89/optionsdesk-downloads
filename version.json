@@ -1,6 +1,6 @@
 {
-  "version": "0.5.272",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.272/OptionsDesk-Setup-0.5.272.exe",
-  "sha256": "d8aa8128951b2bb45319dfc1615854c5f63bb562c72d67f88e5d20277d8acae7",
-  "notes": "Multi-grafico: menu de clic derecho por panel (capas, alerta real, lineas de sesion, escala log, CSV, abrir en Velas). Incluye el arreglo del robot (canario 0.5.271)."
+  "version": "0.5.273",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.273/OptionsDesk-Setup-0.5.273.exe",
+  "sha256": "df0f236bf7e67ec962a87d5425a54bfd5448177e3dec7c48c014c0462e8a3843",
+  "notes": "Multi-grafico: catalogo COMPLETO de capas por panel (13 + medias personalizadas), igual que el grafico principal."
 }
