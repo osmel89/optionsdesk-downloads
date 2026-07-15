@@ -1,7 +1,7 @@
 {
-  "version": "0.5.256",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.256/OptionsDesk-Setup-0.5.256.exe",
-  "sha256": "3190def7af6c664b60449186f9c5dc6d1b2851ae230952265ea6d87e7c0d38d1",
-  "publishedAt": "2026-07-10T06:48:19Z",
-  "notes": "[canario] Arreglos del robot: (1) la telemetria anonima ya no gasta el cupo del dia (ni la huella) cuando el error nace sin event loop o sin servidor central configurado -> el mismo bug SI se reporta cuando ya se puede; (2) el escaner 'Estrategia OptionsDesk' de Mercado resincroniza su lista: si cambias de idioma o recargas mientras escanea, ya no te quedas mirando 'Escaneando...' para siempre. Test-cerrojo nuevo que impide que un escaner futuro nazca sin esa guarda."
+  "version": "0.5.271",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.271/OptionsDesk-Setup-0.5.271.exe",
+  "sha256": "ee3bdfc21e68d5203f3e475e721cbada3ce828f446769cf14d435d5f2309234b",
+  "publishedAt": "2026-07-15T06:46:07Z",
+  "notes": "[canario] Robustez interna: los trabajos de fondo pesados (estadistica de estrategias, banco de velas) trocean su trabajo con un limite de tiempo y lo RETOMAN en el siguiente ciclo; ese corte es avance parcial ESPERADO, no un error. Ahora el registro del servidor y el panel de estado de jobs dejan de marcarlo como fallo. Sin cambios visibles para el usuario."
 }
