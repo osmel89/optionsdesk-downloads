@@ -1,6 +1,6 @@
 {
-  "version": "0.5.267",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.267/OptionsDesk-Setup-0.5.267.exe",
-  "sha256": "39bf8166dc12d39ee914700c88ae75f9b1300d6f26446327d40ccd7fe678fccb",
-  "notes": "Vistas guardadas (tabs de layouts) + multi-grafico 2x2 (simbolo y temporalidad por panel) + grafico del contrato de opcion (prima + subyacente + ITM sombreado). Auditoria: 6 hallazgos arreglados."
+  "version": "0.5.268",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.268/OptionsDesk-Setup-0.5.268.exe",
+  "sha256": "3a1de009372809fd42b829290c1ab8d3128ecb4a5de6954d1555ff4e3c8e9f39",
+  "notes": "Barras de volumen con los mismos colores de las velas TC2000 (lima/rojo puros), en el grafico principal y el Multi-grafico."
 }
