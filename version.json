@@ -1,6 +1,6 @@
 {
-  "version": "0.5.274",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.274/OptionsDesk-Setup-0.5.274.exe",
-  "sha256": "42c4c856b103c25f06ee0406c22ab98e414f3b7474fc6b65383ee40cb6a62ec1",
-  "notes": "Ordenes con plan de salida (paquete) visibles completas en Ordenes trabajando + fix del error JS del estado en vivo."
+  "version": "0.5.275",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.275/OptionsDesk-Setup-0.5.275.exe",
+  "sha256": "46e36ccc7da750dc76e8455c3099c11a1a94cbca59a67fcdaa19cd1c39c20d2e",
+  "notes": "Alertas de senal redisenadas: triple filtro (Oportunidad+prima+E15), barrido al cierre de la vela (<7 min), vela de las 16:00 cubierta, AVISO TEMPRANO intrabar. + Sombreado pre/post en multi-grafico."
 }
