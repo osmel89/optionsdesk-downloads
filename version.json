@@ -1,6 +1,6 @@
 {
-  "version": "0.5.275",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.275/OptionsDesk-Setup-0.5.275.exe",
-  "sha256": "46e36ccc7da750dc76e8455c3099c11a1a94cbca59a67fcdaa19cd1c39c20d2e",
-  "notes": "Alertas de senal redisenadas: triple filtro (Oportunidad+prima+E15), barrido al cierre de la vela (<7 min), vela de las 16:00 cubierta, AVISO TEMPRANO intrabar. + Sombreado pre/post en multi-grafico."
+  "version": "0.5.276",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.276/OptionsDesk-Setup-0.5.276.exe",
+  "sha256": "bd81c8d5ac96769b0ac3fc73b5f843c3c17ce9a98707a3029bcd34b358e2555c",
+  "notes": "Portafolio: columna Lim venta (orden de venta trabajando + % del camino al limite) y mensajes de salida con guiones, sin cortes."
 }
