@@ -1,6 +1,6 @@
 {
-  "version": "0.5.278",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.278/OptionsDesk-Setup-0.5.278.exe",
-  "sha256": "ddc50ff2ca9451d55520a69b9489ca724719739cfa6376e247072ea8c8464cb1",
-  "notes": "Senales: calendario de vencimientos con las fechas reales de cada accion marcadas (semanal/mensual). Incluye el arreglo del robot (0.5.277)."
+  "version": "0.5.279",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.279/OptionsDesk-Setup-0.5.279.exe",
+  "sha256": "ec7aa58659465647817b151d9abd0aa307443be75f767d09312b2f3b47a5a6b6",
+  "notes": "Persistencia real del almacenamiento de la ventana (vistas/prefs/dibujos ya no se borran al cerrar) + vistas guardadas del multi-grafico (grupos de 4) + paneles que heredan la config de Velas."
 }
