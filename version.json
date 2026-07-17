@@ -1,6 +1,1 @@
-{
-  "version": "0.5.276",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.276/OptionsDesk-Setup-0.5.276.exe",
-  "sha256": "bd81c8d5ac96769b0ac3fc73b5f843c3c17ce9a98707a3029bcd34b358e2555c",
-  "notes": "Portafolio: columna Lim venta (orden de venta trabajando + % del camino al limite) y mensajes de salida con guiones, sin cortes."
-}
+﻿{"version":"0.5.277","url":"https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.277/OptionsDesk-Setup-0.5.277.exe","sha256":"f566ef89504ab5deea5404e36cc07ed7eac433ba022d99579d00c4f7c455f803","notes":"Si tu suscripcion queda pausada por un pago fallido o fue cancelada, la app ahora te lo dice claro con una pantalla propia y un boton directo para actualizar tu pago en heyvisionai.com; en cuanto te pones al dia, vuelve sola al instante. Nada cambia si tu plan esta activo."}
