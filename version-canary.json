@@ -1,7 +1,7 @@
 {
-  "version": "0.5.271",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.271/OptionsDesk-Setup-0.5.271.exe",
-  "sha256": "ee3bdfc21e68d5203f3e475e721cbada3ce828f446769cf14d435d5f2309234b",
-  "publishedAt": "2026-07-15T06:46:07Z",
-  "notes": "[canario] Robustez interna: los trabajos de fondo pesados (estadistica de estrategias, banco de velas) trocean su trabajo con un limite de tiempo y lo RETOMAN en el siguiente ciclo; ese corte es avance parcial ESPERADO, no un error. Ahora el registro del servidor y el panel de estado de jobs dejan de marcarlo como fallo. Sin cambios visibles para el usuario."
+  "version": "0.5.277",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.277/OptionsDesk-Setup-0.5.277.exe",
+  "sha256": "f566ef89504ab5deea5404e36cc07ed7eac433ba022d99579d00c4f7c455f803",
+  "publishedAt": "2026-07-17T03:38:34Z",
+  "notes": "[canario] Si tu suscripcion queda pausada por un pago fallido o fue cancelada, la app ahora te lo dice claro con una pantalla propia y un boton directo para actualizar tu pago en heyvisionai.com; en cuanto te pones al dia, vuelve sola al instante. Nada cambia si tu plan esta activo."
 }
