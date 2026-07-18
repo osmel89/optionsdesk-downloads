@@ -1,6 +1,6 @@
 {
-  "version": "0.5.281",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.281/OptionsDesk-Setup-0.5.281.exe",
-  "sha256": "754dff3639709b22f6ac3ea69174b0d9f1cadc30ccd1bcf1a8aee6c69da99d7a",
-  "notes": "Dealer Positioning Pro: gamma flip + muros + charm bid en el grafico, regimen gamma en el embudo de decision (pesos etiquetados), triple confluencia, tope del objetivo en muros, y calibracion en el rastro. Modelado con OI de ayer - contexto, no senal."
+  "version": "0.5.282",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.282/OptionsDesk-Setup-0.5.282.exe",
+  "sha256": "f41f2757a66f5b27503f747e205b7ba9753c8dc77017548c87ea2d5c22905934",
+  "notes": "Fases B-F del estudio de liquidez: VRP comprar-vs-vender, perfil de volumen + ruptura falsa en el grafico, calendario de flujos, earnings edge y panel de riesgo. Contexto educativo, medido en el rastro."
 }
