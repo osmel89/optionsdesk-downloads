@@ -1,6 +1,6 @@
 {
-  "version": "0.5.282",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.282/OptionsDesk-Setup-0.5.282.exe",
-  "sha256": "f41f2757a66f5b27503f747e205b7ba9753c8dc77017548c87ea2d5c22905934",
-  "notes": "Fases B-F del estudio de liquidez: VRP comprar-vs-vender, perfil de volumen + ruptura falsa en el grafico, calendario de flujos, earnings edge y panel de riesgo. Contexto educativo, medido en el rastro."
+  "version": "0.5.283",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.283/OptionsDesk-Setup-0.5.283.exe",
+  "sha256": "1ba705afcfb964de467d22e207dc2a0a3bb623bc09fbd2498c0bd5cc0b1a8ff5",
+  "notes": "La inteligencia de liquidez ahora se VE: en Mercado, el chip de regimen gamma sale en las 3 secciones + chip VRP comprar-vs-vender prima + banner de flujos (OPEX/fin de mes). En el grafico: perfil de volumen, VWAP anclado y ruptura falsa. En Senales: historial earnings implicito-vs-real y temporalidad visible. En Operar: panel de riesgo de cartera (delta equivalente SPY, theta/dia, vega, Kelly). Educativo, no es asesoria."
 }
