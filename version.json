@@ -1,6 +1,6 @@
 {
-  "version": "0.5.283",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.283/OptionsDesk-Setup-0.5.283.exe",
-  "sha256": "1ba705afcfb964de467d22e207dc2a0a3bb623bc09fbd2498c0bd5cc0b1a8ff5",
-  "notes": "La inteligencia de liquidez ahora se VE: en Mercado, el chip de regimen gamma sale en las 3 secciones + chip VRP comprar-vs-vender prima + banner de flujos (OPEX/fin de mes). En el grafico: perfil de volumen, VWAP anclado y ruptura falsa. En Senales: historial earnings implicito-vs-real y temporalidad visible. En Operar: panel de riesgo de cartera (delta equivalente SPY, theta/dia, vega, Kelly). Educativo, no es asesoria."
+  "version": "0.5.284",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.284/OptionsDesk-Setup-0.5.284.exe",
+  "sha256": "cc8ddca547fbf8326ad98da93bdfe9aacfe0147629660f7c0a421981015d5979",
+  "notes": "Vigilancia ya no gasta la cuota de noticias con sentimiento al abrir la pagina: los motores automaticos usan solo el cache; el sentimiento en vivo se consulta unicamente cuando pides ver las noticias de un simbolo o en las alertas. Adios a los emails de limite alcanzado."
 }
