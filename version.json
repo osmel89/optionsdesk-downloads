@@ -1,6 +1,6 @@
 {
-  "version": "0.5.285",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.285/OptionsDesk-Setup-0.5.285.exe",
-  "sha256": "4f5683a9cf8ff1657a01eb517506ba911463750c8d4cec19a33864113a6ce40b",
-  "notes": "El grafico se recupera solo de fallos transitorios del feed (reintento automatico). Flujo de ordenes en vivo verificado con mercado abierto: agresor comprador/vendedor en contratos con actividad inusual + confirmacion de ballenas en vencimientos cortos."
+  "version": "0.5.286",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.286/OptionsDesk-Setup-0.5.286.exe",
+  "sha256": "409cd8870f3c70035bf2ecc0d0e8eb6e80df00dc6acc41190378f99169964e43",
+  "notes": "Biblioteca de videos completa: tutoriales de Velas, Senales, Mercado, Vigilancia y Ejecucion regrabados con la app actual y el mercado abierto, con voz en espanol. Se abren desde Info > Tutoriales."
 }
