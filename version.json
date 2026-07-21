@@ -1,6 +1,6 @@
 {
-  "version": "0.5.288",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.288/OptionsDesk-Setup-0.5.288.exe",
-  "sha256": "3f6b693abef2d11442793df46573ffedb181b315652a49edf09e265b86c5710c",
-  "notes": "Chip de iman de liquidez en Mercado: barridos de stops (contexto de reversion) e iman del nivel con mas toques, por fila, verde/ambar segun acompane al CALL/PUT. Tutoriales regrabados con la voz definitiva."
+  "version": "0.5.289",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.289/OptionsDesk-Setup-0.5.289.exe",
+  "sha256": "7bbf39e08561da29378e5949043d943abbdbe576404d3d7fbb9ba23eef368332",
+  "notes": "Iman de liquidez tambien en el grafico: nivel que atrae al precio, toques y millones negociados en la zona (huella de interes, no ordenes en espera) + barridos recientes. Capa nueva en Velas."
 }
