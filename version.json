@@ -1,6 +1,1 @@
-{
-  "version": "0.5.289",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.289/OptionsDesk-Setup-0.5.289.exe",
-  "sha256": "7bbf39e08561da29378e5949043d943abbdbe576404d3d7fbb9ba23eef368332",
-  "notes": "Iman de liquidez tambien en el grafico: nivel que atrae al precio, toques y millones negociados en la zona (huella de interes, no ordenes en espera) + barridos recientes. Capa nueva en Velas."
-}
+{"version": "0.5.290", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.290/OptionsDesk-Setup-0.5.290.exe", "sha256": "187b9fb10742e3f88e1a7f93220bebb87af76bea09f897c61d3c272cdf58d0f1", "notes": "Vistas: 24 con auto-guardado + medidor de vela a vela (TC2000 data box)"}
