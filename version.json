@@ -1,6 +1,6 @@
 {
-  "version": "0.5.287",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.287/OptionsDesk-Setup-0.5.287.exe",
-  "sha256": "d5b9cc19d46566cf8e5ee2972594911271925b8489f9968ac96aae9cba5334b2",
-  "notes": "Serie de tutoriales completa (11 de 11): se anaden Empieza de cero (registro, planes, descarga, inicio de sesion) y VISION por voz (la app hablando; VISION solo prepara, tu apruebas con tu PIN). Se abren desde Info > Tutoriales."
+  "version": "0.5.288",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.288/OptionsDesk-Setup-0.5.288.exe",
+  "sha256": "3f6b693abef2d11442793df46573ffedb181b315652a49edf09e265b86c5710c",
+  "notes": "Chip de iman de liquidez en Mercado: barridos de stops (contexto de reversion) e iman del nivel con mas toques, por fila, verde/ambar segun acompane al CALL/PUT. Tutoriales regrabados con la voz definitiva."
 }
