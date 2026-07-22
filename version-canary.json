@@ -1,7 +1,1 @@
-{
-  "version": "0.5.295",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.295/OptionsDesk-Setup-0.5.295.exe",
-  "sha256": "a9ee3363c6a5d1da986a8d860733cc1fa077bfa312b2579c83b646cb00bb7d3d",
-  "publishedAt": "2026-07-22T10:12:08Z",
-  "notes": "[canario] Gráfico: las estrategias nuevas ORB (E24/E25, ruptura del rango de apertura) ya muestran su nombre corto en el marcador sobre la vela, como el resto. Antes salían solo como 'E24/E25' sin el nombre. Añadido un cerrojo de test para que ninguna estrategia futura se quede sin nombre."
-}
+{"version": "0.5.296", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.296/OptionsDesk-Setup-0.5.296.exe", "sha256": "79b2fca1000a5ef1b4fc3e60a97353a9eeba7bd3f94afb986114e68ac00f7b0a", "notes": "Hotfix: Mercado no abria en 0.5.294; ORB completo con historial"}
