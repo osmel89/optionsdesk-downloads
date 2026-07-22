@@ -1,7 +1,7 @@
 {
-  "version": "0.5.280",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.280/OptionsDesk-Setup-0.5.280.exe",
-  "sha256": "75528dccacb8d7b29ae0e8c3a99672800b78da68457521885c95c733d456ea94",
-  "publishedAt": "2026-07-18T02:48:51Z",
-  "notes": "[canario] OptionsDesk MAX ahora concentra toda la inteligencia del mercado completo: Confluencia, Senales del dia, Varias estrategias coinciden, Intradia, Ballenas, Buscador por estrategia y el Radar overnight/pre-market son exclusivos de MAX. Pro sigue con la mesa completa de tu simbolo (senales, conviccion, #15, ejecucion con PIN) y Basico con la foto del dia. Si un bloque te aparece con candado, ahi mismo puedes subir de plan y se desbloquea al instante."
+  "version": "0.5.295",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.295/OptionsDesk-Setup-0.5.295.exe",
+  "sha256": "a9ee3363c6a5d1da986a8d860733cc1fa077bfa312b2579c83b646cb00bb7d3d",
+  "publishedAt": "2026-07-22T10:12:08Z",
+  "notes": "[canario] Gráfico: las estrategias nuevas ORB (E24/E25, ruptura del rango de apertura) ya muestran su nombre corto en el marcador sobre la vela, como el resto. Antes salían solo como 'E24/E25' sin el nombre. Añadido un cerrojo de test para que ninguna estrategia futura se quede sin nombre."
 }
