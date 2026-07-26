@@ -1,1 +1,7 @@
-{"version": "0.5.296", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.296/OptionsDesk-Setup-0.5.296.exe", "sha256": "79b2fca1000a5ef1b4fc3e60a97353a9eeba7bd3f94afb986114e68ac00f7b0a", "notes": "Hotfix: Mercado no abria en 0.5.294; ORB completo con historial"}
+{
+  "version": "0.5.323",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.323/OptionsDesk-Setup-0.5.323.exe",
+  "sha256": "2571ee9cd52041cc4d2ac54a6507e3117b086956e1fd23ec79c82f87e90777d5",
+  "publishedAt": "2026-07-26T06:51:23Z",
+  "notes": "[canario] Arreglo de seguridad: la clave 'announce_secret' (autentica los anuncios al canal de Telegram) se devolvia completa por GET /config; ahora se enmascara como los demas tokens (solo set + ultimos 4)."
+}
