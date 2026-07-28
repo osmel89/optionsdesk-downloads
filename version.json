@@ -1,6 +1,1 @@
-{
-  "version": "0.5.326",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.326/OptionsDesk-Setup-0.5.326.exe",
-  "sha256": "a9da4f8e32b0e947c2031cd0940d6780f675ae9144d0354cf0d3cb287aa2d223",
-  "notes": "Historial/«Se dio hoy»: una sesión nueva ya no se traga como continuación de un run del día anterior (caso NVDA 27-jul)."
-}
+{"version": "0.5.327", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.327/OptionsDesk-Setup-0.5.327.exe", "sha256": "e8741184a9688c6709055d6003e383af6275bf25ca94d71e1f2d1c19276f3b7f", "notes": "BOT-0 modo sombra: el bot decide pero NO ejecuta (simulacion medida, dos libros, contrato de ascenso). Config + VISION + reporte. 21 hallazgos adversariales arreglados."}
