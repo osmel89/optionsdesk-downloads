@@ -1,6 +1,6 @@
 {
-  "version": "0.5.340",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.340/OptionsDesk-Setup-0.5.340.exe",
-  "sha256": "1c5b7341c4ed24711e57d1c7cfa197956f43147d72ec87f6558352c23c45a658",
-  "notes": "Avisos al teléfono en la propia app, cifrados de punta a punta."
+  "version": "0.5.341",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.341/OptionsDesk-Setup-0.5.341.exe",
+  "sha256": "62a0ffa94ea72935ca40c4d97cd6e6ae54eadd78ff3361d0673f3450c6a04184",
+  "notes": "E15 dentro del Escáner + arreglado el falso 7/7 y el recorte silencioso."
 }
