@@ -1,6 +1,6 @@
 {
-  "version": "0.5.338",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.338/OptionsDesk-Setup-0.5.338.exe",
-  "sha256": "ffd0940739229e6d7bdbee2b9c0497637ff7bd33cecaf56dd1ba66247bd8427d",
-  "notes": "La voz y la pantalla dicen lo mismo: VISION y el teléfono leen el mismo escáner que Mercado, con cortes."
+  "version": "0.5.339",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.339/OptionsDesk-Setup-0.5.339.exe",
+  "sha256": "ba97077cedd343ab54015ab9d7ad05c56da803e4cdfa42958a9e7721115e878a",
+  "notes": "El escáner vuelve a ir rápido (caché 12 min + progreso real) y dice cuándo no pudo mirar."
 }
