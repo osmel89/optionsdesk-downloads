@@ -1,6 +1,6 @@
 {
-  "version": "0.5.342",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.342/OptionsDesk-Setup-0.5.342.exe",
-  "sha256": "70d113ec8f14bea9bc4084bc1bee80da3ea97c016b5e2b245d2bc9801f9a2935",
-  "notes": "El robot juega con las mismas reglas que ves: Veredicto y universo de Mercado."
+  "version": "0.5.343",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.343/OptionsDesk-Setup-0.5.343.exe",
+  "sha256": "7c026d652934ec6784ae5bf41a9e8f65835a909fc285fca17e7893d1e79ddd95",
+  "notes": "El Veredicto ya pesa cuánto DEJA por operación + lo que te avisé hoy no desaparece."
 }
