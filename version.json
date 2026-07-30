@@ -1,6 +1,6 @@
 {
-  "version": "0.5.341",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.341/OptionsDesk-Setup-0.5.341.exe",
-  "sha256": "62a0ffa94ea72935ca40c4d97cd6e6ae54eadd78ff3361d0673f3450c6a04184",
-  "notes": "E15 dentro del Escáner + arreglado el falso 7/7 y el recorte silencioso."
+  "version": "0.5.342",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.342/OptionsDesk-Setup-0.5.342.exe",
+  "sha256": "70d113ec8f14bea9bc4084bc1bee80da3ea97c016b5e2b245d2bc9801f9a2935",
+  "notes": "El robot juega con las mismas reglas que ves: Veredicto y universo de Mercado."
 }
