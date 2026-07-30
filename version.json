@@ -1,6 +1,6 @@
 {
-  "version": "0.5.336",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.336/OptionsDesk-Setup-0.5.336.exe",
-  "sha256": "c5421bfbc8d079688195e87ceba91c437536cc61aea916cd8ba7ba29b0daff9e",
-  "notes": "WEB-1 W1: puerta del trading por internet cerrada, cada dato con su hora, caché de sesión arreglada."
+  "version": "0.5.337",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.337/OptionsDesk-Setup-0.5.337.exe",
+  "sha256": "5ec81ecc81bcbac87db2ee0471da314f6b94aed1c0aa2d0be7ad1b685a4dadec",
+  "notes": "Companion web completo (Hoy/Lista/Ideas/Cartera) + interruptor de privacidad para las posiciones en el teléfono."
 }
