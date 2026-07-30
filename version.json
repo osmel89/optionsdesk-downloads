@@ -1,6 +1,6 @@
 {
-  "version": "0.5.339",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.339/OptionsDesk-Setup-0.5.339.exe",
-  "sha256": "ba97077cedd343ab54015ab9d7ad05c56da803e4cdfa42958a9e7721115e878a",
-  "notes": "El escáner vuelve a ir rápido (caché 12 min + progreso real) y dice cuándo no pudo mirar."
+  "version": "0.5.340",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.340/OptionsDesk-Setup-0.5.340.exe",
+  "sha256": "1c5b7341c4ed24711e57d1c7cfa197956f43147d72ec87f6558352c23c45a658",
+  "notes": "Avisos al teléfono en la propia app, cifrados de punta a punta."
 }
