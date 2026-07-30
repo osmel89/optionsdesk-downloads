@@ -1,6 +1,6 @@
 {
-  "version": "0.5.332",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.332/OptionsDesk-Setup-0.5.332.exe",
-  "sha256": "c79555938a938e1e8dc7c81912389752684a5242d5b83a79bf3f1a13b2bfbd74",
-  "notes": "Videos tutoriales renovados (cursor sigue el audio) + video de configuración completa con pop-up de bienvenida + video del BOT."
+  "version": "0.5.333",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.333/OptionsDesk-Setup-0.5.333.exe",
+  "sha256": "47deacfbcb50703acc7b460a0f95a080e800b08d3b01b5d8e9c31ccc6f0e0689",
+  "notes": "Constructor de estrategias (Fase S-A): 15 plantillas dibujadas con la cadena real + puentes desde Señales/Rueda + VISION por voz."
 }
