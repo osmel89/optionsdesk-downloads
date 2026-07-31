@@ -1,6 +1,6 @@
 {
- "version": "0.5.356",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.356/OptionsDesk-Setup-0.5.356.exe",
- "sha256": "077f5bf27a64e13749137d4f62aa112c0b258c19f3a4adc3f4c0960082a659e2",
- "notes": "Corrige un error del informe (venta contada como vencida sin valor); importa el CSV de ordenes del broker como fuente de verdad."
+ "version": "0.5.357",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.357/OptionsDesk-Setup-0.5.357.exe",
+ "sha256": "5ffe4a18801e2c4b5777bbb8643db2d913808f62462dd333f3ae11bc6cc54ca1",
+ "notes": "El informe se llena solo con las ejecuciones archivadas; fuera el subidor de archivos."
 }
