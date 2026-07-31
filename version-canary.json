@@ -1,6 +1,6 @@
 {
- "version": "0.5.352",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.352/OptionsDesk-Setup-0.5.352.exe",
- "sha256": "3dd34080062a9c5830f738276a25bdd1a5985efc61da9ea7c26cd6b72b8ed1b5",
- "notes": "Alertas puntuales de verdad (medidas desde el cierre de la vela) + Mercado con reloj visible + Reportes honesto."
+ "version": "0.5.353",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.353/OptionsDesk-Setup-0.5.353.exe",
+ "sha256": "dbc536a0784790e7bd7f4538615ea5a9d73d0bef29d8d74f18667d63717c4c62",
+ "notes": "El robot decide en el mismo marco que la pantalla (1h); hora del gatillo verdadera y alertas ORB a los minutos; \u00abno pude mirar\u00bb \u2260 \u00abno hay nada\u00bb; updates esperan al cierre."
 }
