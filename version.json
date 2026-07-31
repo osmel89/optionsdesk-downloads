@@ -1,6 +1,6 @@
 {
-  "version": "0.5.344",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.344/OptionsDesk-Setup-0.5.344.exe",
-  "sha256": "5a27ced0db2af4ecf9a5e0aa1a700c89273dd2b2ec95cb5ba802a2a63f5f7b2f",
-  "notes": "Estrategias por temporalidad + alertas que no avisan de lo que pierde."
+  "version": "0.5.345",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.345/OptionsDesk-Setup-0.5.345.exe",
+  "sha256": "2ed02045abf407c945e2268d9cb7d889333f354caed4dd540d7df7dfe2d6a1c3",
+  "notes": "Aviso cuando una estrategia pierde de media en esa temporalidad."
 }
