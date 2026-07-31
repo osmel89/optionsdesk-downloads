@@ -1,7 +1,7 @@
 {
-  "version": "0.5.328",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.328/OptionsDesk-Setup-0.5.328.exe",
-  "sha256": "d4a81a749438ed61cb5b2b1b991a1f644f87299bba68eb36344525cd963fcf85",
-  "publishedAt": "2026-07-28T06:54:19Z",
-  "notes": "[canario] Bot sombra: una liquidacion de vencimiento con velas/red rotas en UN simbolo ya no aborta la revision de salidas de las demas posiciones (loop de vencidas guardado por-posicion, como el de vivas). Briefing: la linea semanal del bot sombra (local del dueno) ya no se cuela en el briefing de un cliente de la NUBE los lunes."
+  "version": "0.5.346",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.346/OptionsDesk-Setup-0.5.346.exe",
+  "sha256": "f7a043626120b14dd11fddb1200d5241f5162e305f1b2818c0ea0777ac0f3778",
+  "publishedAt": "2026-07-31T06:48:36Z",
+  "notes": "[canario] Avisos al teléfono (Web Push): si al build le falta una librería de cifrado (py_vapid), el canal se apaga con gracia en vez de reventar el aviso; los demás avisos (campanita/SMS) siguen. Test blindado para no depender de librerías opcionales."
 }
