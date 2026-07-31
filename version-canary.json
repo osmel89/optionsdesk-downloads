@@ -1,6 +1,6 @@
 {
- "version": "0.5.353",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.353/OptionsDesk-Setup-0.5.353.exe",
- "sha256": "dbc536a0784790e7bd7f4538615ea5a9d73d0bef29d8d74f18667d63717c4c62",
- "notes": "El robot decide en el mismo marco que la pantalla (1h); hora del gatillo verdadera y alertas ORB a los minutos; \u00abno pude mirar\u00bb \u2260 \u00abno hay nada\u00bb; updates esperan al cierre."
+ "version": "0.5.354",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.354/OptionsDesk-Setup-0.5.354.exe",
+ "sha256": "aba5b6017f8c272c305d7c8bf85bbf60ef8d093f646f444435a62e185cee23fe",
+ "notes": "Mercado escanea solo en el servidor; \u00ab0 de 0\u00bb honesto con reintento; Escanear fuerza recomputo; marco del robot elegible (PIN); la alerta dice su Veredicto."
 }
