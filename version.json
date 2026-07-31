@@ -1,6 +1,6 @@
 {
- "version": "0.5.350",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.350/OptionsDesk-Setup-0.5.350.exe",
- "sha256": "7ce020a24364a97240942c186f00f4a4d81e68915760d7d9790f2443a4658216",
- "notes": "Reportes honesto (nada desaparece en silencio, vencidas contadas, copia local de ejecuciones) + Mercado re-escanea solo en la ventana de la app."
+ "version": "0.5.351",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.351/OptionsDesk-Setup-0.5.351.exe",
+ "sha256": "648a0c80c30c69c4d6fe27bf7d52bde8e7d97c0f5726c95a91ca603a66e5b830",
+ "notes": "Mercado ense\u00f1a su reloj (cuenta atr\u00e1s del auto-escaneo) + Reportes honesto + copia local de ejecuciones."
 }
