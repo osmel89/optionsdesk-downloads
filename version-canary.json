@@ -1,6 +1,6 @@
 {
- "version": "0.5.348",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.348/OptionsDesk-Setup-0.5.348.exe",
- "sha256": "d240e803c6ea71ec11d8703bb07d25d1484a41bc7088ac1fa60c14aadf751797",
+ "version": "0.5.349",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.349/OptionsDesk-Setup-0.5.349.exe",
+ "sha256": "bd655df8789f23f18f01d3845fe848f25ce4e4f8fb03991ce5337a1cd9dd229c",
  "notes": "Reportes: nada desaparece en silencio; vencidas liquidadas con el costo real del broker; copia local de tus ejecuciones."
 }
