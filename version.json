@@ -1,6 +1,6 @@
 {
- "version": "0.5.351",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.351/OptionsDesk-Setup-0.5.351.exe",
- "sha256": "648a0c80c30c69c4d6fe27bf7d52bde8e7d97c0f5726c95a91ca603a66e5b830",
- "notes": "Mercado ense\u00f1a su reloj (cuenta atr\u00e1s del auto-escaneo) + Reportes honesto + copia local de ejecuciones."
+ "version": "0.5.352",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.352/OptionsDesk-Setup-0.5.352.exe",
+ "sha256": "3dd34080062a9c5830f738276a25bdd1a5985efc61da9ea7c26cd6b72b8ed1b5",
+ "notes": "Alertas puntuales de verdad (medidas desde el cierre de la vela) + Mercado con reloj visible + Reportes honesto."
 }
