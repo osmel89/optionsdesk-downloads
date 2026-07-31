@@ -1,6 +1,6 @@
 {
-  "version": "0.5.345",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.345/OptionsDesk-Setup-0.5.345.exe",
-  "sha256": "2ed02045abf407c945e2268d9cb7d889333f354caed4dd540d7df7dfe2d6a1c3",
-  "notes": "Aviso cuando una estrategia pierde de media en esa temporalidad."
+ "version": "0.5.350",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.350/OptionsDesk-Setup-0.5.350.exe",
+ "sha256": "7ce020a24364a97240942c186f00f4a4d81e68915760d7d9790f2443a4658216",
+ "notes": "Reportes honesto (nada desaparece en silencio, vencidas contadas, copia local de ejecuciones) + Mercado re-escanea solo en la ventana de la app."
 }
