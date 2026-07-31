@@ -1,6 +1,1 @@
-{
- "version": "0.5.357",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.357/OptionsDesk-Setup-0.5.357.exe",
- "sha256": "5ffe4a18801e2c4b5777bbb8643db2d913808f62462dd333f3ae11bc6cc54ca1",
- "notes": "El informe se llena solo con las ejecuciones archivadas; fuera el subidor de archivos."
-}
+{"version": "0.5.358", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.358/OptionsDesk-Setup-0.5.358.exe", "sha256": "810f27e821b4d80e2867f898273d26fd658028ccb2abe4f02c1ab904e3180d87", "notes": "Reportes: 10 operaciones recuperadas (+$18.891 desde el 6-jul), precios del fill real, y los vencimientos ya no afirman un final que no se pudo comprobar."}
