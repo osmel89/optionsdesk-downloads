@@ -1,6 +1,6 @@
 {
-  "version": "0.5.368",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.368/OptionsDesk-Setup-0.5.368.exe",
-  "sha256": "b3b528ac7b9ecf3434167c913861efb3e7849e4dc8a66757c2134fa0a9b952ed",
-  "notes": "Auditoria de estadistica: la tabla del robot mezclaba dos escalas y aparentaba mas datos de los que hay (corregida, minimo 30 resueltas para afirmar un %); el factor de cuanto deja exige ahora su propia muestra (100); el escaner de Mercado queda verificado limpio (sus numeros salen del replay historico)."
+  "version": "0.5.369",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.369/OptionsDesk-Setup-0.5.369.exe",
+  "sha256": "86c2720056a2de890b3c729c050a2259f000f3aa5298c66cc9231a70b572ca89",
+  "notes": "Perfiles de riesgo del robot: conservador/equilibrado/agresivo — el perfil deriva tamano, posiciones, frenos, pausa mensual y corte del capital, y elige el strike (ITM/ATM/OTM). El escalado por puntuacion nace apagado y se gana con 100 resueltas."
 }
