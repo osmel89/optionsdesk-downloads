@@ -1,6 +1,6 @@
 {
-  "version": "0.5.369",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.369/OptionsDesk-Setup-0.5.369.exe",
-  "sha256": "86c2720056a2de890b3c729c050a2259f000f3aa5298c66cc9231a70b572ca89",
-  "notes": "Perfiles de riesgo del robot: conservador/equilibrado/agresivo — el perfil deriva tamano, posiciones, frenos, pausa mensual y corte del capital, y elige el strike (ITM/ATM/OTM). El escalado por puntuacion nace apagado y se gana con 100 resueltas."
+  "version": "0.5.370",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.370/OptionsDesk-Setup-0.5.370.exe",
+  "sha256": "4e9186384811132d2ca56483d723f8375d5a5c3d1381751b9e3b4752a91c6d1c",
+  "notes": "El robot toma ganancias por agotamiento (RSI girando, divergencia en contra, VWAP anclado perdido — solo con la posicion en verde); lo del bot separado en Portafolio y Reportes; fin del parpadeo del escaner y Se dio hoy honesto."
 }
