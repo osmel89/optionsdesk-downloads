@@ -1,6 +1,6 @@
 {
-  "version": "0.5.367",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.367/OptionsDesk-Setup-0.5.367.exe",
-  "sha256": "5e698e22afeacf9021125682cf7df1be8afeb9d8eab2ee741b071356220c58a3",
-  "notes": "El robot ya puede comprar: el limite por operacion se dice en DOLARES (800$ por defecto) en vez de un porcentaje que no daba ni para un contrato. Ademas, lo que el robot abre lo sigue cuidando aunque lo desarmes, y el dueno puede dar acceso de prueba al robot desde la web."
+  "version": "0.5.368",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.368/OptionsDesk-Setup-0.5.368.exe",
+  "sha256": "b3b528ac7b9ecf3434167c913861efb3e7849e4dc8a66757c2134fa0a9b952ed",
+  "notes": "Auditoria de estadistica: la tabla del robot mezclaba dos escalas y aparentaba mas datos de los que hay (corregida, minimo 30 resueltas para afirmar un %); el factor de cuanto deja exige ahora su propia muestra (100); el escaner de Mercado queda verificado limpio (sus numeros salen del replay historico)."
 }
