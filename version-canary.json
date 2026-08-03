@@ -1,1 +1,6 @@
-{"version": "0.5.366", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.366/OptionsDesk-Setup-0.5.366.exe", "sha256": "77d1dc2a507afb6a86e39093ec1cec9e80e95bfcb971b87b6f7ee766456db636", "notes": "Un solo PIN: fuera las dos casillas de mas en la tarjeta del bot."}
+{
+  "version": "0.5.367",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.367/OptionsDesk-Setup-0.5.367.exe",
+  "sha256": "5e698e22afeacf9021125682cf7df1be8afeb9d8eab2ee741b071356220c58a3",
+  "notes": "El robot ya puede comprar: el limite por operacion se dice en DOLARES (800$ por defecto) en vez de un porcentaje que no daba ni para un contrato. Ademas, lo que el robot abre lo sigue cuidando aunque lo desarmes, y el dueno puede dar acceso de prueba al robot desde la web."
+}
