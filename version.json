@@ -1,6 +1,6 @@
 {
-  "version": "0.5.370",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.370/OptionsDesk-Setup-0.5.370.exe",
-  "sha256": "4e9186384811132d2ca56483d723f8375d5a5c3d1381751b9e3b4752a91c6d1c",
-  "notes": "El robot toma ganancias por agotamiento (RSI girando, divergencia en contra, VWAP anclado perdido — solo con la posicion en verde); lo del bot separado en Portafolio y Reportes; fin del parpadeo del escaner y Se dio hoy honesto."
+  "version": "0.5.371",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.371/OptionsDesk-Setup-0.5.371.exe",
+  "sha256": "a3454051c0a4b425f8a79340651d10248784b6036ad1f49a9e104ed71dc9ff9d",
+  "notes": "La regla anti-codicia del robot: recuerda la ganancia maxima de cada posicion y si llego a +20% y devuelve la mitad, cierra y se lleva lo que queda. El detector de agotamiento crece a 7 senales (primera vela en contra, media de 20, volumen de reversa, Chandelier Exit)."
 }
