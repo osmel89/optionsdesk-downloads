@@ -1,6 +1,6 @@
 {
-  "version": "0.5.371",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.371/OptionsDesk-Setup-0.5.371.exe",
-  "sha256": "a3454051c0a4b425f8a79340651d10248784b6036ad1f49a9e104ed71dc9ff9d",
-  "notes": "La regla anti-codicia del robot: recuerda la ganancia maxima de cada posicion y si llego a +20% y devuelve la mitad, cierra y se lleva lo que queda. El detector de agotamiento crece a 7 senales (primera vela en contra, media de 20, volumen de reversa, Chandelier Exit)."
+  "version": "0.5.373",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.373/OptionsDesk-Setup-0.5.373.exe",
+  "sha256": "5ba88656532f3e04fe96d0ce71934112b069a2e584bdbfcd7bf7ccdf5a402d85",
+  "notes": "Auditoria del primer dia real del bot: el capital del robot se elige en su tarjeta (manejaba 50k cuando el dueno queria 5k); el robot mide primero las filas de mayor puntuacion (PLTR 57 / IWM 55 quedaban sin considerar); aviso de persistencia en Config si un guardado no llega al disco."
 }
