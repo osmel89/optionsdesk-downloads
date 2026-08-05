@@ -1,6 +1,6 @@
 {
-  "version": "0.5.373",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.373/OptionsDesk-Setup-0.5.373.exe",
-  "sha256": "5ba88656532f3e04fe96d0ce71934112b069a2e584bdbfcd7bf7ccdf5a402d85",
-  "notes": "Auditoria del primer dia real del bot: el capital del robot se elige en su tarjeta (manejaba 50k cuando el dueno queria 5k); el robot mide primero las filas de mayor puntuacion (PLTR 57 / IWM 55 quedaban sin considerar); aviso de persistencia en Config si un guardado no llega al disco."
+  "version": "0.5.374",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.374/OptionsDesk-Setup-0.5.374.exe",
+  "sha256": "8819edb50436a7ac5f6c04aa250d085ba9b2f1164daed7b54713c78a496ce583",
+  "notes": "El capital del robot puede ser un % de la cuenta (papel o produccion) y escala solo; sin saldo conocido no abre nada (falla cerrado). Freno diario elegible en modo Personalizado. Aviso claro cuando la cuenta es demasiado pequena para un contrato."
 }
