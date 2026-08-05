@@ -1,6 +1,6 @@
 {
-  "version": "0.5.376",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.376/OptionsDesk-Setup-0.5.376.exe",
-  "sha256": "988808a47e54869bdbf4d2a14fe87cc8a49c4159d6f7d3371941855f91f673cb",
-  "notes": "Avisos de ejecucion: venta manual confirmada con P&L y compras/ventas del robot, por campanita, push y SMS. Y Telegram privado por usuario: vincula tu Telegram en Config y los avisos llegan como mensaje directo del bot de la casa."
+  "version": "0.5.377",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.377/OptionsDesk-Setup-0.5.377.exe",
+  "sha256": "c75642b3a56641521c61ce043b9915f9a39c35de7c8a1534be2f2968b9a2281e",
+  "notes": "Los avisos de Telegram llegan con la FOTO de las velas: la senal contundente con la imagen del gatillo, y las compras/ventas (robot y manuales) con las velas al momento de la ejecucion y el P&L en el texto."
 }
