@@ -1,6 +1,6 @@
 {
-  "version": "0.5.374",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.374/OptionsDesk-Setup-0.5.374.exe",
-  "sha256": "8819edb50436a7ac5f6c04aa250d085ba9b2f1164daed7b54713c78a496ce583",
-  "notes": "El capital del robot puede ser un % de la cuenta (papel o produccion) y escala solo; sin saldo conocido no abre nada (falla cerrado). Freno diario elegible en modo Personalizado. Aviso claro cuando la cuenta es demasiado pequena para un contrato."
+  "version": "0.5.375",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.375/OptionsDesk-Setup-0.5.375.exe",
+  "sha256": "baca323bff279a1cd59f0225c30538ced71ab93f981d98704155b95271c39ad5",
+  "notes": "El capital por % de la cuenta se resuelve en minutos: el robot lee el saldo en cada pase, no solo al abrir la ventana de entradas."
 }
