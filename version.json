@@ -1,6 +1,6 @@
 {
-  "version": "0.5.375",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.375/OptionsDesk-Setup-0.5.375.exe",
-  "sha256": "baca323bff279a1cd59f0225c30538ced71ab93f981d98704155b95271c39ad5",
-  "notes": "El capital por % de la cuenta se resuelve en minutos: el robot lee el saldo en cada pase, no solo al abrir la ventana de entradas."
+  "version": "0.5.376",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.376/OptionsDesk-Setup-0.5.376.exe",
+  "sha256": "988808a47e54869bdbf4d2a14fe87cc8a49c4159d6f7d3371941855f91f673cb",
+  "notes": "Avisos de ejecucion: venta manual confirmada con P&L y compras/ventas del robot, por campanita, push y SMS. Y Telegram privado por usuario: vincula tu Telegram en Config y los avisos llegan como mensaje directo del bot de la casa."
 }
