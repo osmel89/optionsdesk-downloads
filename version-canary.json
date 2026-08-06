@@ -1,6 +1,6 @@
 {
-  "version": "0.5.387",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.387/OptionsDesk-Setup-0.5.387.exe",
-  "sha256": "71bf167a2d100c8e8e35ce303633160e5b5a1849b0eafb93d8692725b2258729",
-  "notes": "Actualizar sin romper el robot (el freno de sesion solo aplica con el bot armado) + auditoria completa de la API: 2 fugas del plan MAX cerradas, campanita con gate de plan y 6 endpoints muertos retirados."
+  "version": "0.5.388",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.388/OptionsDesk-Setup-0.5.388.exe",
+  "sha256": "3819b761f4096ad9112d9113643615e71c2177d8324bb4802290bca32e187f27",
+  "notes": "Se acabo la contradiccion Hoy vs Senales: la direccion automatica sigue una escalera solida (tendencia de tu marco -> Detector solo si CONTUNDENTE -> marco diario, el mismo cerebro de Hoy -> neutral honesto). Caso real BAC verificado."
 }
