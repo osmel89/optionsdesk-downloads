@@ -1,6 +1,6 @@
 {
-  "version": "0.5.383",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.383/OptionsDesk-Setup-0.5.383.exe",
-  "sha256": "a04037942962567062c85c0418733fd6a34ce8b7ea2f296c113732c503f13319",
-  "notes": "Arreglo importante del robot: el freno diario ya NO cuenta la perdida vieja de una posicion arrastrada como si fuera de hoy (anclas al cierre de ayer). Salida con voto de estrategia contraria + bracket del robot visible en Portafolio."
+  "version": "0.5.384",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.384/OptionsDesk-Setup-0.5.384.exe",
+  "sha256": "5b544336e61b829f4eba86e52cdd39ff262ccf9d2f981d4bcaf542e3788e244f",
+  "notes": "El robot cierra con escalera de precio (cerca del mid primero, re-cotiza, bid al final) y nuevo boton para quitar el freno diario bajo tu responsabilidad (con PIN; el freno por discrepancia nunca se salta)."
 }
