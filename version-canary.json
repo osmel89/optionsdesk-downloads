@@ -1,6 +1,6 @@
 {
-  "version": "0.5.386",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.386/OptionsDesk-Setup-0.5.386.exe",
-  "sha256": "ef749125407279786ea565ed5063c82ca12586b691f0f972055131339c01fd4d",
-  "notes": "El banner de actualizacion dice la verdad (con el mercado abierto la instalacion espera al cierre — ahora lo explica y ofrece Instalar YA) + descarga con reintentos + videos de tutoriales en hosting sin limite."
+  "version": "0.5.387",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.387/OptionsDesk-Setup-0.5.387.exe",
+  "sha256": "71bf167a2d100c8e8e35ce303633160e5b5a1849b0eafb93d8692725b2258729",
+  "notes": "Actualizar sin romper el robot (el freno de sesion solo aplica con el bot armado) + auditoria completa de la API: 2 fugas del plan MAX cerradas, campanita con gate de plan y 6 endpoints muertos retirados."
 }
