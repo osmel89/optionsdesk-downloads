@@ -1,6 +1,6 @@
 {
-  "version": "0.5.390",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.390/OptionsDesk-Setup-0.5.390.exe",
-  "sha256": "f597caae0088123661f7a53b12806383430edda0c297e36299be582fda7a11cb",
-  "notes": "La MAREA llega a Mercado: en 1h y 15min cada fila dice si la senal va a favor o en contra de la tendencia diaria (chip), el rastro lo guarda para medirlo y el robot lo usa como desempate."
+  "version": "0.5.391",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.391/OptionsDesk-Setup-0.5.391.exe",
+  "sha256": "76f0cfedd7dd839e3febf7b937d7a9728d05ec425f13f9c0dc8078ef73f1a392",
+  "notes": "Mercado muestra el estado tecnico de TU temporalidad (ADX, RSI extremo, Bollinger) y los factores del analisis dicen de que marco hablan: se acabo la contradiccion del ADX 58 en el grafico vs 'lateral' en el analisis."
 }
