@@ -1,6 +1,6 @@
 {
-  "version": "0.5.378",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.378/OptionsDesk-Setup-0.5.378.exe",
-  "sha256": "03eb90d9a63247c9f64a0de37347de7b30ac4579a83091d109343ee065c56381",
-  "notes": "La conviccion de 'Hoy' ahora se mide sola (las top-3 diarias de la watchlist se registran y se califican con el tiempo) + boton Simular del bot (solo dueno): corre el robot sobre dias reales pasados y compara cortes, con prima modelada."
+  "version": "0.5.379",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.379/OptionsDesk-Setup-0.5.379.exe",
+  "sha256": "8a13d4b1f5b00bba0c668cc68885d08ea796a2aca5fa25c39ef40e06c0f6ff47",
+  "notes": "La conviccion de 'Hoy' pesa 4 senales nuevas acotadas (fuerza relativa vs SPY, lado del VWAP, iman de liquidez y noticias del dia) y Mercado muestra los chips RS y VWAP en cada fila — con marca de a favor / en contra del lado de la senal."
 }
