@@ -1,6 +1,6 @@
 {
-  "version": "0.5.379",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.379/OptionsDesk-Setup-0.5.379.exe",
-  "sha256": "8a13d4b1f5b00bba0c668cc68885d08ea796a2aca5fa25c39ef40e06c0f6ff47",
-  "notes": "La conviccion de 'Hoy' pesa 4 senales nuevas acotadas (fuerza relativa vs SPY, lado del VWAP, iman de liquidez y noticias del dia) y Mercado muestra los chips RS y VWAP en cada fila — con marca de a favor / en contra del lado de la senal."
+  "version": "0.5.380",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.380/OptionsDesk-Setup-0.5.380.exe",
+  "sha256": "1a300ef987f654a93dc6ca5869bc259d927e38fad08d4870b5fff69f861c3237",
+  "notes": "Simulador: la opcion 'mi corte actual' ahora se ajusta sola al descuento del simulador (corte real 45 = 35 sim), con etiqueta clara y nota honesta."
 }
