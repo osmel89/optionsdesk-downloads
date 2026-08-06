@@ -1,6 +1,6 @@
 {
-  "version": "0.5.377",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.377/OptionsDesk-Setup-0.5.377.exe",
-  "sha256": "c75642b3a56641521c61ce043b9915f9a39c35de7c8a1534be2f2968b9a2281e",
-  "notes": "Los avisos de Telegram llegan con la FOTO de las velas: la senal contundente con la imagen del gatillo, y las compras/ventas (robot y manuales) con las velas al momento de la ejecucion y el P&L en el texto."
+  "version": "0.5.378",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.378/OptionsDesk-Setup-0.5.378.exe",
+  "sha256": "03eb90d9a63247c9f64a0de37347de7b30ac4579a83091d109343ee065c56381",
+  "notes": "La conviccion de 'Hoy' ahora se mide sola (las top-3 diarias de la watchlist se registran y se califican con el tiempo) + boton Simular del bot (solo dueno): corre el robot sobre dias reales pasados y compara cortes, con prima modelada."
 }
