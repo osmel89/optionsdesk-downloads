@@ -1,6 +1,6 @@
 {
-  "version": "0.5.385",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.385/OptionsDesk-Setup-0.5.385.exe",
-  "sha256": "4c0a92056d5f2ea3a60d0d19a8dbdce8622e45fe440c92d142f8198296006d96",
-  "notes": "Senales de apertura sin el retraso de ~20 min: los avisos y el escaner se renuevan justo tras cada cierre de 15 minutos (donde nacen las E20-E25), no solo al de la vela horaria. Caso real MSFT de hoy."
+  "version": "0.5.386",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.386/OptionsDesk-Setup-0.5.386.exe",
+  "sha256": "ef749125407279786ea565ed5063c82ca12586b691f0f972055131339c01fd4d",
+  "notes": "El banner de actualizacion dice la verdad (con el mercado abierto la instalacion espera al cierre — ahora lo explica y ofrece Instalar YA) + descarga con reintentos + videos de tutoriales en hosting sin limite."
 }
