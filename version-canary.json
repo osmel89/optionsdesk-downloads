@@ -1,6 +1,6 @@
 {
-  "version": "0.5.380",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.380/OptionsDesk-Setup-0.5.380.exe",
-  "sha256": "1a300ef987f654a93dc6ca5869bc259d927e38fad08d4870b5fff69f861c3237",
-  "notes": "Simulador: la opcion 'mi corte actual' ahora se ajusta sola al descuento del simulador (corte real 45 = 35 sim), con etiqueta clara y nota honesta."
+  "version": "0.5.381",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.381/OptionsDesk-Setup-0.5.381.exe",
+  "sha256": "0871c0426f1fd1bdf8bc6797a90e47467e5377a5b85796ec0d8ce4218faed117",
+  "notes": "Hoy: plaquitas de la conviccion por tarjeta (que se cumplio y que va en contra, como los pilares de E15). Mercado: las marcas de fuerza relativa, VWAP e iman ahora visibles en la fila del escaner (verde acompana, ambar en contra)."
 }
