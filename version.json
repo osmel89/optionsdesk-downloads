@@ -1,6 +1,6 @@
 {
-  "version": "0.5.391",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.391/OptionsDesk-Setup-0.5.391.exe",
-  "sha256": "76f0cfedd7dd839e3febf7b937d7a9728d05ec425f13f9c0dc8078ef73f1a392",
-  "notes": "Mercado muestra el estado tecnico de TU temporalidad (ADX, RSI extremo, Bollinger) y los factores del analisis dicen de que marco hablan: se acabo la contradiccion del ADX 58 en el grafico vs 'lateral' en el analisis."
+  "version": "0.5.392",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.392/OptionsDesk-Setup-0.5.392.exe",
+  "sha256": "09c52a55ac397c07fa514fcd65f138f213e901849abb373691df087d2fb339e4",
+  "notes": "Universo 40 = los MISMOS 40 para todos los usuarios; el tooltip del Veredicto ahora suma exacto (todas las razones + total); aviso cuando la instalacion usa datos retrasados. Se acabo el 'cada cliente ve una lista distinta'."
 }
