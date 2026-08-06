@@ -1,6 +1,6 @@
 {
-  "version": "0.5.388",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.388/OptionsDesk-Setup-0.5.388.exe",
-  "sha256": "3819b761f4096ad9112d9113643615e71c2177d8324bb4802290bca32e187f27",
-  "notes": "Se acabo la contradiccion Hoy vs Senales: la direccion automatica sigue una escalera solida (tendencia de tu marco -> Detector solo si CONTUNDENTE -> marco diario, el mismo cerebro de Hoy -> neutral honesto). Caso real BAC verificado."
+  "version": "0.5.389",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.389/OptionsDesk-Setup-0.5.389.exe",
+  "sha256": "370bb5515ce954d3947b6759094e8fbc655268e04f659f7ca3b598d4ad311905",
+  "notes": "Triple pantalla en Hoy: cada tarjeta muestra el gatillo de 1 hora (marea + ola) y avisa cuando coinciden. Ademas, medicion honesta de a que HORA dejan mas las senales."
 }
