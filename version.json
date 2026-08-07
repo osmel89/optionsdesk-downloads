@@ -1,6 +1,6 @@
 {
-  "version": "0.5.397",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.397/OptionsDesk-Setup-0.5.397.exe",
-  "sha256": "2bdb8776dc6c4d69d81559267c91c2e368fb9fb7660964fe8c5cc0cf41c36fe1",
-  "notes": "Comprar SPX semanal ya no falla (SPXW es el mismo subyacente); el reloj de confirmacion del gatillo dice la hora real (vela de 15 min); videos de Hoy/Senales/Mercado regrabados con el mercado abierto; y el boton Universo 40 vuelve a marcarse."
+  "version": "0.5.398",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.398/OptionsDesk-Setup-0.5.398.exe",
+  "sha256": "842191510eeb9db574c78631b97b76fea8fbbfdb696fc4abd86258e00d24c39c",
+  "notes": "Video de Mercado regrabado con la sesion de mediodia: el tooltip del Veredicto sumando exacto en camara, los chips nuevos y los avisos reales del dia."
 }
