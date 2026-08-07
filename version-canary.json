@@ -1,6 +1,6 @@
 {
-  "version": "0.5.393",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.393/OptionsDesk-Setup-0.5.393.exe",
-  "sha256": "9248f155befbba361eb5102a83832d0202ef9d01098a056512b45fb2f4a691ee",
-  "notes": "Fin del parpadeo de Mercado: con el mercado cerrado la pantalla queda quieta (el escáner ya no reintenta cada 5 segundos) y durante un escaneo la lista visible se queda — el avance va en el boton."
+  "version": "0.5.394",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.394/OptionsDesk-Setup-0.5.394.exe",
+  "sha256": "2f63f2b7f7bbd3cbbca2e420090e9127d90440dd1f87177b56f2fd1e38ab39a1",
+  "notes": "La Biblioteca de videos vuelve a reproducir DENTRO de la app (ya no descarga el archivo) y el portal web recupero sus tutoriales."
 }
