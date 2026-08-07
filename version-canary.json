@@ -1,6 +1,6 @@
 {
-  "version": "0.5.392",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.392/OptionsDesk-Setup-0.5.392.exe",
-  "sha256": "09c52a55ac397c07fa514fcd65f138f213e901849abb373691df087d2fb339e4",
-  "notes": "Universo 40 = los MISMOS 40 para todos los usuarios; el tooltip del Veredicto ahora suma exacto (todas las razones + total); aviso cuando la instalacion usa datos retrasados. Se acabo el 'cada cliente ve una lista distinta'."
+  "version": "0.5.393",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.393/OptionsDesk-Setup-0.5.393.exe",
+  "sha256": "9248f155befbba361eb5102a83832d0202ef9d01098a056512b45fb2f4a691ee",
+  "notes": "Fin del parpadeo de Mercado: con el mercado cerrado la pantalla queda quieta (el escáner ya no reintenta cada 5 segundos) y durante un escaneo la lista visible se queda — el avance va en el boton."
 }
