@@ -1,6 +1,6 @@
 {
-  "version": "0.5.394",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.394/OptionsDesk-Setup-0.5.394.exe",
-  "sha256": "2f63f2b7f7bbd3cbbca2e420090e9127d90440dd1f87177b56f2fd1e38ab39a1",
-  "notes": "La Biblioteca de videos vuelve a reproducir DENTRO de la app (ya no descarga el archivo) y el portal web recupero sus tutoriales."
+  "version": "0.5.395",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.395/OptionsDesk-Setup-0.5.395.exe",
+  "sha256": "bbd08ce4d9c1e15f315d2cfdf5e494ad1d0dcf086733f2c37050dbcb6241d8ac",
+  "notes": "4 videos nuevos con la voz de Osmel: La pestana HOY (nuevo — la regla de las tres pantallas), Senales, Mercado y el BOT regrabados con todo lo reciente. La serie pasa a 14."
 }
