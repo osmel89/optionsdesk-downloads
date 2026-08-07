@@ -1,6 +1,6 @@
 {
-  "version": "0.5.396",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.396/OptionsDesk-Setup-0.5.396.exe",
-  "sha256": "049b68446e68e42029e464ff79d158fedf94c65eb4eb9b21d31a9475d789f679",
-  "notes": "El boton de quitar el freno del BOT ahora aguanta tambien con el freno MENSUAL (solo se re-frena si el mes pierde otro limite completo mas); y al vender para cerrar con limite, la orden te dice en vivo que % de ganancia representa ese limite contra tu entrada."
+  "version": "0.5.397",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.397/OptionsDesk-Setup-0.5.397.exe",
+  "sha256": "2bdb8776dc6c4d69d81559267c91c2e368fb9fb7660964fe8c5cc0cf41c36fe1",
+  "notes": "Comprar SPX semanal ya no falla (SPXW es el mismo subyacente); el reloj de confirmacion del gatillo dice la hora real (vela de 15 min); videos de Hoy/Senales/Mercado regrabados con el mercado abierto; y el boton Universo 40 vuelve a marcarse."
 }
