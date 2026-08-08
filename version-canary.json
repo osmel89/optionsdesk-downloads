@@ -1,6 +1,6 @@
 {
-  "version": "0.5.399",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.399/OptionsDesk-Setup-0.5.399.exe",
-  "sha256": "883972f8952fef377b2ac69e61b8c907f8a0fd60021c920f38129a943d480cbd",
-  "notes": "Fin de las tarjetas gemelas en Hoy: las topadas en 60 muestran su puntaje crudo etiquetado y se ordenan por el — la de todo verde va primero."
+  "version": "0.5.400",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.400/OptionsDesk-Setup-0.5.400.exe",
+  "sha256": "e8b4a955a2d0cc1f1fce22c93e42561272327f3ca1e9c40640a336e52dfbb068",
+  "notes": "La app reporta su version cada 10 minutos (no solo al iniciar sesion): ahora se puede saber de verdad si las actualizaciones llegan a cada equipo."
 }
