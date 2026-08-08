@@ -1,6 +1,6 @@
 {
-  "version": "0.5.402",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.402/OptionsDesk-Setup-0.5.402.exe",
-  "sha256": "a54f6743304d87b97428b8fa3b1a53d50f7060ad0a82ccb1c243b3d0acb17698",
-  "notes": "Reportes cuenta ya las vencidas que estaban invisibles (el informe baja, y por eso es mas verdadero) y las tarjetas de Hoy muestran su conteo de condiciones para no parecer gemelas."
+  "version": "0.5.403",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.403/OptionsDesk-Setup-0.5.403.exe",
+  "sha256": "a39d9de98ef0a0f1e05df7b1ee23134819e0846493bacb511422c5345d4ac9c0",
+  "notes": "Nuevo aviso cuando una opcion esta por vencer (2 dias de margen): es el aviso con mas prioridad, porque dejar vencer es lo unico que no tiene vuelta atras."
 }
