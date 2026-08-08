@@ -1,6 +1,6 @@
 {
-  "version": "0.5.404",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.404/OptionsDesk-Setup-0.5.404.exe",
-  "sha256": "6afe21eecc03050ddc2db7929308fb8562e6dffeae5a7b25812f75eba16f9aad",
-  "notes": "Mantenimiento interno."
+  "version": "0.5.405",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.405/OptionsDesk-Setup-0.5.405.exe",
+  "sha256": "3106034d16eab0fbe540b0a35c1cbb4f743e5b6ff17affb4554f67ffd41c797e",
+  "notes": "Los avisos de tus posiciones vuelven a sonar: ahora se revisan tus DOS cuentas (papel y real). El aviso de vencimiento ya te llega de verdad."
 }
