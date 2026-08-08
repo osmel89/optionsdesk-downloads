@@ -1,6 +1,6 @@
 {
-  "version": "0.5.401",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.401/OptionsDesk-Setup-0.5.401.exe",
-  "sha256": "2987d3e0c4a620b4ab41182349bb5bc20a94148265c7fda697879008a409ea32",
-  "notes": "El desglose Bot vs manual de Reportes ya no se queda ciego: cruza cuatro fuentes y acepta tu correccion. Los importes no cambian; solo la etiqueta de quien origino cada operacion."
+  "version": "0.5.402",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.402/OptionsDesk-Setup-0.5.402.exe",
+  "sha256": "a54f6743304d87b97428b8fa3b1a53d50f7060ad0a82ccb1c243b3d0acb17698",
+  "notes": "Reportes cuenta ya las vencidas que estaban invisibles (el informe baja, y por eso es mas verdadero) y las tarjetas de Hoy muestran su conteo de condiciones para no parecer gemelas."
 }
