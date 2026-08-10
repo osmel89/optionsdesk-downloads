@@ -1,6 +1,7 @@
 {
-  "version": "0.5.409",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.409/OptionsDesk-Setup-0.5.409.exe",
-  "sha256": "97ad7a93f29647521d5059c766a472b81f9be9af20031974e50d8a17daea7f1c",
-  "notes": "Mantenimiento interno."
+  "version": "0.5.410",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.410/OptionsDesk-Setup-0.5.410.exe",
+  "sha256": "7b6770e8514ca5fa46cc983da106e4e0135b1293137aa1fcf6921c2cb9cced4e",
+  "publishedAt": "2026-08-10T01:24:43Z",
+  "notes": "[canario] Mantenimiento interno."
 }
