@@ -1,6 +1,6 @@
 {
-  "version": "0.5.415",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.415/OptionsDesk-Setup-0.5.415.exe",
-  "sha256": "ef989b19e8c66b92b5b8ee78cce2c336f41aa55d5fe69588ad40291b0ee14395",
-  "notes": "La guia de Velas es ahora un solo video completo, con la voz desde el primer segundo."
+  "version": "0.5.416",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.416/OptionsDesk-Setup-0.5.416.exe",
+  "sha256": "691cac4a62fe8312e1e60b629710dcf6036710af42775e2da5ed9ece8fce4396",
+  "notes": "Una sola llave Papel-Real para toda la app + la app responde mas rapido (medido con el mercado abierto)."
 }
