@@ -1,6 +1,6 @@
 {
-  "version": "0.5.412",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.412/OptionsDesk-Setup-0.5.412.exe",
-  "sha256": "4eb4d63fd24ec5f5bc78d706bb8f711a56b5e0b70bba94292f5d97055bb89bda",
-  "notes": "Mercado ya no se llena de vetos con una cuenta chica; el tamano usa la cuenta que operas; la divergencia pesa lo medido."
+  "version": "0.5.413",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.413/OptionsDesk-Setup-0.5.413.exe",
+  "sha256": "3fe2893421363e754279552d6acb6c82fb5dd470562888b01c540016639f184c",
+  "notes": "Mercado clasifica solo por lo que el mercado da: tu capital ya no limita ninguna fila."
 }
