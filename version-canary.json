@@ -1,7 +1,7 @@
 {
-  "version": "0.5.410",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.410/OptionsDesk-Setup-0.5.410.exe",
-  "sha256": "7b6770e8514ca5fa46cc983da106e4e0135b1293137aa1fcf6921c2cb9cced4e",
-  "publishedAt": "2026-08-10T01:24:43Z",
-  "notes": "[canario] Mantenimiento interno."
+  "version": "0.5.411",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.411/OptionsDesk-Setup-0.5.411.exe",
+  "sha256": "19b8f68bb4df31233a98ef270c7d68ed2731129161a9b45f07966f0d66c37473",
+  "publishedAt": "2026-08-10T07:31:32Z",
+  "notes": "[canario] Blindados los datos que la app GUARDA dia a dia. Si el proveedor mandaba un numero corrupto, quedaba escrito para siempre: el IV Rank de esa accion decia «prima BARATA» aunque estuviera carisima, y el rastro de aciertos podia quedar falseado o dar error al abrirlo. Ahora esos numeros se descartan al llegar y las filas ya guardadas se ignoran al calcular."
 }
