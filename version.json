@@ -1,6 +1,1 @@
-{
-  "version": "0.5.416",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.416/OptionsDesk-Setup-0.5.416.exe",
-  "sha256": "691cac4a62fe8312e1e60b629710dcf6036710af42775e2da5ed9ece8fce4396",
-  "notes": "Una sola llave Papel-Real para toda la app + la app responde mas rapido (medido con el mercado abierto)."
-}
+{"version": "0.5.417", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.417/OptionsDesk-Setup-0.5.417.exe", "sha256": "2c6763a4ee8dbec1275a9d1d70f15e2dfd35fe52f0f1590617941167d23f3ec2", "notes": "💳 La llave de cuenta Papel/Real ahora manda TAMBIÉN en la tarjeta de posiciones de HOY y en las pestañas internas de Ejecución — revisión completa pantalla por pantalla."}
