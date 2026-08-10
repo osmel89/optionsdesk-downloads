@@ -1,6 +1,6 @@
 {
-  "version": "0.5.409",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.409/OptionsDesk-Setup-0.5.409.exe",
-  "sha256": "97ad7a93f29647521d5059c766a472b81f9be9af20031974e50d8a17daea7f1c",
-  "notes": "Mantenimiento interno."
+  "version": "0.5.412",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.412/OptionsDesk-Setup-0.5.412.exe",
+  "sha256": "4eb4d63fd24ec5f5bc78d706bb8f711a56b5e0b70bba94292f5d97055bb89bda",
+  "notes": "Mercado ya no se llena de vetos con una cuenta chica; el tamano usa la cuenta que operas; la divergencia pesa lo medido."
 }
