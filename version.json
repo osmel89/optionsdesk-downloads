@@ -1,1 +1,6 @@
-{"version": "0.5.430", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.430/OptionsDesk-Setup-0.5.430.exe", "sha256": "819b74b68eda1b8a2446b7538befc0411f8ffc699b542f86562181249bc5bf01", "notes": "Video tutorial del sello de ventaja medida. Superset de 0.5.429."}
+{
+ "version": "0.5.431",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.431/OptionsDesk-Setup-0.5.431.exe",
+ "sha256": "6a7737b90dd0f1d2c6d664c34469eb2ae680b67c42be4cc153dfd973e605508c",
+ "notes": "Video tutorial del sello rehecho (v2)."
+}
