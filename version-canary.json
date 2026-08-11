@@ -1,7 +1,1 @@
-{
-  "version": "0.5.424",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.424/OptionsDesk-Setup-0.5.424.exe",
-  "sha256": "e57bab7ef9dd4b6425aa17f2798521ccd22cc18bd70400eab4e98f989410848b",
-  "publishedAt": "2026-08-11T06:59:16Z",
-  "notes": "[canario] Arreglo: un dato roto del proveedor (un numero imposible) podia hacer que el radar de pre-market/cierre devolviera Error 500 en vez de la lista. Ahora esas cifras se descartan y la pantalla siempre responde."
-}
+{"version": "0.5.424", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.424/OptionsDesk-Setup-0.5.424.exe", "sha256": "c27ea03fb3dbc4ed51320d4e40a91ab188dafc0c33a32c95e9bcd0126bc78cf5", "canary": null, "notes": "Radar fix (datos rotos del proveedor) + sello de ventaja medida por estrategia (estudio OOS 2022-2026) con contrato recomendado. Superset del canario previo."}
