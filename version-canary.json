@@ -1,1 +1,7 @@
-{"version": "0.5.423", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.423/OptionsDesk-Setup-0.5.423.exe", "sha256": "133e94e38f6fde37d0abd27ebe34c0068ca0a9229c3b502e63cc11f088ee326e", "notes": "🔧 Mantenimiento interno."}
+{
+  "version": "0.5.424",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.424/OptionsDesk-Setup-0.5.424.exe",
+  "sha256": "e57bab7ef9dd4b6425aa17f2798521ccd22cc18bd70400eab4e98f989410848b",
+  "publishedAt": "2026-08-11T06:59:16Z",
+  "notes": "[canario] Arreglo: un dato roto del proveedor (un numero imposible) podia hacer que el radar de pre-market/cierre devolviera Error 500 en vez de la lista. Ahora esas cifras se descartan y la pantalla siempre responde."
+}
