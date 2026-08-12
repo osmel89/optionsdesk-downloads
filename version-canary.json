@@ -1,7 +1,6 @@
 {
-  "version": "0.5.438",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.438/OptionsDesk-Setup-0.5.438.exe",
-  "sha256": "055fcfb5020f9d869b750b94769c7a04ca2fac58ea512589dd152632c52e1b6f",
-  "publishedAt": "2026-08-12T06:57:50Z",
-  "notes": "[canario] El boton «Ir a Ordenes» de la pantalla BOT no hacia nada al pulsarlo: ahora abre Ejecucion con la pestana Ordenes ya abierta. Y la ronda de avisos ya no se queda entera sin salir cuando el proveedor de datos tarda demasiado con una accion."
+ "version": "0.5.439",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.439/OptionsDesk-Setup-0.5.439.exe",
+ "sha256": "4c4c01fdfb97ec9de1d97fc31da416252320d1e18855b12bf2cb106aef079d04",
+ "notes": "Squeeze integrado en el esc\u00e1ner de Mercado (sin esc\u00e1ner aparte). Incluye lo del canario 0.5.438: bot\u00f3n \u00abIr a \u00d3rdenes\u00bb de la pantalla BOT + resiliencia de la ronda de avisos."
 }
