@@ -1,6 +1,6 @@
 {
- "version": "0.5.440",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.440/OptionsDesk-Setup-0.5.440.exe",
- "sha256": "73127da2ac29af75b0c1e93fe97ae8e5454ecd7290a9cd43261764c6dcf0f78e",
- "notes": "Cancelar orden robusto ante el 500 temporal del sandbox de Tradier (reintenta + verifica)."
+ "version": "0.5.441",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.441/OptionsDesk-Setup-0.5.441.exe",
+ "sha256": "0c7e551a7ca387ea939fd615c446d5878b53a0946f4acfeb66f2822db0822aa0",
+ "notes": "Mismo Veredicto en todas las maquinas (estadistica empaquetada) + coherencia: prima cara / sobrecompra extrema bajan a casi-vigilalo (no operable)."
 }
