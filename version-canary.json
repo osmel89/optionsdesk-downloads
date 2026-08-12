@@ -1,6 +1,7 @@
 {
- "version": "0.5.437",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.437/OptionsDesk-Setup-0.5.437.exe",
- "sha256": "e52a997238d187178731849acae25f2224e230cb358acae271afffd9a30e478b",
- "notes": "Video tutorial de Bollinger en Tutoriales."
+  "version": "0.5.438",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.438/OptionsDesk-Setup-0.5.438.exe",
+  "sha256": "055fcfb5020f9d869b750b94769c7a04ca2fac58ea512589dd152632c52e1b6f",
+  "publishedAt": "2026-08-12T06:57:50Z",
+  "notes": "[canario] El boton «Ir a Ordenes» de la pantalla BOT no hacia nada al pulsarlo: ahora abre Ejecucion con la pestana Ordenes ya abierta. Y la ronda de avisos ya no se queda entera sin salir cuando el proveedor de datos tarda demasiado con una accion."
 }
