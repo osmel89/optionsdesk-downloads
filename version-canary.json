@@ -1,6 +1,6 @@
 {
- "version": "0.5.433",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.433/OptionsDesk-Setup-0.5.433.exe",
- "sha256": "b81cae243472eaf2590f192411def66712a8d6e8e74c7df8d98291e04d847b50",
- "notes": "Liquidez honesta con el mercado cerrado (caso JPM)."
+ "version": "0.5.434",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.434/OptionsDesk-Setup-0.5.434.exe",
+ "sha256": "9e7e4e2afcecc87b7a92131fbc4ba8c704453abd449cddbd47e3511ebd0cc38d",
+ "notes": "Mantenimiento interno y mejoras de seguridad."
 }
