@@ -1,6 +1,6 @@
 {
- "version": "0.5.439",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.439/OptionsDesk-Setup-0.5.439.exe",
- "sha256": "4c4c01fdfb97ec9de1d97fc31da416252320d1e18855b12bf2cb106aef079d04",
- "notes": "Squeeze integrado en el esc\u00e1ner de Mercado (sin esc\u00e1ner aparte). Incluye lo del canario 0.5.438: bot\u00f3n \u00abIr a \u00d3rdenes\u00bb de la pantalla BOT + resiliencia de la ronda de avisos."
+ "version": "0.5.440",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.440/OptionsDesk-Setup-0.5.440.exe",
+ "sha256": "73127da2ac29af75b0c1e93fe97ae8e5454ecd7290a9cd43261764c6dcf0f78e",
+ "notes": "Cancelar orden robusto ante el 500 temporal del sandbox de Tradier (reintenta + verifica)."
 }
