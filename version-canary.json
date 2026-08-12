@@ -1,6 +1,6 @@
 {
- "version": "0.5.435",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.435/OptionsDesk-Setup-0.5.435.exe",
- "sha256": "99b7e7b271a409f6464ca2845872167ca9c30b8c12994e817bc19e180a0a198d",
- "notes": "Bollinger que decide (Fase 1): lectura unificada + salidas por Bollinger."
+ "version": "0.5.436",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.436/OptionsDesk-Setup-0.5.436.exe",
+ "sha256": "bd9a03245732e66536aac7300674c731c13b88652e7c5056f62f6e27145e62fa",
+ "notes": "Se dio hoy persistente + esc\u00e1ner de squeeze + Bollinger que decide + claridad del r\u00e9gimen."
 }
