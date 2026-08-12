@@ -1,6 +1,6 @@
 {
- "version": "0.5.434",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.434/OptionsDesk-Setup-0.5.434.exe",
- "sha256": "9e7e4e2afcecc87b7a92131fbc4ba8c704453abd449cddbd47e3511ebd0cc38d",
- "notes": "Mantenimiento interno y mejoras de seguridad."
+ "version": "0.5.435",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.435/OptionsDesk-Setup-0.5.435.exe",
+ "sha256": "99b7e7b271a409f6464ca2845872167ca9c30b8c12994e817bc19e180a0a198d",
+ "notes": "Bollinger que decide (Fase 1): lectura unificada + salidas por Bollinger."
 }
