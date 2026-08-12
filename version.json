@@ -1,6 +1,6 @@
 {
- "version": "0.5.441",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.441/OptionsDesk-Setup-0.5.441.exe",
- "sha256": "0c7e551a7ca387ea939fd615c446d5878b53a0946f4acfeb66f2822db0822aa0",
- "notes": "Mismo Veredicto en todas las maquinas (estadistica empaquetada) + coherencia: prima cara / sobrecompra extrema bajan a casi-vigilalo (no operable)."
+ "version": "0.5.442",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.442/OptionsDesk-Setup-0.5.442.exe",
+ "sha256": "83e6b39efbda81d1a1bc04d224f98e41b16ede342eb5e6874b4500b51cc2f821",
+ "notes": "Los avisos persisten ENTRE maquinas (se guardan en tu cuenta, servidor central)."
 }
