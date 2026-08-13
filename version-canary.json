@@ -1,7 +1,7 @@
 {
-  "version": "0.5.443",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.443/OptionsDesk-Setup-0.5.443.exe",
-  "sha256": "8456729e2a6a96205371f919fc52e616b0415118d502812f01db0bd4b57e2a8a",
-  "publishedAt": "2026-08-13T06:52:39Z",
-  "notes": "[canario] Arreglado: el analisis historico (backtest) fallaba con error cuando el proveedor mandaba una vela vacia o corrupta; ahora esa vela se descarta y el resultado sale bien. Ademas, el aviso que se guarda en el servidor para verlo desde tus otros equipos ya no se puede perder a medias."
+ "version": "0.5.444",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.444/OptionsDesk-Setup-0.5.444.exe",
+ "sha256": "26ef93e373cc41a074dc7e1cfd0f479b27d64b67564d69b1f865e13c8e293d3a",
+ "publishedAt": "2026-08-13T20:03:49Z",
+ "notes": "[canario] Fase B: Mercado lee la foto del escaneo desde la NUBE (identica para todos, fallback local). Incluye los 2 arreglos del canario 0.5.443 (backtest con vela mala + avisos al central que se perdian)."
 }
