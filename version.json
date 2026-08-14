@@ -1,6 +1,7 @@
 {
- "version": "0.5.442",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.442/OptionsDesk-Setup-0.5.442.exe",
- "sha256": "83e6b39efbda81d1a1bc04d224f98e41b16ede342eb5e6874b4500b51cc2f821",
- "notes": "Los avisos persisten ENTRE maquinas (se guardan en tu cuenta, servidor central)."
+  "version": "0.5.444",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.444/OptionsDesk-Setup-0.5.444.exe",
+  "sha256": "26ef93e373cc41a074dc7e1cfd0f479b27d64b67564d69b1f865e13c8e293d3a",
+  "publishedAt": "2026-08-13T20:03:49Z",
+  "notes": "Fase B: Mercado lee la foto del escaneo desde la NUBE (identica para todos, fallback local). Incluye los 2 arreglos del canario 0.5.443 (backtest con vela mala + avisos al central que se perdian)."
 }
