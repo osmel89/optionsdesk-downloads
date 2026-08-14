@@ -1,7 +1,7 @@
 {
-  "version": "0.5.445",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.445/OptionsDesk-Setup-0.5.445.exe",
-  "sha256": "cc335bba14ed49d74ee614bcb16df923e10ea91146540fe285944550cebfb6d9",
-  "publishedAt": "2026-08-14T07:13:33Z",
-  "notes": "[canario] Los avisos de senal salen desde el primer minuto tras cada actualizacion del motor (antes se perdian los de los primeros 5 minutos, y una senal solo vale 15). El boton Escanear de nuevo ya funciona aunque acabes de abrir la app."
+ "version": "0.5.446",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.446/OptionsDesk-Setup-0.5.446.exe",
+ "sha256": "b4a6c11e11929b84cff32d3df3b2355974f2658c2e96a73b1ea6754369af84c2",
+ "publishedAt": "2026-08-14T13:25:26Z",
+ "notes": "[canario] Reportes: Solo el bot filtra TODO el reporte + avisos ocultables. Incluye 0.5.445 (respaldo diario + fix primer clic de Escanear)."
 }
