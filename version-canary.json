@@ -1,7 +1,1 @@
-{
-  "version": "0.5.447",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.447/OptionsDesk-Setup-0.5.447.exe",
-  "sha256": "780e739e230311342b511f02206c53231c07517a0587d5b996c7bd7d9ae24f42",
-  "publishedAt": "2026-08-16T06:58:03Z",
-  "notes": "[canario] Sello de ventaja: E17/E18/E19/E23 cambiaron de definicion y sus numeros medidos ya no las describen; la pantalla seguia mostrando el sello viejo (verde 'ventaja medida' en E17, rojo 'pierde' en E19/E23). Ahora salen como 'pendiente de re-medir' en todas las pantallas. Fichas de Estrategias: E17/E18/E19/E22/E23 ahora describen el gatillo REAL (nivel en el diario, camino limpio, canal en hora, confirmacion por volumen)."
-}
+{"version": "0.5.448", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.448/OptionsDesk-Setup-0.5.448.exe", "sha256": "1707fc869557322e06499ce434e8f5e095b51e3ec493d8daf825614a35174071", "notes": "E17/E18/E19/E23 corregidas (fidelidad al curso; E19/E23 de perder a ganar OOS) + E26/E27 nuevas + FOMC por fases + alcance de noticias + avisos de prima/vencimiento en la cadena + objetivo por niveles del diario + reloj Cboe GTH (apagado).", "publishedAt": "2026-08-17T13:23:40Z"}
