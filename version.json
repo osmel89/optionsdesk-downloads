@@ -1,7 +1,7 @@
 {
-  "version": "0.5.446",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.446/OptionsDesk-Setup-0.5.446.exe",
-  "sha256": "b4a6c11e11929b84cff32d3df3b2355974f2658c2e96a73b1ea6754369af84c2",
-  "publishedAt": "2026-08-14T13:25:26Z",
-  "notes": "Reportes: Solo el bot filtra TODO el reporte + avisos ocultables. Incluye 0.5.445 (respaldo diario + fix primer clic de Escanear)."
+  "version": "0.5.447",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.447/OptionsDesk-Setup-0.5.447.exe",
+  "sha256": "780e739e230311342b511f02206c53231c07517a0587d5b996c7bd7d9ae24f42",
+  "publishedAt": "2026-08-16T06:58:03Z",
+  "notes": "Sello de ventaja: E17/E18/E19/E23 cambiaron de definicion y sus numeros medidos ya no las describen; la pantalla seguia mostrando el sello viejo (verde 'ventaja medida' en E17, rojo 'pierde' en E19/E23). Ahora salen como 'pendiente de re-medir' en todas las pantallas. Fichas de Estrategias: E17/E18/E19/E22/E23 ahora describen el gatillo REAL (nivel en el diario, camino limpio, canal en hora, confirmacion por volumen)."
 }
