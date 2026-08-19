@@ -1,1 +1,6 @@
-{"version": "0.5.450", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.450/OptionsDesk-Setup-0.5.450.exe", "sha256": "c8556766a320b1285a5b085577cdb9446e2b58a0653f019d197bb00b53d3c38c", "notes": "Sellos re-medidos (E17 revalidada +136; E26 primer sello +49; E18/E19/E23/E27 pierden) + contraste con primas reales + Reportes con vencimiento/DTE y modo Practica + cadena de Practica + chip de alcance en Noticias + video de novedades.", "publishedAt": "2026-08-17T22:10:51Z"}
+{
+ "version": "0.5.451",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.451/OptionsDesk-Setup-0.5.451.exe",
+ "sha256": "3f384c5ec50014a3b15f9632a5266884f54c88322769e0b73dd8032fe0a4aaa8",
+ "notes": "Robot validado con primas reales · sello E25 · filtro de fecha en Noticias · tira de mercado · Cuenta nueva"
+}
