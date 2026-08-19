@@ -1,6 +1,6 @@
 {
- "version": "0.5.451",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.451/OptionsDesk-Setup-0.5.451.exe",
- "sha256": "3f384c5ec50014a3b15f9632a5266884f54c88322769e0b73dd8032fe0a4aaa8",
- "notes": "Robot validado con primas reales · sello E25 · filtro de fecha en Noticias · tira de mercado · Cuenta nueva"
+ "version": "0.5.452",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.452/OptionsDesk-Setup-0.5.452.exe",
+ "sha256": "e2a54684451e69e9e57155ad3142311796e632b7402783804706d1a9879134c1",
+ "notes": "Rendimiento del bot (primas reales) · diario del mes en papel · matriz respetada en Mercado/robot · avisos flotantes"
 }
