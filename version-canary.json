@@ -1,6 +1,6 @@
 {
- "version": "0.5.452",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.452/OptionsDesk-Setup-0.5.452.exe",
- "sha256": "e2a54684451e69e9e57155ad3142311796e632b7402783804706d1a9879134c1",
- "notes": "Rendimiento del bot (primas reales) · diario del mes en papel · matriz respetada en Mercado/robot · avisos flotantes"
+ "version": "0.5.453",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.453/OptionsDesk-Setup-0.5.453.exe",
+ "sha256": "9d45ebfa4088e6ea8556b1700c3ab4132b209c4aacf515c2ad54568dc248fa93",
+ "notes": "Mantenimiento interno y fiabilidad de los avisos."
 }
