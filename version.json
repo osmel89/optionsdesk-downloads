@@ -1,7 +1,7 @@
 {
-  "version": "0.5.447",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.447/OptionsDesk-Setup-0.5.447.exe",
-  "sha256": "780e739e230311342b511f02206c53231c07517a0587d5b996c7bd7d9ae24f42",
-  "publishedAt": "2026-08-16T06:58:03Z",
-  "notes": "Sello de ventaja: E17/E18/E19/E23 cambiaron de definicion y sus numeros medidos ya no las describen; la pantalla seguia mostrando el sello viejo (verde 'ventaja medida' en E17, rojo 'pierde' en E19/E23). Ahora salen como 'pendiente de re-medir' en todas las pantallas. Fichas de Estrategias: E17/E18/E19/E22/E23 ahora describen el gatillo REAL (nivel en el diario, camino limpio, canal en hora, confirmacion por volumen)."
+  "version": "0.5.455",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.455/OptionsDesk-Setup-0.5.455.exe",
+  "sha256": "8175e977618d3e8d7b9b8e99e351e63b1981cbfedab392a8b53fae3e7a938a21",
+  "publishedAt": "2026-08-19T19:16:17Z",
+  "notes": "NUEVO: pestana Rendimiento del bot (medido con precios reales de opciones 2023-2026), diario del mes en papel del bot, avisos flotantes con fisica de resortes (orden enviada/llenada, alertas con boton Ver analisis), filtro de fecha en Noticias, tira 'Moviendo el mercado hoy', boton Cuenta nueva, sellos de ventaja re-medidos y fiabilidad de avisos/escaner."
 }
