@@ -1,6 +1,6 @@
 {
- "version": "0.5.455",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.455/OptionsDesk-Setup-0.5.455.exe",
- "sha256": "8175e977618d3e8d7b9b8e99e351e63b1981cbfedab392a8b53fae3e7a938a21",
- "notes": "Mantenimiento interno: fiabilidad del escáner y de la matriz."
+ "version": "0.5.456",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.456/OptionsDesk-Setup-0.5.456.exe",
+ "sha256": "2226a77624f1690a70c78f080838d0d049ec184e7ddb971ff91ab46080798d9d",
+ "notes": "Estadística: % de acierto + $/op REAL por par + aviso de sello."
 }
