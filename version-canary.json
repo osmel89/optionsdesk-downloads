@@ -1,6 +1,1 @@
-{
- "version": "0.5.456",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.456/OptionsDesk-Setup-0.5.456.exe",
- "sha256": "2226a77624f1690a70c78f080838d0d049ec184e7ddb971ff91ab46080798d9d",
- "notes": "Estadística: % de acierto + $/op REAL por par + aviso de sello."
-}
+{"version": "0.5.457", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.457/OptionsDesk-Setup-0.5.457.exe", "sha256": "ca67e7739cf2fc9b2121cb77b686417567954770da2d5a85afdf442e929d1d9a", "notes": "Rendimiento del bot: marco 1h/15min + estrategias con Estadistica y sello + P&L por DTE."}
