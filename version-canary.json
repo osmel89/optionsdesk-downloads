@@ -1,1 +1,7 @@
-{"version": "0.5.463", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.463/OptionsDesk-Setup-0.5.463.exe", "sha256": "301bdda076d54d7b4f4d7a82ef4bbf39b8366d78fb78eb716361d4a6dd915826", "notes": "Objetivo de venta con filtros: matriz completa 800 celdas, estrellas por configuracion."}
+{
+  "version": "0.5.464",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.464/OptionsDesk-Setup-0.5.464.exe",
+  "sha256": "d2b1cce77939ff9daa76a91daf9d34d516b507e8a3cd853164c6388b11c40dcb",
+  "publishedAt": "2026-08-23T19:54:49Z",
+  "notes": "[canario] Avisos: el detalle rico de cada aviso (senal de oportunidad + condiciones del Detector) ya no puede colgarse. Cuando el proveedor de datos va lento, el aviso sale igual con su foto y su texto, y la pieza deja de morir por tiempo (87 errores en el registro desde julio). Estadisticas: cuando la actualizacion diaria no logra procesar ningun simbolo, el registro ahora DICE por que en vez de un 'fallo' mudo."
+}
