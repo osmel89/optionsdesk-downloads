@@ -1,7 +1,7 @@
 {
-  "version": "0.5.468",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.468/OptionsDesk-Setup-0.5.468.exe",
-  "sha256": "9ac2cd50861ab8aa9d0f1072e092089a9d4bd75db133e555dccecf2713fa9eda",
-  "publishedAt": "2026-08-24T22:31:41Z",
-  "notes": "[canario] Bot: boton Repetir un dia pasado siempre visible + selector de dia (mes y medio hacia atras). Mantenimiento interno."
+  "version": "0.5.469",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.469/OptionsDesk-Setup-0.5.469.exe",
+  "sha256": "ca356ffc42a28d04cd039ecaac3fd45801a721d92ce2435a4a3090f8d378d999",
+  "publishedAt": "2026-08-24T23:00:51Z",
+  "notes": "[canario] Repetidor del bot en Rendimiento (tramo continuo con tu objetivo). Mantenimiento interno."
 }
