@@ -1,7 +1,7 @@
 {
-  "version": "0.5.467",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.467/OptionsDesk-Setup-0.5.467.exe",
-  "sha256": "21dae25c10a814df34a2c27750377437aff0920c6ee1e80a53788bfda609e074",
-  "publishedAt": "2026-08-24T22:14:20Z",
-  "notes": "[canario] Bot: objetivo de venta RE-ENLAZA posiciones abiertas + boton Repetir un dia pasado (SIMULADO) en Como decide EN VIVO. Mantenimiento interno."
+  "version": "0.5.468",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.468/OptionsDesk-Setup-0.5.468.exe",
+  "sha256": "9ac2cd50861ab8aa9d0f1072e092089a9d4bd75db133e555dccecf2713fa9eda",
+  "publishedAt": "2026-08-24T22:31:41Z",
+  "notes": "[canario] Bot: boton Repetir un dia pasado siempre visible + selector de dia (mes y medio hacia atras). Mantenimiento interno."
 }
