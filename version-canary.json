@@ -1,7 +1,7 @@
 {
-  "version": "0.5.465",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.465/OptionsDesk-Setup-0.5.465.exe",
-  "sha256": "815ce6b685dd5404abf3f0c5b7c34d36f7ceb480fe18de9813fc5516f5d970fb",
-  "publishedAt": "2026-08-24T11:11:07Z",
-  "notes": "[canario] Bot: el Diario del mes en papel ahora viene plegado - la cabecera muestra los dias y el total del mes de un vistazo, y el detalle dia a dia se despliega con un clic."
+  "version": "0.5.466",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.466/OptionsDesk-Setup-0.5.466.exe",
+  "sha256": "1e78d986f8b325ea7f88b7cd610ee3487f67f9d1c7a412c1555c9ae2ba807faf",
+  "publishedAt": "2026-08-24T20:35:04Z",
+  "notes": "[canario] Bot: vista 'Como decide EN VIVO' (traza real de cada pase + contexto del mercado, guardada a diario como base de estudio) + latido del bot en la tarjeta + aviso claro si la app estuvo cerrada o algo lo frena. Mantenimiento interno."
 }
