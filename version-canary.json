@@ -1,7 +1,7 @@
 {
-  "version": "0.5.466",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.466/OptionsDesk-Setup-0.5.466.exe",
-  "sha256": "1e78d986f8b325ea7f88b7cd610ee3487f67f9d1c7a412c1555c9ae2ba807faf",
-  "publishedAt": "2026-08-24T20:35:04Z",
-  "notes": "[canario] Bot: vista 'Como decide EN VIVO' (traza real de cada pase + contexto del mercado, guardada a diario como base de estudio) + latido del bot en la tarjeta + aviso claro si la app estuvo cerrada o algo lo frena. Mantenimiento interno."
+  "version": "0.5.467",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.467/OptionsDesk-Setup-0.5.467.exe",
+  "sha256": "21dae25c10a814df34a2c27750377437aff0920c6ee1e80a53788bfda609e074",
+  "publishedAt": "2026-08-24T22:14:20Z",
+  "notes": "[canario] Bot: objetivo de venta RE-ENLAZA posiciones abiertas + boton Repetir un dia pasado (SIMULADO) en Como decide EN VIVO. Mantenimiento interno."
 }
