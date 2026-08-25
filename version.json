@@ -1,1 +1,7 @@
-{"version": "0.5.470", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.470/OptionsDesk-Setup-0.5.470.exe", "sha256": "015ff859f288f81c847e8a81acf54d9ea6738ee5d153ac9ee81515c24c601981", "notes": "Noticias: cada titular dice a quien golpea (afectados clicables al grafico) y se traduce al espanol con un clic. Bot: freno y sesgo de noticias (configurables), tu objetivo de venta re-enlaza tambien las posiciones abiertas, vista 'Como decide EN VIVO' con la traza de cada pase (guardada a diario) y latido visible. Rendimiento del bot: Repetidor de dias (continuo, con tu configuracion). Mercado: contadores fieles + lo que disparo hoy PERSISTE + el escaner captura la ultima hora de la sesion. Diario del mes plegable."}
+{
+  "version": "0.5.473",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.473/OptionsDesk-Setup-0.5.473.exe",
+  "sha256": "0d7ca85e11201dfb2f26dc2c38a2f1f3decc8be82946f6ad9e0ed55c79655e78",
+  "publishedAt": "2026-08-25T14:15:00Z",
+  "notes": "Mantenimiento interno."
+}
