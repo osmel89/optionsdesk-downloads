@@ -1,7 +1,7 @@
 {
-  "version": "0.5.471",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.471/OptionsDesk-Setup-0.5.471.exe",
-  "sha256": "e8f8014711983a72434e26987ef3bc26e961593242ed69bcb8e6643f0577559e",
-  "publishedAt": "2026-08-25T07:01:49Z",
-  "notes": "[canario] Noticias: al decir a que acciones golpea un titular ya no se cuelan falsos positivos. Antes, palabras corrientes como 'even', 'event', 'aims' o 'warns' activaban los temas de vehiculos electricos, IA o geopolitica, 'FedEx' se leia como la Fed, y un 'Series F' etiquetaba a Ford. Eso no era solo cosmetico: el bot usa ese mapa para descartar candidatas por 'noticia en contra' y para decidir si frena el pase entero."
+  "version": "0.5.472",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.472/OptionsDesk-Setup-0.5.472.exe",
+  "sha256": "08160093b162ae2b16b097ea27af1752fa17a811ac98d880aa517367febe87b2",
+  "publishedAt": "2026-08-25T13:05:00Z",
+  "notes": "Mercado: marcador de noticia de ALTO impacto antes de la estrategia (verde a favor / rojo en contra). Mantenimiento interno."
 }
