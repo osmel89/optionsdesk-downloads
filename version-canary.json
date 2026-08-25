@@ -1,7 +1,7 @@
 {
-  "version": "0.5.474",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.474/OptionsDesk-Setup-0.5.474.exe",
-  "sha256": "4bf11ba9baea827d1d76c0196a5273bb2cd46456239611363e1cda3a320e805b",
-  "publishedAt": "2026-08-25T23:30:00Z",
-  "notes": "Portafolio: la columna Dia mide desde tu entrada si compraste hoy. Bot: diario mas fiel (aceptadas reales y descartes explicados)."
+  "version": "0.5.475",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.475/OptionsDesk-Setup-0.5.475.exe",
+  "sha256": "3cb7fd747bef32a80531bf54b63fcf70feca629d145d2c9f0c0033516b999994",
+  "publishedAt": "2026-08-26T00:20:00Z",
+  "notes": "Portafolio: el refresco en vivo respeta el Dia desde tu entrada en compras de hoy y la pantalla solo repinta cuando algo cambia."
 }
