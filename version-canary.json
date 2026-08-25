@@ -1,7 +1,7 @@
 {
-  "version": "0.5.470",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.470/OptionsDesk-Setup-0.5.470.exe",
-  "sha256": "015ff859f288f81c847e8a81acf54d9ea6738ee5d153ac9ee81515c24c601981",
-  "publishedAt": "2026-08-25T03:06:24Z",
-  "notes": "[canario] Noticias con afectados+traduccion, freno/sesgo de noticias en el bot, pie honesto del escaner + arrastre persistente + ultima hora capturada. Mantenimiento interno."
+  "version": "0.5.471",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.471/OptionsDesk-Setup-0.5.471.exe",
+  "sha256": "e8f8014711983a72434e26987ef3bc26e961593242ed69bcb8e6643f0577559e",
+  "publishedAt": "2026-08-25T07:01:49Z",
+  "notes": "[canario] Noticias: al decir a que acciones golpea un titular ya no se cuelan falsos positivos. Antes, palabras corrientes como 'even', 'event', 'aims' o 'warns' activaban los temas de vehiculos electricos, IA o geopolitica, 'FedEx' se leia como la Fed, y un 'Series F' etiquetaba a Ford. Eso no era solo cosmetico: el bot usa ese mapa para descartar candidatas por 'noticia en contra' y para decidir si frena el pase entero."
 }
