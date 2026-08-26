@@ -1,7 +1,7 @@
 {
-  "version": "0.5.480",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.480/OptionsDesk-Setup-0.5.480.exe",
-  "sha256": "62d617cc35d2a0cee151ff31ad5e23cc75f90bd5fc6db66960b02076eec98775",
+  "version": "0.5.481",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.481/OptionsDesk-Setup-0.5.481.exe",
+  "sha256": "7f054b5baa11c29880bca93e2ae3960db70e5296ae42a086537e77c86d4cdac4",
   "publishedAt": "2026-08-26T04:30:00Z",
-  "notes": "Anti-abuso de pruebas: la app manda la huella estable de la maquina (machine_id) en el latido, reactivando la defensa de dispositivo del servidor. Mantenimiento interno."
+  "notes": "Mantenimiento interno de seguridad."
 }
