@@ -1,7 +1,7 @@
 {
-  "version": "0.5.478",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.478/OptionsDesk-Setup-0.5.478.exe",
-  "sha256": "b010ed50ed10fc57f676b960a127533a2410a13ab9e3e2cd1897f2adb86c773e",
-  "publishedAt": "2026-08-26T02:30:00Z",
-  "notes": "Repetidor: el vencimiento simulado sigue la receta medida de cada estrategia (mismo caballo que el bot real) y el selector llega 60 dias atras."
+  "version": "0.5.479",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.479/OptionsDesk-Setup-0.5.479.exe",
+  "sha256": "7208a472886085b12fcdd68e106b75bc584b73ff666f4217b33b6b1f794d2fd3",
+  "publishedAt": "2026-08-26T03:30:00Z",
+  "notes": "Repetidor: relee data/opra al correr (ve las primas reales recien bajadas sin reiniciar)."
 }
