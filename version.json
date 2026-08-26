@@ -1,7 +1,7 @@
 {
-  "version": "0.5.482",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.482/OptionsDesk-Setup-0.5.482.exe",
-  "sha256": "313622375458d756661071534ba55c33ac92042c416e1916a4320a68c18e805e",
-  "publishedAt": "2026-08-26T05:35:00Z",
-  "notes": "Mantenimiento interno de seguridad e infraestructura."
+  "version": "0.5.484",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.484/OptionsDesk-Setup-0.5.484.exe",
+  "sha256": "83d7fb063bdedad867d648a8183ade41caba69419abb5034d2e46b6d3a330ef6",
+  "publishedAt": "2026-08-26T13:20:00Z",
+  "notes": "Vigia del fondeo de la cuenta Tradier (aviso antes de la inactivacion)."
 }
