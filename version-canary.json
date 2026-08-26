@@ -1,7 +1,7 @@
 {
-  "version": "0.5.476",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.476/OptionsDesk-Setup-0.5.476.exe",
-  "sha256": "2b6fbe1450393ddbc2efc513daee1404574e1de9c5a76263f11454bf5b4ccae8",
-  "publishedAt": "2026-08-26T01:05:00Z",
-  "notes": "Repetidor: los dias con traza guardada repiten con las puntuaciones REALES del bot vivo (marcadas con diana); solo los dias sin traza se reconstruyen de velas."
+  "version": "0.5.477",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.477/OptionsDesk-Setup-0.5.477.exe",
+  "sha256": "9f28056998be2247a5ac2cb00e3a4027bf8012bbd7498a002ac3f28f47138a25",
+  "publishedAt": "2026-08-26T01:45:00Z",
+  "notes": "Repetidor: los dias con traza guardada repiten con las puntuaciones REALES del bot vivo (marcadas con diana); los dias sin traza se reconstruyen de velas."
 }
