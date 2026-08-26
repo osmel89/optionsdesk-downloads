@@ -1,7 +1,7 @@
 {
-  "version": "0.5.475",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.475/OptionsDesk-Setup-0.5.475.exe",
-  "sha256": "3cb7fd747bef32a80531bf54b63fcf70feca629d145d2c9f0c0033516b999994",
-  "publishedAt": "2026-08-26T00:20:00Z",
-  "notes": "Portafolio: el refresco en vivo respeta el Dia desde tu entrada en compras de hoy y la pantalla solo repinta cuando algo cambia."
+  "version": "0.5.476",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.476/OptionsDesk-Setup-0.5.476.exe",
+  "sha256": "2b6fbe1450393ddbc2efc513daee1404574e1de9c5a76263f11454bf5b4ccae8",
+  "publishedAt": "2026-08-26T01:05:00Z",
+  "notes": "Repetidor: los dias con traza guardada repiten con las puntuaciones REALES del bot vivo (marcadas con diana); solo los dias sin traza se reconstruyen de velas."
 }
