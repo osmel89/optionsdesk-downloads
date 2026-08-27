@@ -1,6 +1,6 @@
 {
- "version": "0.5.487",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.487/OptionsDesk-Setup-0.5.487.exe",
- "sha256": "3b3bd9af31f6aab33f4af1b4e94dd7a0309e6126e89a180a43cbdfe56aca8260",
- "notes": "Market: TRIGGER column shows fresh (today) vs standing (previous session) triggers; Verdict alerts state when the trigger fired."
+ "version": "0.5.491",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.491/OptionsDesk-Setup-0.5.491.exe",
+ "sha256": "369fb89a12838385a4f54bc6f934200cc216b888147cf6d33b3cb9002632ac96",
+ "notes": "Weekly Ranges: chart layer + Analysis table + Signals block + re-entry alerts; measured veto (Verdict cap + robot) against buying the opposite extreme; scanner detail cleanup."
 }
