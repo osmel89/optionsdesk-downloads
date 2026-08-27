@@ -1,7 +1,6 @@
 {
-  "version": "0.5.486",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.486/OptionsDesk-Setup-0.5.486.exe",
-  "sha256": "9984a614e6c78b3ac0af67f00eda4a37ce1caccf1144246f83dffab191d6fb8d",
-  "publishedAt": "2026-08-27T02:10:00Z",
-  "notes": "Mantenimiento interno (robot y analisis)."
+ "version": "0.5.487",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.487/OptionsDesk-Setup-0.5.487.exe",
+ "sha256": "3b3bd9af31f6aab33f4af1b4e94dd7a0309e6126e89a180a43cbdfe56aca8260",
+ "notes": "Market: TRIGGER column shows fresh (today) vs standing (previous session) triggers; Verdict alerts state when the trigger fired."
 }
