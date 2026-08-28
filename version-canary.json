@@ -1,6 +1,1 @@
-{
- "version": "0.5.491",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.491/OptionsDesk-Setup-0.5.491.exe",
- "sha256": "369fb89a12838385a4f54bc6f934200cc216b888147cf6d33b3cb9002632ac96",
- "notes": "Weekly Ranges: chart layer + Analysis table + Signals block + re-entry alerts; measured veto (Verdict cap + robot) against buying the opposite extreme; scanner detail cleanup."
-}
+{"version": "0.5.493", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.493/OptionsDesk-Setup-0.5.493.exe", "sha256": "77093e9ff2d9c96e24c8cdfcc0c097f0d2e5e8fb8c85769aafe9bc6e49903e61", "notes": "Measured options-flow pressure chip (session + 30m aggressor premium), real order book L2 layer (per-install Databento key, dormant without live plan), stop-magnet upgrade with yesterday hi/lo pools + per-symbol stats, Config/Help additions."}
