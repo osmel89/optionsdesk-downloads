@@ -1,6 +1,6 @@
 {
- "version": "0.5.499",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.499/OptionsDesk-Setup-0.5.499.exe",
- "sha256": "6f0d24692dba1db88808dda74950a5beb32446eb150861563e23a40bc371c9cc",
- "notes": "Resguardo de ventas del bot residente en el broker (OCO GTC) + vigilante rapido endurecido + arreglos de auditoria. Incluye 0.5.498."
+ "version": "0.5.502",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.502/OptionsDesk-Setup-0.5.502.exe",
+ "sha256": "a81a3ad530065c3836069ffe399b9df6b0a21c9d9b44eb30924e6cc178b33273",
+ "notes": "Arreglo: la opcion Sin corte propio de la puntuacion minima del bot ahora se guarda correctamente."
 }
