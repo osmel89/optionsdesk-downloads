@@ -1,6 +1,6 @@
 {
- "version": "0.5.508",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.508/OptionsDesk-Setup-0.5.508.exe",
- "sha256": "b3bfafd78f10ca8f0d252401d9dcb3b60ccb3ffde2a5ee6ecc3d4c09127697e5",
- "notes": "Mercado: seccion En marcha (lectura cuantitativa) + conteo de contexto por senal; chip de absorcion PDH/PDL; sello re-examinado; arreglos de Estadistica y del bot."
+ "version": "0.5.509",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.509/OptionsDesk-Setup-0.5.509.exe",
+ "sha256": "da3204916fb2264c1935b89d8a2446a940b0d41cffd019b4a9d5aabc24dcabdf",
+ "notes": "En marcha v2: hora de arranque + cuanto se movio desde entonces + aviso ya-corrio; diario del dia (se agoto / graduada); piezas sin dato visibles."
 }
