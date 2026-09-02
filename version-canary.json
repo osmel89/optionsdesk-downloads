@@ -1,6 +1,6 @@
 {
- "version": "0.5.511",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.511/OptionsDesk-Setup-0.5.511.exe",
- "sha256": "1accefd81fb34f993a4b2eea4175501c7b85ae17b2e5c042e083dbfbdf9c090d",
- "notes": "En marcha reorganizada: dos lineas fijas por accion (esencial arriba con botones a la derecha; evidencia abajo, a-favor primero) + diario con seccion propia."
+ "version": "0.5.513",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.513/OptionsDesk-Setup-0.5.513.exe",
+ "sha256": "2c6fa943f0efb72dd191c40bd5e35915fc56de0d844199172bd177c1bfdc01e8",
+ "notes": "En marcha: chip arranco ~HH:MM (cuando arranco el movimiento) + Reportes: etiqueta viva del contexto cuantitativo por compra y tarjeta de P&L por contexto (solo mide)."
 }
