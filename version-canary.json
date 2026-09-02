@@ -1,6 +1,6 @@
 {
- "version": "0.5.509",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.509/OptionsDesk-Setup-0.5.509.exe",
- "sha256": "da3204916fb2264c1935b89d8a2446a940b0d41cffd019b4a9d5aabc24dcabdf",
- "notes": "En marcha v2: hora de arranque + cuanto se movio desde entonces + aviso ya-corrio; diario del dia (se agoto / graduada); piezas sin dato visibles."
+ "version": "0.5.510",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.510/OptionsDesk-Setup-0.5.510.exe",
+ "sha256": "7bb8d1596c6e485e44e04dbe8aa39395df6ebd4ee16cad19fea88884c4e6d461",
+ "notes": "En marcha afinada: hoy +X% (movimiento del dia) + ya-corrio por dia aunque entre tarde a la lista; hora = aqui desde; el iman vota; piezas sin dato claras."
 }
