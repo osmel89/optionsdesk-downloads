@@ -1,6 +1,6 @@
 {
- "version": "0.5.502",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.502/OptionsDesk-Setup-0.5.502.exe",
- "sha256": "a81a3ad530065c3836069ffe399b9df6b0a21c9d9b44eb30924e6cc178b33273",
- "notes": "Arreglo: la opcion Sin corte propio de la puntuacion minima del bot ahora se guarda correctamente."
+ "version": "0.5.508",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.508/OptionsDesk-Setup-0.5.508.exe",
+ "sha256": "b3bfafd78f10ca8f0d252401d9dcb3b60ccb3ffde2a5ee6ecc3d4c09127697e5",
+ "notes": "Mercado: seccion En marcha (lectura cuantitativa) + conteo de contexto por senal; chip de absorcion PDH/PDL; sello re-examinado; arreglos de Estadistica y del bot."
 }
