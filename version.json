@@ -1,6 +1,6 @@
 {
- "version": "0.5.513",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.513/OptionsDesk-Setup-0.5.513.exe",
- "sha256": "2c6fa943f0efb72dd191c40bd5e35915fc56de0d844199172bd177c1bfdc01e8",
- "notes": "En marcha: chip arranco ~HH:MM (cuando arranco el movimiento) + Reportes: etiqueta viva del contexto cuantitativo por compra y tarjeta de P&L por contexto (solo mide)."
+ "version": "0.5.515",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.515/OptionsDesk-Setup-0.5.515.exe",
+ "sha256": "0f81de97ecb4eaf719515b2cfcecbc32baf5f966c19993d5bef9e4453abad50c",
+ "notes": "En marcha: el chip arranco se ancla a la sesion regular (las velas overnight ya no confunden el ancla) + la estrella 3-de-3 exige el mismo lado (mejora del robot)."
 }
