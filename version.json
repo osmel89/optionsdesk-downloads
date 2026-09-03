@@ -1,6 +1,6 @@
 {
- "version": "0.5.518",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.518/OptionsDesk-Setup-0.5.518.exe",
- "sha256": "dc3a0b49e117d5597ef21791ae484451dfdc3b969fe4850ea5ed731a7dffd80f",
- "notes": "En marcha: el diario del dia ya no mezcla temporalidades (cada una lleva su propia memoria)."
+ "version": "0.5.519",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.519/OptionsDesk-Setup-0.5.519.exe",
+ "sha256": "9941db6a230f7cd0597049bf50dfd0291de7a36a5b353cc9ce284774a34769a9",
+ "notes": "Flujo y absorcion tambien en la nube (votan en el escaner y En marcha con mercado abierto) + nota de piezas sin voto separada en neutrales vs stream en vivo."
 }
