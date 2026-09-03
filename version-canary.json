@@ -1,7 +1,6 @@
 {
-  "version": "0.5.514",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.514/OptionsDesk-Setup-0.5.514.exe",
-  "sha256": "0b0881c77d1af2aba23e640c38dfa1a7d6389f2d7ff75e4fce1fa589082e5435",
-  "publishedAt": "2026-09-03T07:10:40Z",
-  "notes": "[canario] Mercado / En marcha: la estrella «3-de-3» ahora solo se enciende cuando el gap, el squeeze y la salida de banda apuntan al MISMO lado que la fila. Antes podia aparecer con piezas contrarias (gap arriba + banda abajo) y prometia un filo que nunca se midio."
+ "version": "0.5.515",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.515/OptionsDesk-Setup-0.5.515.exe",
+ "sha256": "0f81de97ecb4eaf719515b2cfcecbc32baf5f966c19993d5bef9e4453abad50c",
+ "notes": "En marcha: el chip arranco se ancla a la sesion regular (las velas overnight ya no confunden el ancla) + la estrella 3-de-3 exige el mismo lado (mejora del robot)."
 }
