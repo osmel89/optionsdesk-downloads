@@ -1,6 +1,6 @@
 {
- "version": "0.5.517",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.517/OptionsDesk-Setup-0.5.517.exe",
- "sha256": "0192f3bbb7b17497abd7f057113432c198f8c7d3819008f40e9f3608ea71721d",
- "notes": "En marcha mas al momento: bandas de la vela de 15 min + campos de precio auto-refrescados cada ~60s; membresia y votos siguen con velas cerradas."
+ "version": "0.5.518",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.518/OptionsDesk-Setup-0.5.518.exe",
+ "sha256": "dc3a0b49e117d5597ef21791ae484451dfdc3b969fe4850ea5ed731a7dffd80f",
+ "notes": "En marcha: el diario del dia ya no mezcla temporalidades (cada una lleva su propia memoria)."
 }
