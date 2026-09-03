@@ -1,6 +1,7 @@
 {
- "version": "0.5.513",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.513/OptionsDesk-Setup-0.5.513.exe",
- "sha256": "2c6fa943f0efb72dd191c40bd5e35915fc56de0d844199172bd177c1bfdc01e8",
- "notes": "En marcha: chip arranco ~HH:MM (cuando arranco el movimiento) + Reportes: etiqueta viva del contexto cuantitativo por compra y tarjeta de P&L por contexto (solo mide)."
+  "version": "0.5.514",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.514/OptionsDesk-Setup-0.5.514.exe",
+  "sha256": "0b0881c77d1af2aba23e640c38dfa1a7d6389f2d7ff75e4fce1fa589082e5435",
+  "publishedAt": "2026-09-03T07:10:40Z",
+  "notes": "[canario] Mercado / En marcha: la estrella «3-de-3» ahora solo se enciende cuando el gap, el squeeze y la salida de banda apuntan al MISMO lado que la fila. Antes podia aparecer con piezas contrarias (gap arriba + banda abajo) y prometia un filo que nunca se midio."
 }
