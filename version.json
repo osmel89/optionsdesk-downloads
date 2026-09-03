@@ -1,6 +1,6 @@
 {
- "version": "0.5.515",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.515/OptionsDesk-Setup-0.5.515.exe",
- "sha256": "0f81de97ecb4eaf719515b2cfcecbc32baf5f966c19993d5bef9e4453abad50c",
- "notes": "En marcha: el chip arranco se ancla a la sesion regular (las velas overnight ya no confunden el ancla) + la estrella 3-de-3 exige el mismo lado (mejora del robot)."
+ "version": "0.5.516",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.516/OptionsDesk-Setup-0.5.516.exe",
+ "sha256": "52a78a7b698fe3f3c7829b88ae1d1065a079b698bf16fd663621ae4e93d56e9e",
+ "notes": "En marcha: la hora de aqui (entrada a la lista) queda estable entre foto local y de la nube (la pasada nueva hereda el sello anterior)."
 }
