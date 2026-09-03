@@ -1,6 +1,6 @@
 {
- "version": "0.5.516",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.516/OptionsDesk-Setup-0.5.516.exe",
- "sha256": "52a78a7b698fe3f3c7829b88ae1d1065a079b698bf16fd663621ae4e93d56e9e",
- "notes": "En marcha: la hora de aqui (entrada a la lista) queda estable entre foto local y de la nube (la pasada nueva hereda el sello anterior)."
+ "version": "0.5.517",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.517/OptionsDesk-Setup-0.5.517.exe",
+ "sha256": "0192f3bbb7b17497abd7f057113432c198f8c7d3819008f40e9f3608ea71721d",
+ "notes": "En marcha mas al momento: bandas de la vela de 15 min + campos de precio auto-refrescados cada ~60s; membresia y votos siguen con velas cerradas."
 }
