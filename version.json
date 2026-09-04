@@ -1,6 +1,6 @@
 {
- "version": "0.5.519",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.519/OptionsDesk-Setup-0.5.519.exe",
- "sha256": "9941db6a230f7cd0597049bf50dfd0291de7a36a5b353cc9ce284774a34769a9",
- "notes": "Flujo y absorcion tambien en la nube (votan en el escaner y En marcha con mercado abierto) + nota de piezas sin voto separada en neutrales vs stream en vivo."
+ "version": "0.5.520",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.520/OptionsDesk-Setup-0.5.520.exe",
+ "sha256": "45987655cbef234ea6802c90176a7aae954142aa9db51ff65b61ea664e54cfd7",
+ "notes": "En marcha: el boton Operar abre la escalera de strikes identica a la de Senales (conservadora/equilibrada/agresiva con prob ITM, prob ganar, prima, costo, theta/dia y mov. necesario); elegir peldano precarga Ejecucion con objetivo y stop sugeridos, o Practicar con dinero virtual. El PIN sigue mandando."
 }
