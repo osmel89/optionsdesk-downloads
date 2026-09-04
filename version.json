@@ -1,6 +1,6 @@
 {
- "version": "0.5.520",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.520/OptionsDesk-Setup-0.5.520.exe",
- "sha256": "45987655cbef234ea6802c90176a7aae954142aa9db51ff65b61ea664e54cfd7",
- "notes": "En marcha: el boton Operar abre la escalera de strikes identica a la de Senales (conservadora/equilibrada/agresiva con prob ITM, prob ganar, prima, costo, theta/dia y mov. necesario); elegir peldano precarga Ejecucion con objetivo y stop sugeridos, o Practicar con dinero virtual. El PIN sigue mandando."
+ "version": "0.5.523",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.523/OptionsDesk-Setup-0.5.523.exe",
+ "sha256": "84ba3960599069590b25ea234149bd55c11150332de2aabea092efcc8bcbd15d",
+ "notes": "En marcha pasa a lectura VIVA (cada 60 s con precio al tick, sin esperar velas cerradas; pantalla cada 30 s) + fix precio congelado (+0.00%) + watchdog del motor en la nube + selector de vencimiento en la escalera de strikes. Incluye el canario 0.5.521."
 }
