@@ -1,6 +1,6 @@
 {
- "version": "0.5.523",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.523/OptionsDesk-Setup-0.5.523.exe",
- "sha256": "84ba3960599069590b25ea234149bd55c11150332de2aabea092efcc8bcbd15d",
- "notes": "En marcha pasa a lectura VIVA (cada 60 s con precio al tick, sin esperar velas cerradas; pantalla cada 30 s) + fix precio congelado (+0.00%) + watchdog del motor en la nube + selector de vencimiento en la escalera de strikes. Incluye el canario 0.5.521."
+ "version": "0.5.524",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.524/OptionsDesk-Setup-0.5.524.exe",
+ "sha256": "555b20d0c716307adf96c52910862e516927adfb8f7fc56dae0e8f9790f013e7",
+ "notes": "Escalera de strikes de En marcha con el calendario de vencimientos de Senales (solo fechas con contratos; cian semanal / ambar mensual) + colector de flujo/absorcion de la nube sobre todo el universo (cinta 40; flujo siguiendo a las candidatas En marcha, re-elegido cada 10 min)."
 }
