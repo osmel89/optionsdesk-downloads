@@ -1,1 +1,7 @@
-{"version": "0.5.531", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.531/OptionsDesk-Setup-0.5.531.exe", "sha256": "7550f13c2f892f1759b3f44d1336097060d8fb1fac81a0cb2857641aa1bde782", "notes": "Mercado: Operar en cada fila (escalera), columna CONTRATO, filtros barata/liquida/hoy, radar pre-market, estadistica del filtro, sello en sombra; arreglos de la revision (escalera del lado correcto, alarma visible, estrellas de liquidez). Ver Info > Log de cambios."}
+{
+  "version": "0.5.532",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.532/OptionsDesk-Setup-0.5.532.exe",
+  "sha256": "38fde379c28b79bd822c85d2789827aea9a3abe8866bb9540cb364602eb9d4c7",
+  "publishedAt": "2026-09-05T06:57:34Z",
+  "notes": "[canario] Arreglado un fallo que podia dejar una pantalla en error con un mensaje que no venia a cuento (hablaba de la clave de Tradier sin tener nada que ver): ahora esa pantalla funciona igual y el fallo se avisa por dentro. Mantenimiento interno del control de permisos."
+}
