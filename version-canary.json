@@ -1,7 +1,1 @@
-{
-  "version": "0.5.532",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.532/OptionsDesk-Setup-0.5.532.exe",
-  "sha256": "38fde379c28b79bd822c85d2789827aea9a3abe8866bb9540cb364602eb9d4c7",
-  "publishedAt": "2026-09-05T06:57:34Z",
-  "notes": "[canario] Arreglado un fallo que podia dejar una pantalla en error con un mensaje que no venia a cuento (hablaba de la clave de Tradier sin tener nada que ver): ahora esa pantalla funciona igual y el fallo se avisa por dentro. Mantenimiento interno del control de permisos."
-}
+{"version": "0.5.533", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.533/OptionsDesk-Setup-0.5.533.exe", "sha256": "67073193e65aa69ecaf84c49ed8a2538767fe8331c55ef6a59ce34f3eb8d6875", "notes": "Mercado: columna de contexto sin recortes (dos lineas) y hora del gatillo completa; incluye el arreglo de permisos del robot (0.5.532)."}
