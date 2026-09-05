@@ -1,6 +1,1 @@
-{
- "version": "0.5.524",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.524/OptionsDesk-Setup-0.5.524.exe",
- "sha256": "555b20d0c716307adf96c52910862e516927adfb8f7fc56dae0e8f9790f013e7",
- "notes": "Escalera de strikes de En marcha con el calendario de vencimientos de Senales (solo fechas con contratos; cian semanal / ambar mensual) + colector de flujo/absorcion de la nube sobre todo el universo (cinta 40; flujo siguiendo a las candidatas En marcha, re-elegido cada 10 min)."
-}
+{"version": "0.5.531", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.531/OptionsDesk-Setup-0.5.531.exe", "sha256": "7550f13c2f892f1759b3f44d1336097060d8fb1fac81a0cb2857641aa1bde782", "notes": "Mercado: Operar en cada fila (escalera), columna CONTRATO, filtros barata/liquida/hoy, radar pre-market, estadistica del filtro, sello en sombra; arreglos de la revision (escalera del lado correcto, alarma visible, estrellas de liquidez). Ver Info > Log de cambios."}
