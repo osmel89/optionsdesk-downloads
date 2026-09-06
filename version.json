@@ -1,6 +1,6 @@
 {
-  "version": "0.5.538",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.538/OptionsDesk-Setup-0.5.538.exe",
-  "sha256": "535aef20fb16b7b40d2dea360b3c0aecd37331e840e961efd1a11ee1aceff37d",
-  "notes": "0.5.538: En marcha conserva 12 mediciones/votos/diario/Operar y anade lectura rapida 1 min, Evaluar contratos (objetivos +20/+30 % con comisiones) y seguimiento de primas; menu Ventanas (multipantalla); borradores ligados a la cuenta del broker; tutoriales regrabados con la interfaz nueva."
+  "version": "0.5.539",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.539/OptionsDesk-Setup-0.5.539.exe",
+  "sha256": "804ffe7605d2d983364cbeb33cd0b01deac72206f7c00c5ad9a3e45dcfefbc9d",
+  "notes": "0.5.539: Mercado - la tarjeta En marcha (12 mediciones, lectura rapida 1 min, seguimiento de primas) vuelve debajo del escaner; el contexto del mercado queda arriba como antes. Incluye todo lo de 0.5.538."
 }
