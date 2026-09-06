@@ -1,6 +1,6 @@
 {
-  "version": "0.5.537",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.537/OptionsDesk-Setup-0.5.537.exe",
-  "sha256": "2f593cb074226ba7385ca7a4f982fa5261a1835b12e803f315fa765b12753063",
-  "notes": "OptionsDesk 0.5.537 - nueva interfaz + auditoria de seguridad (incluye 0.5.536)\n\n- Nueva interfaz en las 27 pantallas: misma informacion y controles, mejor organizados (Mercado, Config por categorias, Ejecucion por pasos, Velas con capas desplegables, Bot con sesion y limites primero). Tema claro/oscuro, ES/EN y teclado.\n- PIN: Ejecucion/Bot/Config ya no guardan el PIN en el navegador; al desbloquear se crea una sesion del dia revocable con Bloquear. Hay que desbloquear una vez tras actualizar.\n- Bot: si un pase no puede verificar un control critico (fills, reconciliacion o P&L del dia) NO abre posiciones nuevas hasta el siguiente pase limpio; las salidas siguen vigiladas.\n- Actualizaciones: con el bot desarmado pero custodiando posiciones abiertas, la instalacion espera al cierre del mercado.\n- SMS: la verificacion del numero queda ligada a la cuenta (re-verificar una vez en Config).\n- Replay del bot: procedencia de cada prima (OPRA real / mixta / modelada). Historico profundo solo de la fuente verificada del central. Practica y Estadistica: correcciones.\n- Portafolio: filas Efectivo y TOTAL corregidas. Los videos de Tutoriales muestran todavia la interfaz anterior."
+  "version": "0.5.538",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.538/OptionsDesk-Setup-0.5.538.exe",
+  "sha256": "535aef20fb16b7b40d2dea360b3c0aecd37331e840e961efd1a11ee1aceff37d",
+  "notes": "0.5.538: En marcha conserva 12 mediciones/votos/diario/Operar y anade lectura rapida 1 min, Evaluar contratos (objetivos +20/+30 % con comisiones) y seguimiento de primas; menu Ventanas (multipantalla); borradores ligados a la cuenta del broker; tutoriales regrabados con la interfaz nueva."
 }
