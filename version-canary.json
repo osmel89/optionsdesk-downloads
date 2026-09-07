@@ -1,6 +1,7 @@
 {
-  "version": "0.5.546",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.546/OptionsDesk-Setup-0.5.546.exe",
-  "sha256": "75d44d315a4bda663f3c4514473448c4e315ca2ebaf628c809f389ea5fa282c9",
-  "notes": "0.5.546 (acumula 0.5.541-0.5.546): Mercado estrena la tarjeta Quien manda hoy (intermercado del mismo dia: 12 motores macro por familia frente a su dia normal, con medidor de sigma y acompanantes medidos; contexto, no anticipa ni vota). Ventana: doble clic en la barra maximiza, grupo derecho al borde, las pestanas nunca abren ventanas. Config: tarjeta Sesion con Cerrar sesion. Se quito Tu capital real (el tamano sale del saldo de la cuenta que opera). Tutoriales regrabados con la interfaz actual. Escritorio y motor van juntos."
+  "version": "0.5.547",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.547/OptionsDesk-Setup-0.5.547.exe",
+  "sha256": "b63c9b8e451a0876a887b270be60f23cda35510a1f55221f67f659018f669fe1",
+  "publishedAt": "2026-09-07T14:44:40Z",
+  "notes": "[canario] Rangos semanales 📏: nueva columna «Sem. pasada» (cómo terminó la semana anterior: cerró dentro X % o FUERA ↑/↓ X %), el % también en las filas FUERA, y cuando aún no se ha operado desde el ancla (feriado, pre-market) la tabla lo dice («= ancla, aún sin operar») en vez de un «dentro 50 %» que no informa. El rango anclado a una IV central de un día anterior al viernes se corrige solo cuando llega la del viernes; una IV local vieja se marca como aproximada (IV≈)."
 }
