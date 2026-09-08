@@ -1,6 +1,6 @@
 {
-  "version": "0.5.546",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.546/OptionsDesk-Setup-0.5.546.exe",
-  "sha256": "75d44d315a4bda663f3c4514473448c4e315ca2ebaf628c809f389ea5fa282c9",
-  "notes": "0.5.546 (acumula 0.5.541-0.5.546): Mercado estrena la tarjeta Quien manda hoy (intermercado del mismo dia: 12 motores macro por familia frente a su dia normal, con medidor de sigma y acompanantes medidos; contexto, no anticipa ni vota). Ventana: doble clic en la barra maximiza, grupo derecho al borde, las pestanas nunca abren ventanas. Config: tarjeta Sesion con Cerrar sesion. Se quito Tu capital real (el tamano sale del saldo de la cuenta que opera). Tutoriales regrabados con la interfaz actual. Escritorio y motor van juntos."
+  "version": "0.5.552",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.552/OptionsDesk-Setup-0.5.552.exe",
+  "sha256": "d662f6a2ef59f4234343f500013cf9f4b793180cbce3025a0798d6ae7c572165",
+  "notes": "0.5.552 (acumula 0.5.547-0.5.552): Lectura rapida con candidatas CONFIRMADAS y sin parpadeo; lectura rapida con datos reales; movimiento esperado por horizonte en Velas; cambio de accion en Velas/Senales 3-4 s; llaves de Tradier verificadas contra Tradier en Config y motivo claro cuando Tradier rechaza una llave; rangos semanales."
 }
