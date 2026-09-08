@@ -1,7 +1,6 @@
 {
-  "version": "0.5.547",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.547/OptionsDesk-Setup-0.5.547.exe",
-  "sha256": "b63c9b8e451a0876a887b270be60f23cda35510a1f55221f67f659018f669fe1",
-  "publishedAt": "2026-09-07T14:44:40Z",
-  "notes": "[canario] Rangos semanales 📏: nueva columna «Sem. pasada» (cómo terminó la semana anterior: cerró dentro X % o FUERA ↑/↓ X %), el % también en las filas FUERA, y cuando aún no se ha operado desde el ancla (feriado, pre-market) la tabla lo dice («= ancla, aún sin operar») en vez de un «dentro 50 %» que no informa. El rango anclado a una IV central de un día anterior al viernes se corrige solo cuando llega la del viernes; una IV local vieja se marca como aproximada (IV≈)."
+  "version": "0.5.552",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.552/OptionsDesk-Setup-0.5.552.exe",
+  "sha256": "d662f6a2ef59f4234343f500013cf9f4b793180cbce3025a0798d6ae7c572165",
+  "notes": "0.5.552 (acumula 0.5.547-0.5.552): Lectura rapida con candidatas CONFIRMADAS y sin parpadeo; lectura rapida con datos reales; movimiento esperado por horizonte en Velas; cambio de accion en Velas/Senales 3-4 s; llaves de Tradier verificadas contra Tradier en Config y motivo claro cuando Tradier rechaza una llave; rangos semanales."
 }
