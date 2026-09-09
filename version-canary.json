@@ -1,6 +1,6 @@
 {
-  "version": "0.5.557",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.557/OptionsDesk-Setup-0.5.557.exe",
-  "sha256": "9590bc04273c77cb8fe3f234271712399a122a344f19e1f5c8c0b1630415fab5",
-  "notes": "0.5.557: en la Lectura rapida el nombre de la accion es clicable y la abre en Velas en 1 min, igual que el boton Grafico; con la ventana de Velas abierta se selecciona alli y la Lectura rapida se queda donde esta."
+  "version": "0.5.559",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.559/OptionsDesk-Setup-0.5.559.exe",
+  "sha256": "0fd25656ea4224f636bb4d246956d3c2163d96af52a029b7ed806366bc64a684",
+  "notes": "0.5.559: Mercado ya no pinta arrastradas de estrategias apagadas; Velas abre acomodado en las ultimas velas al cambiar de accion y conserva tu zoom (0.5.558)."
 }
