@@ -1,6 +1,6 @@
 {
-  "version": "0.5.555",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.555/OptionsDesk-Setup-0.5.555.exe",
-  "sha256": "902ecaa4d7dcb07e3fdf21b281fe899b106546943abde7232cb35dfcc71905e5",
-  "notes": "0.5.555: columna Origen por posicion en Portafolio y Posiciones (bot / estrategia / cuantitativo / lectura rapida / sin motivo anotado) y tarjeta P&L por origen de la compra en Reportes."
+  "version": "0.5.556",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.556/OptionsDesk-Setup-0.5.556.exe",
+  "sha256": "11d9fbf804199236c0cd177b2e7615a094cdbe29468ac67d3caeacfaee5547c5",
+  "notes": "0.5.556: con la ventana de Velas abierta, el clic en una accion desde Portafolio, Mercado, Hoy, Noticias, Estadistica, Multi-grafico o la Lectura rapida la selecciona EN esa ventana de Velas; sin ventana de Velas, todo sigue como antes."
 }
