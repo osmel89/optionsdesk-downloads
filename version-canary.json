@@ -1,6 +1,6 @@
 {
-  "version": "0.5.554",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.554/OptionsDesk-Setup-0.5.554.exe",
-  "sha256": "637efcb2dfe46b8879c3385b907bb1146d108a0916e3d60513de82c5811dbab6",
-  "notes": "0.5.554 (acumula 0.5.553-0.5.554): buscador de simbolos al instante; Vigilancia sin bloqueo; Lectura rapida con contrato recomendado, movimiento necesario vs esperado con semaforo, seguimiento de primas honesto con resumen del dia y observacion automatica de cada confirmada; vencimiento de hoy marcado."
+  "version": "0.5.555",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.555/OptionsDesk-Setup-0.5.555.exe",
+  "sha256": "902ecaa4d7dcb07e3fdf21b281fe899b106546943abde7232cb35dfcc71905e5",
+  "notes": "0.5.555: columna Origen por posicion en Portafolio y Posiciones (bot / estrategia / cuantitativo / lectura rapida / sin motivo anotado) y tarjeta P&L por origen de la compra en Reportes."
 }
