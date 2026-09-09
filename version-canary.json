@@ -1,6 +1,6 @@
 {
-  "version": "0.5.552",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.552/OptionsDesk-Setup-0.5.552.exe",
-  "sha256": "d662f6a2ef59f4234343f500013cf9f4b793180cbce3025a0798d6ae7c572165",
-  "notes": "0.5.552 (acumula 0.5.547-0.5.552): Lectura rapida con candidatas CONFIRMADAS y sin parpadeo; lectura rapida con datos reales; movimiento esperado por horizonte en Velas; cambio de accion en Velas/Senales 3-4 s; llaves de Tradier verificadas contra Tradier en Config y motivo claro cuando Tradier rechaza una llave; rangos semanales."
+  "version": "0.5.554",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.554/OptionsDesk-Setup-0.5.554.exe",
+  "sha256": "637efcb2dfe46b8879c3385b907bb1146d108a0916e3d60513de82c5811dbab6",
+  "notes": "0.5.554 (acumula 0.5.553-0.5.554): buscador de simbolos al instante; Vigilancia sin bloqueo; Lectura rapida con contrato recomendado, movimiento necesario vs esperado con semaforo, seguimiento de primas honesto con resumen del dia y observacion automatica de cada confirmada; vencimiento de hoy marcado."
 }
