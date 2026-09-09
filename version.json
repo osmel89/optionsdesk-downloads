@@ -1,6 +1,6 @@
 {
-  "version": "0.5.556",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.556/OptionsDesk-Setup-0.5.556.exe",
-  "sha256": "11d9fbf804199236c0cd177b2e7615a094cdbe29468ac67d3caeacfaee5547c5",
-  "notes": "0.5.556: con la ventana de Velas abierta, el clic en una accion desde Portafolio, Mercado, Hoy, Noticias, Estadistica, Multi-grafico o la Lectura rapida la selecciona EN esa ventana de Velas; sin ventana de Velas, todo sigue como antes."
+  "version": "0.5.557",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.557/OptionsDesk-Setup-0.5.557.exe",
+  "sha256": "9590bc04273c77cb8fe3f234271712399a122a344f19e1f5c8c0b1630415fab5",
+  "notes": "0.5.557: en la Lectura rapida el nombre de la accion es clicable y la abre en Velas en 1 min, igual que el boton Grafico; con la ventana de Velas abierta se selecciona alli y la Lectura rapida se queda donde esta."
 }
