@@ -1,6 +1,6 @@
 {
- "version": "0.5.569",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.569/OptionsDesk-Setup-0.5.569.exe",
- "sha256": "29e1b767afa985c9041b6f92d866f7466d92e3e18e9898125bee8705cc56cf50",
- "notes": "0.5.569: Evaluar contratos ya no dice No hay contratos elegibles en PCs con el reloj unos segundos atrasado (corrige el desfase del reloj como la Lectura rapida) y, si sigue sin contratos, explica por que: reloj del PC desfasado o llave de datos sandbox con cotizaciones retrasadas."
+ "version": "0.5.570",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.570/OptionsDesk-Setup-0.5.570.exe",
+ "sha256": "448d42ae1bc253b9f22de966c48451fa220970ec09b20ed5b1fb0c3b8221437b",
+ "notes": "0.5.570: Config Instalar ahora dice la verdad (si el mercado esta abierto y el robot custodia posiciones se pospone al cierre y ofrece Instalar YA); en papel, junto a la venta puesta se ve el bid que ve el simulador cuando no la llenaria; el rastro del dia tiene filtro Sin contrato y explica por que una PC puede tener filas sin contrato observado."
 }
