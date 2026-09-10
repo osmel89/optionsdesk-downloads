@@ -1,6 +1,6 @@
 {
-  "version": "0.5.559",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.559/OptionsDesk-Setup-0.5.559.exe",
-  "sha256": "0fd25656ea4224f636bb4d246956d3c2163d96af52a029b7ed806366bc64a684",
-  "notes": "0.5.559: Mercado ya no pinta arrastradas de estrategias apagadas; Velas abre acomodado en las ultimas velas al cambiar de accion y conserva tu zoom (0.5.558)."
+ "version": "0.5.565",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.565/OptionsDesk-Setup-0.5.565.exe",
+ "sha256": "f03974a39fad3bba14c7df9ab5a22897c8fa45a33a198ad0a97732eababb67c6",
+ "notes": "0.5.565: Lectura rapida con marcas de calidad (temprana, impulso, volumen) y boton Solo calidad; contrato estrella con prima de al menos 2 dolares y spread del 5 % o menos; orden preparada al medio mas un tick; rastro diario Hoy: confirmadas y que paso con tabla compacta, medidas nuevas, volumen relativo real y columnas Lado y Movimiento; observador sin huecos falsos; buscador que responde aunque Tradier tarde (0.5.560 a 0.5.565)."
 }
