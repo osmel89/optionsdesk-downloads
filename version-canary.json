@@ -1,6 +1,6 @@
 {
- "version": "0.5.566",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.566/OptionsDesk-Setup-0.5.566.exe",
- "sha256": "992900af22ec1e4f3181cdbdcb021f2141a7800245fdbd950409a935292f83b8",
- "notes": "0.5.566: nueva tarjeta Mis operaciones abiertas con la regla de trabajo en la Lectura rapida (prima de entrada, bid ahora, P&L, bid objetivo del +20 %, reloj de 15 min, VWAP y la venta limite ya puesta) con boton Vender ahora que prepara la venta en Ejecucion; una venta nueva cancela primero, de forma automatica, la venta limite que ya estaba puesta para ese contrato, tambien desde Operar en Portafolio."
+ "version": "0.5.568",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.568/OptionsDesk-Setup-0.5.568.exe",
+ "sha256": "35ce3dcece41e1be365f1ac5f0b86dbab8210e97d2f11100ff1fde5a9674a8cc",
+ "notes": "0.5.568 (incluye 0.5.567): la Lectura rapida ya no aparece y desaparece cada pocos segundos (la app corrige el desfase entre el reloj de tu PC y el servidor y un fallo pasajero no borra una lectura vigente); la pantalla no se mueve mientras miras Mis operaciones abiertas o el rastro; el simbolo de esas tablas abre Velas; en Ejecucion la casilla Cancelar primero la venta que ya esta puesta ahora si llega al servidor y la venta nueva cancela la anterior al ejecutar con tu PIN."
 }
