@@ -1,6 +1,6 @@
 {
- "version": "0.5.573",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.573/OptionsDesk-Setup-0.5.573.exe",
- "sha256": "deb317070a97fc65f036698e7e271aadb2befe464490c4af8c6b21ebf1e3fd16",
- "notes": "0.5.573: Reportes respeta la cuenta que tengas elegida. Antes, entrar en Reportes devolvia toda la app a la cuenta de papel y elegir Produccion en su selector no se sostenia; ahora se queda donde tu la pongas, desde cualquier pantalla. Ademas, Mis operaciones abiertas dice CUANDO VENCE cada contrato (marca roja lo que vence hoy, ambar lo de manana) y de que dia es cada compra; la tarjeta separa las de hoy, donde manda la regla de trabajo, de las arrastradas de dias anteriores, donde manda el calendario; el strike sale junto al simbolo y, si no hay comprador para el contrato, se dice en vez de ofrecer una venta imposible."
+ "version": "0.5.574",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.574/OptionsDesk-Setup-0.5.574.exe",
+ "sha256": "e9387a401f88e83351f8a504eb352082f955755dc21114f307089b882d636c45",
+ "notes": "0.5.574: ARREGLO IMPORTANTE. El seguimiento de primas de la Lectura rapida no estaba midiendo nada: cada confirmacion intentaba observarse 60 minutos pero por dentro seguia habiendo un tope de 30, asi que todas fallaban y el rastro del dia quedaba con error del observador en vez de resultados. Ya mide otra vez. Ademas, en Mis operaciones abiertas el reloj de 15 minutos es de la Lectura rapida y solo se le aplica a ella: una compra nacida de una estrategia, con el contrato a varios dias, ya no aparece como salir por tiempo a los 15 minutos. Y el rastro del dia mantiene a la vista los filtros de mas 20 por ciento, no llegaron y poca cobertura aunque esten a cero."
 }
