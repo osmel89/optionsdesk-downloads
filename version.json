@@ -1,6 +1,6 @@
 {
- "version": "0.5.572",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.572/OptionsDesk-Setup-0.5.572.exe",
- "sha256": "9e6da4d88fc81f8a278706bbbc764fde617a908d8efbfcbd5ef63896ee41c72f",
- "notes": "0.5.572: la Lectura rapida ahora se mide. El rastro del dia sobrevive a los reinicios y dice por que no hubo contrato observado; nueva columna Min 15 / maximo 60 y marca tarde cuando el +20 % llego despues; la observacion de primas tolera el reloj del PC atrasado, sigue midiendo hasta 60 minutos y el cupo sube de 8 a 24; en Solo calidad la fila que se enfria se queda atenuada en vez de desaparecer; nuevo cuadro Que habria rendido cada regla, en dolares por contrato, con desglose por hora y selector de hoy / 5 / 15 sesiones, tambien en Reportes; tarjeta Abiertas ahora por origen; con la bolsa en sesion regular la app espera al cierre para actualizarse, con Instalar YA disponible."
+ "version": "0.5.573",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.573/OptionsDesk-Setup-0.5.573.exe",
+ "sha256": "deb317070a97fc65f036698e7e271aadb2befe464490c4af8c6b21ebf1e3fd16",
+ "notes": "0.5.573: Reportes respeta la cuenta que tengas elegida. Antes, entrar en Reportes devolvia toda la app a la cuenta de papel y elegir Produccion en su selector no se sostenia; ahora se queda donde tu la pongas, desde cualquier pantalla. Ademas, Mis operaciones abiertas dice CUANDO VENCE cada contrato (marca roja lo que vence hoy, ambar lo de manana) y de que dia es cada compra; la tarjeta separa las de hoy, donde manda la regla de trabajo, de las arrastradas de dias anteriores, donde manda el calendario; el strike sale junto al simbolo y, si no hay comprador para el contrato, se dice en vez de ofrecer una venta imposible."
 }
