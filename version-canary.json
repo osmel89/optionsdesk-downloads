@@ -1,6 +1,6 @@
 {
- "version": "0.5.575",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.575/OptionsDesk-Setup-0.5.575.exe",
- "sha256": "8d9f99ef4c3d309c74adbbd7b9a495381d40846292e3778c0dc592730891367e",
- "notes": "0.5.575: el rastro del dia explica cuando NO pudo medir. Si la mayoria de las confirmaciones de una sesion se perdieron por un fallo, ahora lo dice con todas sus letras y te señala el selector de 5 o 15 sesiones, donde si estan las que llegaron al +20 por ciento; antes solo se leia error del observador junto a un numero y parecia una pantalla rota. Ademas, todos los motivos por los que una confirmacion se queda sin contrato se muestran con nombre claro."
+ "version": "0.5.577",
+ "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.577/OptionsDesk-Setup-0.5.577.exe",
+ "sha256": "dd8a5efb0702c3fd3784cc325b99ff7469e777e86f67e33af6a64d488ae36ad4",
+ "notes": "Contratos por estrategia con objetivos de +100 y +200 por ciento, ejecucion dentro de Mercado sin salir de la pantalla, vencimiento automatico de 5 a 9 dias y un registro de la Lectura rapida que ya no se pierde con mas de ocho confirmaciones."
 }
