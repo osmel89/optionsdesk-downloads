@@ -1,6 +1,6 @@
 {
-  "version": "0.5.585",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.585/OptionsDesk-Setup-0.5.585.exe",
-  "sha256": "c3b645b44c250ed7b28e7550a7a91d16beef3ecb400c55aa8223094bb21023de",
-  "notes": "Las llaves opcionales (Finnhub, Marketaux, FRED y Databento) tambien viajan con la cuenta, cifradas como las de Tradier; en un equipo ya configurado, Config muestra Traer de mi cuenta."
+  "version": "0.5.586",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.586/OptionsDesk-Setup-0.5.586.exe",
+  "sha256": "ed7ab586f00b5900189449a7f1f0003fb333228531ec7ba3cbf8c931dfb79be3",
+  "notes": "Arreglo del popup de ejecucion desde Mercado: en algunos equipos no abria y quedaba roto hasta recargar; ahora se arma completo antes de mostrarse."
 }
