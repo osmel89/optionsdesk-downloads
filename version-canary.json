@@ -1,6 +1,6 @@
 {
- "version": "0.5.577",
- "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.577/OptionsDesk-Setup-0.5.577.exe",
- "sha256": "dd8a5efb0702c3fd3784cc325b99ff7469e777e86f67e33af6a64d488ae36ad4",
- "notes": "Contratos por estrategia con objetivos de +100 y +200 por ciento, ejecucion dentro de Mercado sin salir de la pantalla, vencimiento automatico de 5 a 9 dias y un registro de la Lectura rapida que ya no se pierde con mas de ocho confirmaciones."
+  "version": "0.5.584",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.584/OptionsDesk-Setup-0.5.584.exe",
+  "sha256": "5b3cb8ce20eb614d6729709b877d5e47536a6f92636c13796761248608f86322",
+  "notes": "Velas con espacio de trabajo nuevo (medida, paneles de volumen y RSI, editores de medias, Bollinger y Movimiento esperado, dibujo ampliado), medias de periodo largo completas en 1 hora y 15 minutos, vela viva estable en pre y post-market, y la configuracion con las llaves viaja a otra computadora con la cuenta."
 }
