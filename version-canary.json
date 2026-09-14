@@ -1,6 +1,6 @@
 {
-  "version": "0.5.586",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.586/OptionsDesk-Setup-0.5.586.exe",
-  "sha256": "ed7ab586f00b5900189449a7f1f0003fb333228531ec7ba3cbf8c931dfb79be3",
-  "notes": "Arreglo del popup de ejecucion desde Mercado: en algunos equipos no abria y quedaba roto hasta recargar; ahora se arma completo antes de mostrarse."
+  "version": "0.5.592",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.592/OptionsDesk-Setup-0.5.592.exe",
+  "sha256": "4c49911337d350deeea7ba9a3f7c91dea9b5921e9141303e727588cbc33fc361",
+  "notes": "Mantenimiento interno y mejoras de estabilidad."
 }
