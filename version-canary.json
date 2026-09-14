@@ -1,6 +1,6 @@
 {
-  "version": "0.5.584",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.584/OptionsDesk-Setup-0.5.584.exe",
-  "sha256": "5b3cb8ce20eb614d6729709b877d5e47536a6f92636c13796761248608f86322",
-  "notes": "Velas con espacio de trabajo nuevo (medida, paneles de volumen y RSI, editores de medias, Bollinger y Movimiento esperado, dibujo ampliado), medias de periodo largo completas en 1 hora y 15 minutos, vela viva estable en pre y post-market, y la configuracion con las llaves viaja a otra computadora con la cuenta."
+  "version": "0.5.585",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.585/OptionsDesk-Setup-0.5.585.exe",
+  "sha256": "c3b645b44c250ed7b28e7550a7a91d16beef3ecb400c55aa8223094bb21023de",
+  "notes": "Las llaves opcionales (Finnhub, Marketaux, FRED y Databento) tambien viajan con la cuenta, cifradas como las de Tradier; en un equipo ya configurado, Config muestra Traer de mi cuenta."
 }
