@@ -1,6 +1,6 @@
 {
-  "version": "0.5.646",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.646/OptionsDesk-Setup-0.5.646.exe",
-  "sha256": "cc5aeefd1ad5b8965af42282f0c1d25c9829e8b319eee9c39493f50cce3045e8",
-  "notes": "🎓 Nueva cuenta de PRÁCTICA como paper trading EN TIEMPO REAL: opera con $100,000 virtuales y precios reales al instante, sin los 15 minutos de retraso del sandbox. Elige la llave 🎓 Práctica arriba (Papel → Práctica → Real) y úsala en Operar, Portafolio, Reportes y en el Bot (tarjeta «Práctica» al armarlo). Las órdenes se llenan al ask/bid real, con límites, stops y plan de salida. Solo compra opciones (una pata) y es simulación: no toca ningún bróker. Esa cuenta es la misma de la pestaña Práctica: lo que abras por Operar o por el bot se cierra desde allí (con tu PIN), no desde Práctica."
+  "version": "0.5.647",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.647/OptionsDesk-Setup-0.5.647.exe",
+  "sha256": "e6f35e1f011454b4785896919a75935d1ae29e64391aa357671b3eb7f4da15a7",
+  "notes": "Mantenimiento interno y ajustes de estabilidad."
 }
