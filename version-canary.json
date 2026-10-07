@@ -1,1 +1,6 @@
-{"version": "0.5.662", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.662/OptionsDesk-Setup-0.5.662.exe", "sha256": "c4930515480193f523613d3af2ce148b118eaec7d25543ec6ccbddc862befe1f", "notes": "Novedades: cambio del día en dinero en Velas y panel de Favoritos con columnas a tu gusto."}
+{
+  "version": "0.5.678",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.678/OptionsDesk-Setup-0.5.678.exe",
+  "sha256": "72df7dc332fea1f2e07bf6f6879f4daadf7c2180469f04f70d3d98665b402860",
+  "notes": "Novedades: Práctica con un solo libro entre computadora y teléfono (sube sola lo que ya tenías), señales pre-cierre ⏱ desde las 3:30 PM, matriz de estrategias compartida con el teléfono, y todo lo publicado desde la 0.5.662."
+}
