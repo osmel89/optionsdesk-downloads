@@ -1,6 +1,6 @@
 {
-  "version": "0.5.680",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.680/OptionsDesk-Setup-0.5.680.exe",
-  "sha256": "a180caf5dbdf8dfa86e946f1fc55bc97ad6630251e678e0c1c8e6c5ad88151dc",
-  "notes": "Novedades: el telefono ve el bot de tu computadora y puede detenerlo; los avisos que cambies en el telefono se aplican en la computadora; la Practica sube a la nube tambien fuera de horario. El iPhone (TestFlight 13) suma operar con PIN, Smart Money, Constructor, dibujo y simulacion en Velas."
+  "version": "0.5.681",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.681/OptionsDesk-Setup-0.5.681.exe",
+  "sha256": "ebc147847a07f2dc84da3ea62b29329e3fdfb526a3760af3b035b30503bf5094",
+  "notes": "Novedades: la tabla premium se comprueba vencimiento por vencimiento (1 a 7 dias) y muestra el que mas condiciones cumple, con resumen por dia; la nube vigila tus posiciones de Practica con la PC apagada; notificaciones nativas del iPhone y huella por precio en Velas del telefono (TestFlight 18)."
 }
