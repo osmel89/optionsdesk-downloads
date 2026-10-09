@@ -1,6 +1,6 @@
 {
-  "version": "0.5.681",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.681/OptionsDesk-Setup-0.5.681.exe",
-  "sha256": "ebc147847a07f2dc84da3ea62b29329e3fdfb526a3760af3b035b30503bf5094",
-  "notes": "Novedades: la tabla premium se comprueba vencimiento por vencimiento (1 a 7 dias) y muestra el que mas condiciones cumple, con resumen por dia; la nube vigila tus posiciones de Practica con la PC apagada; notificaciones nativas del iPhone y huella por precio en Velas del telefono (TestFlight 18)."
+  "version": "0.5.682",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.682/OptionsDesk-Setup-0.5.682.exe",
+  "sha256": "4e3f75d634817e704058f174d7ad9213162b4ec1be1a09d7f752ff376ba0bc14",
+  "notes": "Novedades: el escaner usa el veredicto que la nube calcula una vez para todos; marca informativa Expuesta 3/3 en Lectura rapida y En marcha; el aviso de venta ejecutada dice la cuenta y la hora real; Practica en la nube mas rapida; arreglos del Detector sin velas de 15 min y del panel de volumen."
 }
