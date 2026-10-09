@@ -1,6 +1,6 @@
 {
-  "version": "0.5.682",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.682/OptionsDesk-Setup-0.5.682.exe",
-  "sha256": "4e3f75d634817e704058f174d7ad9213162b4ec1be1a09d7f752ff376ba0bc14",
-  "notes": "Novedades: el escaner usa el veredicto que la nube calcula una vez para todos; marca informativa Expuesta 3/3 en Lectura rapida y En marcha; el aviso de venta ejecutada dice la cuenta y la hora real; Practica en la nube mas rapida; arreglos del Detector sin velas de 15 min y del panel de volumen."
+  "version": "0.5.683",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.683/OptionsDesk-Setup-0.5.683.exe",
+  "sha256": "ed653fdd28805fd13c786165f2b18e5d7ce22e061d7844399fa917166551117d",
+  "notes": "Novedades: la cuenta de Papel (sandbox) queda oculta salvo que la actives en Config; velas de 1 hora sin velas de otra temporalidad; los Favoritos responden siempre al toque; el detalle de Mercado no se cierra solo; el ticket avisa si tu limite quedara esperando; Noticias sin error si la base de datos esta ocupada."
 }
