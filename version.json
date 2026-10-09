@@ -1,6 +1,6 @@
 {
-  "version": "0.5.683",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.683/OptionsDesk-Setup-0.5.683.exe",
-  "sha256": "ed653fdd28805fd13c786165f2b18e5d7ce22e061d7844399fa917166551117d",
+  "version": "0.5.684",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.684/OptionsDesk-Setup-0.5.684.exe",
+  "sha256": "d57ab6a889e56003595ccab46a988bb7145d070043550cfeadf4cd4bfa5e4143",
   "notes": "Novedades: la cuenta de Papel (sandbox) queda oculta salvo que la actives en Config; velas de 1 hora sin velas de otra temporalidad; los Favoritos responden siempre al toque; el detalle de Mercado no se cierra solo; el ticket avisa si tu limite quedara esperando; Noticias sin error si la base de datos esta ocupada."
 }
