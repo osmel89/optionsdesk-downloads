@@ -1,6 +1,6 @@
 {
-  "version": "0.5.686",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.686/OptionsDesk-Setup-0.5.686.exe",
-  "sha256": "7c4abb45ad6203a74d010d7abf9a6e1ad95ed0394f285f8f57689b232fab5eae",
-  "notes": "Mantenimiento interno del sistema."
+  "version": "0.5.691",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.691/OptionsDesk-Setup-0.5.691.exe",
+  "sha256": "15051d9e8eb7e8a3da713aa118ab734be1747b960955c64183ab0c467372199f",
+  "notes": "Lineas de ordenes en el grafico de Velas: entrada (con ganancia o perdida), objetivo y stop; arrastra o escribe el precio para mover una salida, X la cancela, siempre con confirmacion y PIN. Cerrar una posicion con objetivo y stop puestos cancela las dos salidas antes de vender. Corregido un error del grafico con Volumen y RSI apagados."
 }
