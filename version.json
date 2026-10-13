@@ -1,6 +1,6 @@
 {
-  "version": "0.5.691",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.691/OptionsDesk-Setup-0.5.691.exe",
-  "sha256": "15051d9e8eb7e8a3da713aa118ab734be1747b960955c64183ab0c467372199f",
-  "notes": "Lineas de ordenes en el grafico de Velas: entrada (con ganancia o perdida), objetivo y stop; arrastra o escribe el precio para mover una salida, X la cancela, siempre con confirmacion y PIN. Cerrar una posicion con objetivo y stop puestos cancela las dos salidas antes de vender. Corregido un error del grafico con Volumen y RSI apagados."
+  "version": "0.5.693",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.693/OptionsDesk-Setup-0.5.693.exe",
+  "sha256": "1731f62bcfaa7511424b73dcbb9bf5de343b81dd97d7a839c46e438c6392c80f",
+  "notes": "Mercado y En marcha abren al instante y se renuevan en segundo plano; cargar una accion con la bolsa abierta es mucho mas rapido (cola de Tradier con prioridad para la pantalla). Huella por precio encendida por defecto y visible a cualquier zoom. Practica en la nube ensena el ultimo libro conocido si la nube tarda. El programa se recupera solo si deja de responder. Corregido un error del grafico al pasar del contrato a la accion."
 }
