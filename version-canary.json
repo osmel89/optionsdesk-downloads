@@ -1,1 +1,6 @@
-{"version": "0.5.718", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.718/OptionsDesk-Setup-0.5.718.exe", "sha256": "ef1f2f2820ec5a5c79d0c0dcc78cbe635dc246d81af1d4725e96d9af56eabcc3", "notes": "Mantenimiento interno; mesa de futuros privada: bot de practica (solo SIM)."}
+{
+  "version": "0.5.720",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.720/OptionsDesk-Setup-0.5.720.exe",
+  "sha256": "a19b9eb492780b453b12c5b3199288c3e01b0e69ca80f6af62a77525c25bd61d",
+  "notes": "Velas mas rapido al cambiar de accion (sobre todo 1 minuto y PCs lentas); menos consultas de datos con varias ventanas."
+}
