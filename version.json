@@ -1,6 +1,1 @@
-{
-  "version": "0.5.695",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.695/OptionsDesk-Setup-0.5.695.exe",
-  "sha256": "df8de4b542a496c7f513ec0673f347cdda67703fe707bac7b0efe733c60e1e9a",
-  "notes": "Huella por precio: el grafico queda nitido a cualquier zoom; la huella solo se dibuja al acercar (44 px o mas entre velas). El modo con cifras no cambia."
-}
+{"version": "0.5.717", "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.717/OptionsDesk-Setup-0.5.717.exe", "sha256": "cc5376308adfff4c388c15e620dda71113e3b028d9c5bf14aaa292157a2e57ab", "notes": "Mantenimiento interno; mesa de futuros privada: libro L2, huella por precio con delta real, datos en vivo por Quantower."}
