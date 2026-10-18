@@ -1,6 +1,6 @@
 {
-  "version": "0.5.739",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.739/OptionsDesk-Setup-0.5.739.exe",
-  "sha256": "6afa385fb00a1d39d1b512e3ffd085eb62dc8a4f4d2215c19621ab8fe9b62542",
-  "notes": "Options: premium candles of the selected contract with the forming candle and entry/TP/SL on the same chart; historical practice keeps the exit plan through recording gaps and only acts on a new valid bid/ask; recording coverage and management status shown separately; quick access to the continuous 1x practice. Internal maintenance."
+  "version": "0.5.741",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.741/OptionsDesk-Setup-0.5.741.exe",
+  "sha256": "eae1cc13bacbb346e077a03ad57c4322e37b3930370ef2d6838e8f64eb0ba40f",
+  "notes": "Internal maintenance."
 }
