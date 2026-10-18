@@ -1,6 +1,6 @@
 {
-  "version": "0.5.723",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.723/OptionsDesk-Setup-0.5.723.exe",
-  "sha256": "d4eb0fa3ac5b39e90beb9b026db445102ffea480acac2a61fdf9a2c246bad9d3",
-  "notes": "Internal maintenance. Private futures desk improvements (SIM limits, indicators, bot SIM hardening, history recovery)."
+  "version": "0.5.728",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.728/OptionsDesk-Setup-0.5.728.exe",
+  "sha256": "871e68a32036053501360bfab2f4bdceb845b87c414f991b1084933c96eb72d0",
+  "notes": "Options: BE/SL/TP exit manager and quick exit profiles with continuous TP (Practice/Paper); historical exit practice; contract picker closest to premium table first. Internal maintenance."
 }
