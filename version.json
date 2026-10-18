@@ -1,6 +1,6 @@
 {
-  "version": "0.5.735",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.735/OptionsDesk-Setup-0.5.735.exe",
-  "sha256": "79cc1254e9df86ec31329966723483f6f77b989d1e87161737ae826c9d7ec270",
-  "notes": "Options: one large contract chart by default with entry/TP/SL lines; premium and exit lines preserved in the simulator; continuous demo to practice CALL/PUT at 1x; Practice/Paper ride out brief quote gaps. Internal maintenance."
+  "version": "0.5.739",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.739/OptionsDesk-Setup-0.5.739.exe",
+  "sha256": "6afa385fb00a1d39d1b512e3ffd085eb62dc8a4f4d2215c19621ab8fe9b62542",
+  "notes": "Options: premium candles of the selected contract with the forming candle and entry/TP/SL on the same chart; historical practice keeps the exit plan through recording gaps and only acts on a new valid bid/ask; recording coverage and management status shown separately; quick access to the continuous 1x practice. Internal maintenance."
 }
