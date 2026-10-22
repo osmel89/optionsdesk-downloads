@@ -1,6 +1,6 @@
 {
-  "version": "0.5.789",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.789/OptionsDesk-Setup-0.5.789.exe",
-  "sha256": "035e343bd04dee1501d7b488fadf1c8c5184ff503a67630ecd605d8b9a0d9604",
-  "notes": "Internal maintenance."
+  "version": "0.5.795",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.795/OptionsDesk-Setup-0.5.795.exe",
+  "sha256": "a373a15203b4994e27d7dae0d6c61cbaac140caed0b8e1104f82a30ab31abb49",
+  "notes": "Chart: Sell NOW (market) when closing with the X. Internal maintenance."
 }
