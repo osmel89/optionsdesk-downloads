@@ -1,6 +1,6 @@
 {
-  "version": "0.5.777",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.777/OptionsDesk-Setup-0.5.777.exe",
-  "sha256": "b15076139629370d7fbb77906d84345372e5eed75c12e6fd76b8f4b30874aefa",
-  "notes": "Internal maintenance."
+  "version": "0.5.785",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.785/OptionsDesk-Setup-0.5.785.exe",
+  "sha256": "5fe0d0647023d5d6e2778df8338dbf2f3061fd761c6706b23cb950e7d48b14b2",
+  "notes": "Execution: warning when buying an option that expires the next market day. Internal maintenance."
 }
