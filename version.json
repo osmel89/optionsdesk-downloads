@@ -1,10 +1,10 @@
 {
-  "version": "0.5.817",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.817/OptionsDesk-Setup-0.5.817.exe",
-  "sha256": "e913ee1b986646fd18e3f837edef058939d99fe3f18e255d776bb561340166af",
-  "notes": "OptionsDesk 0.5.817 (2026-11-01) - riesgo por operacion en dolares |  | Config | - Tarjeta \"Riesgo por operacion\": al escribir el % se ve al instante cuanto dinero representa por operacion sobre el saldo de la cuenta que se opera (la misma que usa el motor: Produccion solo si el modo es Produccion y esta permitida; si no, Practica o Papel), ejemplos de contratos por prima ($0.50/$1/$2/$4) y, si aun no se opera en produccion, lo que seria con el saldo real. Aviso si el % es >= 10. | - Se quito el campo \"Capital real ($)\": el motor no lo usaba (el tamano sale siempre del saldo de la cuenta operada). risk_account_equity sigue en EDITABLE por compatibilidad. |  | Infra | - Motor Fly: retirado el secreto OPTIONSDESK_ACCOUNT_BASE (lo cubre web_origin desde 0.5.815).",
+  "version": "0.5.818",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.818/OptionsDesk-Setup-0.5.818.exe",
+  "sha256": "ee9a1bb5e78465fa384c5cdf8cecd3cd05103dd5fd8a4c0b4e3284c069f49ff2",
+  "notes": "OptionsDesk 0.5.818 (2026-11-01) - Vigilancia del telefono se borraba |  | Nube / movil | - La PC subia SU lista local a la nube (push_state) sin mirar lo que el telefono habia anadido o quitado: cada subida (arranque, alta/baja, cada pase del bot) pisaba la lista del telefono y la PC nunca importaba sus altas. | - cloud_sync: fusion a 3 bandas (base/local/nube) antes de cada subida, tambien tras un 409, y en cada bajada; la PC baja la nube cada 5 min (main.py) y sube si tiene altas locales pendientes. | - Tests nuevos: test_arreglos_vigilancia_movil_2026_11 (13).",
   "channel": "stable",
-  "publishedAt": "2026-11-01T18:01:10Z",
-  "sig": "+tmHvBMriv1Ld8xbH3euQmr7TV8ZEZT8U5xTuuyxwxwwMtMrdH+xYxa8JoEKeR6ULqTM4INkNNsXcnlb+sq8AQ==",
+  "publishedAt": "2026-11-01T18:57:14Z",
+  "sig": "tG9y7RWeHfWDzJj+13h6gd3vLGMHd7dtJ3CcR+jKSxmJkZ6aa1OGd0Cbq5ptfHn0DeZ7fvSrH/8j2m5I9wiaAQ==",
   "sigKey": "oGwQsY6R"
 }
