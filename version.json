@@ -1,10 +1,10 @@
 {
-  "version": "0.5.816",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.816/OptionsDesk-Setup-0.5.816.exe",
-  "sha256": "52aefbf13daf7038ead9f8a2004f9e5af8d460ba4f9c1a4de44d117035ed46c0",
-  "notes": "OptionsDesk 0.5.816 (2026-11-01): revision completa de ejecucion de opciones (ticket PRODUCCION en rojo + confirmacion, cancelar/cerrar nunca bloqueado, sin ordenes 'enviando' eternas, cancelar confirma el estado real), presupuesto como nota (no veto) + ajuste Riesgo por operacion, vencimiento viernes liquido, BRK.B, lectura de saldo/portafolio con solo la llave, bot solo-reducir-riesgo con permiso caido, revocacion confirmada por el origen limpio, mantenimiento interno.",
+  "version": "0.5.817",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.817/OptionsDesk-Setup-0.5.817.exe",
+  "sha256": "e913ee1b986646fd18e3f837edef058939d99fe3f18e255d776bb561340166af",
+  "notes": "OptionsDesk 0.5.817 (2026-11-01) - riesgo por operacion en dolares |  | Config | - Tarjeta \"Riesgo por operacion\": al escribir el % se ve al instante cuanto dinero representa por operacion sobre el saldo de la cuenta que se opera (la misma que usa el motor: Produccion solo si el modo es Produccion y esta permitida; si no, Practica o Papel), ejemplos de contratos por prima ($0.50/$1/$2/$4) y, si aun no se opera en produccion, lo que seria con el saldo real. Aviso si el % es >= 10. | - Se quito el campo \"Capital real ($)\": el motor no lo usaba (el tamano sale siempre del saldo de la cuenta operada). risk_account_equity sigue en EDITABLE por compatibilidad. |  | Infra | - Motor Fly: retirado el secreto OPTIONSDESK_ACCOUNT_BASE (lo cubre web_origin desde 0.5.815).",
   "channel": "stable",
-  "publishedAt": "2026-11-01T16:21:59Z",
-  "sig": "qkcY1Su02qFP5Xvcr4LhBl90VqjN+F3vC1kkLasgb2XoxvX6GrU6jwsajOOQJ3jSe/Sy3WxIyKKrCoXV1iA/CQ==",
+  "publishedAt": "2026-11-01T18:01:10Z",
+  "sig": "+tmHvBMriv1Ld8xbH3euQmr7TV8ZEZT8U5xTuuyxwxwwMtMrdH+xYxa8JoEKeR6ULqTM4INkNNsXcnlb+sq8AQ==",
   "sigKey": "oGwQsY6R"
 }
