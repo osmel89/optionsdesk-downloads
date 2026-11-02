@@ -1,10 +1,10 @@
 {
-  "version": "0.5.818",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.818/OptionsDesk-Setup-0.5.818.exe",
-  "sha256": "ee9a1bb5e78465fa384c5cdf8cecd3cd05103dd5fd8a4c0b4e3284c069f49ff2",
-  "notes": "OptionsDesk 0.5.818 (2026-11-01) - Vigilancia del telefono se borraba |  | Nube / movil | - La PC subia SU lista local a la nube (push_state) sin mirar lo que el telefono habia anadido o quitado: cada subida (arranque, alta/baja, cada pase del bot) pisaba la lista del telefono y la PC nunca importaba sus altas. | - cloud_sync: fusion a 3 bandas (base/local/nube) antes de cada subida, tambien tras un 409, y en cada bajada; la PC baja la nube cada 5 min (main.py) y sube si tiene altas locales pendientes. | - Tests nuevos: test_arreglos_vigilancia_movil_2026_11 (13).",
+  "version": "0.5.828",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.828/OptionsDesk-Setup-0.5.828.exe",
+  "sha256": "ee97b4eed43df8962feb83660414ed4564f2bca35256fbe454f266e1d6feacd0",
+  "notes": "OptionsDesk 0.5.828 (2026-11-02) - Mantenimiento interno del sistema. Incluye 0.5.819 a 0.5.828.",
+  "publishedAt": "2026-11-02T15:59:31Z",
   "channel": "stable",
-  "publishedAt": "2026-11-01T18:57:14Z",
-  "sig": "tG9y7RWeHfWDzJj+13h6gd3vLGMHd7dtJ3CcR+jKSxmJkZ6aa1OGd0Cbq5ptfHn0DeZ7fvSrH/8j2m5I9wiaAQ==",
+  "sig": "/Y8FXjxmth5wiLhgidJxubt5rv1hm4rXF3Y7DbWmeYgltHo8OUZVJEYgUmdGYT/gjHF/DYlvw8k0rO6Cx7cmCQ==",
   "sigKey": "oGwQsY6R"
 }
