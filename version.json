@@ -1,10 +1,10 @@
 {
-  "version": "0.5.828",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.828/OptionsDesk-Setup-0.5.828.exe",
-  "sha256": "ee97b4eed43df8962feb83660414ed4564f2bca35256fbe454f266e1d6feacd0",
-  "notes": "OptionsDesk 0.5.828 (2026-11-02) - Mantenimiento interno del sistema. Incluye 0.5.819 a 0.5.828.",
-  "publishedAt": "2026-11-02T15:59:31Z",
+  "version": "0.5.836",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.836/OptionsDesk-Setup-0.5.836.exe",
+  "sha256": "24ecaffe7683efca62519ebc4fda89e89e2aa148df70e0fc784c3183f08dcc35",
+  "notes": "OptionsDesk 0.5.836 (2026-11-03) - Mantenimiento interno del sistema. Incluye 0.5.829 a 0.5.836.",
+  "publishedAt": "2026-11-03T05:46:23Z",
   "channel": "stable",
-  "sig": "/Y8FXjxmth5wiLhgidJxubt5rv1hm4rXF3Y7DbWmeYgltHo8OUZVJEYgUmdGYT/gjHF/DYlvw8k0rO6Cx7cmCQ==",
+  "sig": "Jo8drxjaD+96pUNXWTpbG+Nj/dBhtIirx1Zw8vGNMwfpcpQ6laxveBlwZTyowc2RF2V9Xze3L29GBWj2UnFmAQ==",
   "sigKey": "oGwQsY6R"
 }
