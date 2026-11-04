@@ -1,10 +1,10 @@
 {
-  "version": "0.5.842",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.842/OptionsDesk-Setup-0.5.842.exe",
-  "sha256": "1476fb0bb1f0d217d9e271ffe1b4b597d9228692c4ef2757de28e44679da7d23",
-  "notes": "OptionsDesk 0.5.842 (2026-11-04) - Mantenimiento interno del sistema. Incluye 0.5.837-0.5.841.\n\n0.5.842 (2026-11-03): Mantenimiento interno del sistema.\n0.5.841 (2026-11-03): Mantenimiento interno del sistema.\n0.5.840 (2026-11-03): Mantenimiento interno del sistema.\n0.5.839 (2026-11-03):\n  - Velas: botones Comprar CALL y Comprar PUT que abren la misma evaluacion de contratos de Mercado para la accion en pantalla.\n  - Ejecucion y Velas: Proteger una posicion ya comprada deja en el broker objetivo + stop (OCO, GTC), aprobado con tu PIN.\n  - Velas: el P&L de tu posicion de opciones se mueve en tiempo real con el bid del contrato.\n0.5.838 (2026-11-03): Mantenimiento interno del sistema.\n0.5.837 (2026-11-03): Mantenimiento interno del sistema.",
-  "publishedAt": "2026-11-04T11:37:48Z",
+  "version": "0.5.845",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.845/OptionsDesk-Setup-0.5.845.exe",
+  "sha256": "5ab7cf76afc953666e8af14bddfa160991e62e561260b17c619a282a5735e12d",
+  "notes": "0.5.843-0.5.845: velas de 4 horas + cuenta atras de la vela; Hoy con oportunidades de todo el universo (MAX); practica con capital inicial configurable; escalera original desde Velas; P&L estimado de opciones en pre-market; mantenimiento interno.",
   "channel": "canary",
-  "sig": "yG/ntE+kOgy0KX17qRrMAhI0hvFx63qJk57C/BISxbVVZgNRYqn+Mfg2CB8ugwJGv4tIHxh1fATvk/F1cLJ4BA==",
+  "publishedAt": "2026-11-04T20:00:55Z",
+  "sig": "BxNSic4QgB+e3QZYYsh5i04EhlBerkWUPrNLU91Sj2r0+r+1xMwG9+vQzu22lvr+rEQ31OGv5vdUd6R8wqshCQ==",
   "sigKey": "oGwQsY6R"
 }
