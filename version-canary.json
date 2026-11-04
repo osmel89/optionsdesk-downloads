@@ -1,10 +1,10 @@
 {
-  "version": "0.5.836",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.836/OptionsDesk-Setup-0.5.836.exe",
-  "sha256": "24ecaffe7683efca62519ebc4fda89e89e2aa148df70e0fc784c3183f08dcc35",
-  "notes": "OptionsDesk 0.5.836 (2026-11-03) - Mantenimiento interno del sistema. Incluye 0.5.829 a 0.5.836.",
-  "publishedAt": "2026-11-03T05:46:23Z",
+  "version": "0.5.842",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.842/OptionsDesk-Setup-0.5.842.exe",
+  "sha256": "1476fb0bb1f0d217d9e271ffe1b4b597d9228692c4ef2757de28e44679da7d23",
+  "notes": "OptionsDesk 0.5.842 (2026-11-04) - Mantenimiento interno del sistema. Incluye 0.5.837-0.5.841.\n\n0.5.842 (2026-11-03): Mantenimiento interno del sistema.\n0.5.841 (2026-11-03): Mantenimiento interno del sistema.\n0.5.840 (2026-11-03): Mantenimiento interno del sistema.\n0.5.839 (2026-11-03):\n  - Velas: botones Comprar CALL y Comprar PUT que abren la misma evaluacion de contratos de Mercado para la accion en pantalla.\n  - Ejecucion y Velas: Proteger una posicion ya comprada deja en el broker objetivo + stop (OCO, GTC), aprobado con tu PIN.\n  - Velas: el P&L de tu posicion de opciones se mueve en tiempo real con el bid del contrato.\n0.5.838 (2026-11-03): Mantenimiento interno del sistema.\n0.5.837 (2026-11-03): Mantenimiento interno del sistema.",
+  "publishedAt": "2026-11-04T11:37:48Z",
   "channel": "canary",
-  "sig": "M3x2StId7E1mzS848Sc80gYyUghdtU6fpdtsuKnyjlRvk7mehL7AyHwIOUAQCeSFY8Z/cN+N6SrZIMW3ts0XAg==",
+  "sig": "yG/ntE+kOgy0KX17qRrMAhI0hvFx63qJk57C/BISxbVVZgNRYqn+Mfg2CB8ugwJGv4tIHxh1fATvk/F1cLJ4BA==",
   "sigKey": "oGwQsY6R"
 }
