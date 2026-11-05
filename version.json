@@ -1,10 +1,10 @@
 {
-  "version": "0.5.845",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.845/OptionsDesk-Setup-0.5.845.exe",
-  "sha256": "5ab7cf76afc953666e8af14bddfa160991e62e561260b17c619a282a5735e12d",
-  "notes": "0.5.843-0.5.845: velas de 4 horas + cuenta atras de la vela; Hoy con oportunidades de todo el universo (MAX); practica con capital inicial configurable; escalera original desde Velas; P&L estimado de opciones en pre-market; mantenimiento interno.",
+  "version": "0.5.849",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.849/OptionsDesk-Setup-0.5.849.exe",
+  "sha256": "63d47f8309ffb2a04eab659c65aefaa43dbdb3f20a69f062e450ab81e0b28f57",
+  "notes": "0.5.846-0.5.849: cuenta atras de la vela en el eje de precio; fecha de vencimiento en la ficha de cada posicion comprada (Velas); mantenimiento interno.",
   "channel": "stable",
-  "publishedAt": "2026-11-04T20:00:54Z",
-  "sig": "dFUam3GJs9tEP0RFSQKQtBlADnkJKcaOS+dSWnZedsjogqqaxHKpTkPggigS91CNWwVnhWlJ0InpwfNYjqoGDg==",
+  "publishedAt": "2026-11-05T11:45:15Z",
+  "sig": "mLSKBda8INMta4ktsG/punRm7u3N8sgUdEtnvFqskjJ1417Z0L1p+AB6jniPsJIMuS1bXCRXqe6v1SkGcLlmBQ==",
   "sigKey": "oGwQsY6R"
 }
