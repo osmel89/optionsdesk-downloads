@@ -1,10 +1,10 @@
 {
-  "version": "0.5.858",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.858/OptionsDesk-Setup-0.5.858.exe",
-  "sha256": "fd59a8e0e52729b545133f9c0e32a4d0a66fbfd9b663903b4f6b8bde3956ba1d",
-  "notes": "OptionsDesk 0.5.858 (2026-11-06) - Fibonacci: los numeros salen al lado derecho de las lineas. Mantenimiento interno. Incluye 0.5.851 a 0.5.858.",
-  "publishedAt": "2026-11-06T14:51:49Z",
+  "version": "0.5.859",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.859/OptionsDesk-Setup-0.5.859.exe",
+  "sha256": "bd256f8997e4a2aee23c4a233e3cc43299979f9efcf4d3f98f7e2129334a8a9f",
+  "notes": "OptionsDesk 0.5.859 (2026-11-06) - Con una posicion abierta, Velas ya no se vuelve lenta y el precio se mueve con normalidad. Incluye 0.5.858.",
+  "publishedAt": "2026-11-06T15:08:42Z",
   "channel": "canary",
-  "sig": "GDhzJg56cYEC2DMxRE82doyxnr5sicdHcNL6pjxSV0G3VOZVusa1xQrS+uD8uBkSlLpF1+Ni7I4F9Y3+D8rDBA==",
+  "sig": "oRQL5Bs4by0gPvS14enfDJYZn7yQtjw/OpZusd8URem6OC46u6nnHYjpE8u7YlrioIK3Dk4yRmh+kFYUnAigAg==",
   "sigKey": "oGwQsY6R"
 }
