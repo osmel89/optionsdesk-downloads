@@ -1,10 +1,10 @@
 {
-  "version": "0.5.859",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.859/OptionsDesk-Setup-0.5.859.exe",
-  "sha256": "bd256f8997e4a2aee23c4a233e3cc43299979f9efcf4d3f98f7e2129334a8a9f",
-  "notes": "OptionsDesk 0.5.859 (2026-11-06) - Con una posicion abierta, Velas ya no se vuelve lenta y el precio se mueve con normalidad. Incluye 0.5.858.",
-  "publishedAt": "2026-11-06T15:08:42Z",
+  "version": "0.5.864",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.864/OptionsDesk-Setup-0.5.864.exe",
+  "sha256": "5643d6ccb644d9567568c66069c5e327ea20c670e511d686468b8352a20492b2",
+  "notes": "OptionsDesk 0.5.864 (2026-11-06) - Compra manual propuesta al ask como LIMIT fijo; el objetivo y el stop de Senales y Mercado conservan su porcentaje; rotulo del SL mas corto; lecturas mas rapidas con mucha actividad; menos consultas con varias ventanas.",
+  "publishedAt": "2026-11-06T20:53:25Z",
   "channel": "stable",
-  "sig": "Bi0+PJFJ9P5cUs30LRcegmK+0h00LEUP5xZSUcoNidjFbH8XNaUwEg9d7Mp3Lnoi2YjR/kacISUiCD8QxOf8Bw==",
+  "sig": "D6Vax3EkKZ/kgFheB0mZv3+IJloKVrIxBVmbGG+Wto5sJEypCSdCqdgWJVHF4Bd5eLNezxzMXcOTkKJXrGgKBg==",
   "sigKey": "oGwQsY6R"
 }
