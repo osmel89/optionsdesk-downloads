@@ -1,10 +1,10 @@
 {
-  "version": "0.5.850",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.850/OptionsDesk-Setup-0.5.850.exe",
-  "sha256": "756954f4e3b154b4670f48a3796ab48ae398f909d6c25d67d328668a2e0fe269",
-  "notes": "0.5.850: la app usa menos procesador con la bolsa cerrada (mediciones de fondo que ya no repiten trabajo); Portafolio respeta siempre la cuenta elegida; mantenimiento interno.",
+  "version": "0.5.858",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.858/OptionsDesk-Setup-0.5.858.exe",
+  "sha256": "fd59a8e0e52729b545133f9c0e32a4d0a66fbfd9b663903b4f6b8bde3956ba1d",
+  "notes": "OptionsDesk 0.5.858 (2026-11-06) - Fibonacci: los numeros salen al lado derecho de las lineas. Mantenimiento interno. Incluye 0.5.851 a 0.5.858.",
+  "publishedAt": "2026-11-06T14:51:49Z",
   "channel": "canary",
-  "publishedAt": "2026-11-05T12:21:18Z",
-  "sig": "r9HEv1GoXlj8IUWfVb9AmkJMfJ2A8C77qAp1gEKP0amiRhm2WsogxAEBDZtmZBdfvZjRmKWIdTkaUbn54lKiAg==",
+  "sig": "GDhzJg56cYEC2DMxRE82doyxnr5sicdHcNL6pjxSV0G3VOZVusa1xQrS+uD8uBkSlLpF1+Ni7I4F9Y3+D8rDBA==",
   "sigKey": "oGwQsY6R"
 }
