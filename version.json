@@ -1,10 +1,10 @@
 {
-  "version": "0.5.864",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.864/OptionsDesk-Setup-0.5.864.exe",
-  "sha256": "5643d6ccb644d9567568c66069c5e327ea20c670e511d686468b8352a20492b2",
-  "notes": "OptionsDesk 0.5.864 (2026-11-06) - Compra manual propuesta al ask como LIMIT fijo; el objetivo y el stop de Senales y Mercado conservan su porcentaje; rotulo del SL mas corto; lecturas mas rapidas con mucha actividad; menos consultas con varias ventanas.",
-  "publishedAt": "2026-11-06T20:53:25Z",
+  "version": "0.5.866",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.866/OptionsDesk-Setup-0.5.866.exe",
+  "sha256": "e041c0c614c8b43cf0e24e3cacdbb21272f00788cbd0f38a80b9703207430acb",
+  "publishedAt": "2026-11-09T14:29:23Z",
+  "notes": "0.5.866: El tope de compra de Config ahora se aplica de verdad al abrir una posición: por defecto es el 2 % de tu cuenta (con $5.000 son $100 por compra) y lo cambias en Config → Riesgo. Cerrar siempre se permite; abrir a mercado ya no se admite: usa una orden límite.\n0.5.866: La Huella consume menos CPU con varias ventanas abiertas.\n0.5.865: Mercado consume menos: En marcha se actualiza al ritmo real de sus datos.\n0.5.865: Con varias ventanas abiertas, el precio en vivo consume menos CPU.",
   "channel": "stable",
-  "sig": "D6Vax3EkKZ/kgFheB0mZv3+IJloKVrIxBVmbGG+Wto5sJEypCSdCqdgWJVHF4Bd5eLNezxzMXcOTkKJXrGgKBg==",
+  "sig": "KYENUgyb9YG0FNQqJU8HtCfMV6T3L7dXzdCsbxC+qPHDO7qXi38tBfkR6frvkxq2qwh/G8ypVNi6+ezKHW9LCg==",
   "sigKey": "oGwQsY6R"
 }
