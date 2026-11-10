@@ -1,10 +1,10 @@
 {
-  "version": "0.5.866",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.866/OptionsDesk-Setup-0.5.866.exe",
-  "sha256": "e041c0c614c8b43cf0e24e3cacdbb21272f00788cbd0f38a80b9703207430acb",
-  "publishedAt": "2026-11-09T14:29:23Z",
-  "notes": "0.5.866: El tope de compra de Config ahora se aplica de verdad al abrir una posición: por defecto es el 2 % de tu cuenta (con $5.000 son $100 por compra) y lo cambias en Config → Riesgo. Cerrar siempre se permite; abrir a mercado ya no se admite: usa una orden límite.\n0.5.866: La Huella consume menos CPU con varias ventanas abiertas.\n0.5.865: Mercado consume menos: En marcha se actualiza al ritmo real de sus datos.\n0.5.865: Con varias ventanas abiertas, el precio en vivo consume menos CPU.",
+  "version": "0.5.867",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.867/OptionsDesk-Setup-0.5.867.exe",
+  "sha256": "bc7f7560969187617f809c23115aef39fd3d98facb93d1ec707a5dce30730dbe",
+  "publishedAt": "2026-11-10T16:09:39Z",
+  "notes": "0.5.867: Se quitó el tope de compra por porcentaje de la cuenta y la tarjeta «Riesgo por operación» de Config: cada persona decide cuánto arriesga en cada operación. Vuelve a admitirse abrir una compra a mercado. Recuerda que una opción comprada puede perder el 100 % de lo pagado.",
   "channel": "stable",
-  "sig": "KYENUgyb9YG0FNQqJU8HtCfMV6T3L7dXzdCsbxC+qPHDO7qXi38tBfkR6frvkxq2qwh/G8ypVNi6+ezKHW9LCg==",
+  "sig": "XvLiGmALX3h8sNBu2AO9Hk2EHSBT4zBWjBJF7q888WGth95RedeAACv/rFk8/02wADHGdHn4j93/y6njEJVjBQ==",
   "sigKey": "oGwQsY6R"
 }
