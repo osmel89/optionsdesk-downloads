@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.1.0/OptionsDesk-Apertura-Setup-1.1.0.exe",
-  "sha256": "2df00ec39a87daf905fdedfaf5bd51b632d40596f645f865ab23fc1034949783",
-  "publishedAt": "2026-11-10T14:00:06Z",
-  "notes": "Licencia por Machine ID, verificación desde el panel y aviso de actualización. Operación en Sim101 y cuenta propia con confirmación."
+  "version": "1.2.0",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.2.0/OptionsDesk-Apertura-Setup-1.2.0.exe",
+  "sha256": "df7bbf20c8bfcf62bee522e30638f2c39dc689c356036413d3fd13ca67c1c55f",
+  "publishedAt": "2026-11-10T21:46:35Z",
+  "notes": "Se instala y aparece sola en Strategies; modo según la cuenta elegida, sin texto de confirmación; etiqueta limpia en el gráfico"
 }
