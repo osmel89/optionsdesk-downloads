@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.2.0/OptionsDesk-Apertura-Setup-1.2.0.exe",
-  "sha256": "df7bbf20c8bfcf62bee522e30638f2c39dc689c356036413d3fd13ca67c1c55f",
-  "publishedAt": "2026-11-10T21:46:35Z",
-  "notes": "Se instala y aparece sola en Strategies; modo según la cuenta elegida, sin texto de confirmación; etiqueta limpia en el gráfico"
+  "version": "1.3.0",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.3.0/OptionsDesk-Apertura-Setup-1.3.0.exe",
+  "sha256": "71e616276ef16b9b3ea2bc63a5512c235ae5f49ff55df37a87e74a2207f567d6",
+  "publishedAt": "2026-11-10T22:44:05Z",
+  "notes": "El análisis con Claude viene incluido con la licencia: ya no hay que configurar ninguna clave"
 }
