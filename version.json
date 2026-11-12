@@ -1,10 +1,10 @@
 {
-  "version": "0.5.867",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.867/OptionsDesk-Setup-0.5.867.exe",
-  "sha256": "bc7f7560969187617f809c23115aef39fd3d98facb93d1ec707a5dce30730dbe",
-  "publishedAt": "2026-11-10T16:09:39Z",
-  "notes": "0.5.867: Se quitó el tope de compra por porcentaje de la cuenta y la tarjeta «Riesgo por operación» de Config: cada persona decide cuánto arriesga en cada operación. Vuelve a admitirse abrir una compra a mercado. Recuerda que una opción comprada puede perder el 100 % de lo pagado.",
+  "version": "0.5.868",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.868/OptionsDesk-Setup-0.5.868.exe",
+  "sha256": "5a8ff4f29da2634bcf4ea53521745188827fea6fdd148f0a90f3d5ff562238f5",
+  "publishedAt": "2026-11-12T17:39:17Z",
+  "notes": "0.5.868: Mercado: en una fila «Frenada» el rótulo ahora dice cuándo se volvió a revisar («Revisada 8 min · Frenada») en vez de la antigüedad de la última vez que cumplió todo.",
   "channel": "stable",
-  "sig": "XvLiGmALX3h8sNBu2AO9Hk2EHSBT4zBWjBJF7q888WGth95RedeAACv/rFk8/02wADHGdHn4j93/y6njEJVjBQ==",
+  "sig": "2AE6ZG1mEuWPOKzpTGIZceTexHyzVl6DwWY8c2leA0w6lZR8t0vIIhGBZAOvKp+7DgIIIeznOcTk9bqzCni8Bw==",
   "sigKey": "oGwQsY6R"
 }
