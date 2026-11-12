@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.4.1/OptionsDesk-Apertura-Setup-1.4.1.exe",
-  "sha256": "af198bab22ae1f1cb8764e231eacf4a634499b68df69f9270d65ff14f63f7dba",
-  "publishedAt": "2026-11-12T12:37:57Z",
-  "notes": "1.4.1: arreglo de arranque (una cotización temprana ya no hace fallar la estrategia y la cuenta siempre se libera al deshabilitar). Incluye la versión oficial 1.4.0"
+  "version": "1.4.2",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.4.2/OptionsDesk-Apertura-Setup-1.4.2.exe",
+  "sha256": "746fa2533743da83ee13b61184e546ab0adb65b3260aecc6ee951ba4755b0319",
+  "publishedAt": "2026-11-12T14:39:15Z",
+  "notes": "1.4.2: estabilidad al armar (la revisión interna de la cuenta ya no se acumula si tarda). Incluye los arreglos de 1.4.1 y la versión oficial 1.4.0"
 }
