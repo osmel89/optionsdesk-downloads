@@ -1,10 +1,10 @@
 {
-  "version": "0.5.868",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.868/OptionsDesk-Setup-0.5.868.exe",
-  "sha256": "5a8ff4f29da2634bcf4ea53521745188827fea6fdd148f0a90f3d5ff562238f5",
-  "publishedAt": "2026-11-12T17:39:17Z",
-  "notes": "0.5.868: Mercado: en una fila «Frenada» el rótulo ahora dice cuándo se volvió a revisar («Revisada 8 min · Frenada») en vez de la antigüedad de la última vez que cumplió todo.",
+  "version": "0.5.869",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.869/OptionsDesk-Setup-0.5.869.exe",
+  "sha256": "7ac29a0af8bbcdd8c51d1a274ad47921722b2e0779f876d870996066ee716140",
+  "publishedAt": "2026-11-13T02:49:50Z",
+  "notes": "0.5.869: Mercado · En marcha: nota «Estirada» cuando una acción está fuera de Bollinger en 15 min, 1 h y diario a la vez con la lectura a favor del movimiento; describe lo medido y se quita sola al dejar de estar expuesta.",
   "channel": "stable",
-  "sig": "2AE6ZG1mEuWPOKzpTGIZceTexHyzVl6DwWY8c2leA0w6lZR8t0vIIhGBZAOvKp+7DgIIIeznOcTk9bqzCni8Bw==",
+  "sig": "z5WRHel9j7VyaPOR+e2zLhSgiB8l2EIIci2GPvgiWfyuyQ+Fz5CR53y1eorrCJUTUougHFfx1nweWJqcuLm3Bw==",
   "sigKey": "oGwQsY6R"
 }
