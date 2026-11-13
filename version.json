@@ -1,10 +1,10 @@
 {
-  "version": "0.5.870",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.870/OptionsDesk-Setup-0.5.870.exe",
-  "sha256": "315ff5146e5d5f36bb93635ef8a2281766482a569f282ff7ac520038f5d28609",
-  "publishedAt": "2026-11-13T18:39:23Z",
-  "notes": "0.5.870: Mercado · la estrategia «Primera vela roja» (PUT a las 10:00) solo sale como «se está dando» de 10:00 a 11:00 ET; después queda como «se dio hoy» y su hora es siempre la vela de apertura de hoy (antes seguía vigente todo el día).",
+  "version": "0.5.871",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.871/OptionsDesk-Setup-0.5.871.exe",
+  "sha256": "0af1e277831a6c3f47e58c18f9744919fb38d697c3697edbfdc593f91bed87ab",
+  "publishedAt": "2026-11-13T19:56:23Z",
+  "notes": "0.5.871: Mercado · Tabla premium: la distancia precio–strike solo cuenta fuera del dinero (CALL por encima, PUT por debajo); un contrato dentro del dinero ya no aparece como «distancia ✓» ni como el más cercano a la tabla.",
   "channel": "stable",
-  "sig": "H0UDIqt89SmP9cLm5r0zQaRG/Oi/ftd8XL3xdmX86PA/kPw85/mfhaWoPqzQXKkjyXszzu8sphyBf/7MbEo0Aw==",
+  "sig": "VrhnbW9XeoHDivX4ut1nbBHjFaQ9tgYZ/LntgQGoIYFa8nDOt/Nq6cKEyioCivtVxb/CGGG7whgSpa8U+xkYCg==",
   "sigKey": "oGwQsY6R"
 }
