@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.4.3/OptionsDesk-Apertura-Setup-1.4.3.exe",
-  "sha256": "c994a6c893d315591e5e19f8fa87dfee764ba7b90a019710adaa271851d1c06c",
-  "publishedAt": "2026-11-12T16:15:39Z",
-  "notes": "1.4.3: armado en espera de la próxima apertura (revalida licencia, cuenta y riesgo al despertar). Incluye 1.4.2, 1.4.1 y la versión oficial 1.4.0"
+  "version": "1.5.0",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.0/OptionFutures-Apertura-Setup-1.5.0.exe",
+  "sha256": "d9f482fe907e5448b6f4a5871a449045eede8e1ca1398c3b1331830af6ad5d7c",
+  "publishedAt": "2026-11-14T07:10:33Z",
+  "notes": "1.5.0: nombre nuevo OptionFutures / Apertura y ventana más compacta; las reglas no cambian. Incluye todo lo anterior hasta la 1.4.3"
 }
