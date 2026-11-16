@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.1/OptionFutures-Estructura-Setup-1.0.1.exe",
-  "sha256": "40fae7d1c356cb0ebb5e9ef89acaec99198702a66e89c96362af1734c81872f7",
-  "notes": "1.0.1: asistente visible, compilación verificada y registro/desinstalación en Windows. Incluye el indicador. Solo Playback; licencia de membresía OptionFutures."
+  "version": "1.0.2",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.2/OptionFutures-Estructura-Setup-1.0.2.exe",
+  "sha256": "b63ac44d6f159b48cce4cefa7a052e19298baa1114d4b1d2eeb58949ab21d9d9",
+  "notes": "1.0.2: Playback, Simulación y Real con autorización y armado manual. Límites de cuenta y calendario nativo. Incluye indicador y licencia OptionFutures."
 }
