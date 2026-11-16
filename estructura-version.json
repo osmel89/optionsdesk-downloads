@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.2/OptionFutures-Estructura-Setup-1.0.2.exe",
-  "sha256": "b63ac44d6f159b48cce4cefa7a052e19298baa1114d4b1d2eeb58949ab21d9d9",
-  "notes": "1.0.2: Playback, Simulación y Real con autorización y armado manual. Límites de cuenta y calendario nativo. Incluye indicador y licencia OptionFutures."
+  "version": "1.0.3",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.3/OptionFutures-Estructura-Setup-1.0.3.exe",
+  "sha256": "a92f117ea86abb434e08753b8cb5a94a9778d2f6df31ad1c44ef0348298a5993",
+  "notes": "1.0.3: corrige la compilación del instalador en equipos con referencias WPF y NinjaTrader implícitas. Incluye indicador y licencia. Conserva cuentas, configuraciones y cupos; no habilita estrategias."
 }

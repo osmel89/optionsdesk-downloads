@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.1/OptionFutures-Apertura-Setup-1.5.1.exe",
-  "sha256": "1d9b2aa01b82877bcd1aa5418d1fc7c16885bcd68901ce617ac9f82a37244ea8",
-  "notes": "1.5.1: asistente visible, compilación verificada, inclusión en NinjaScript y registro/desinstalación en Windows. Conserva cuentas y cupos."
+  "version": "1.5.2",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.2/OptionFutures-Apertura-Setup-1.5.2.exe",
+  "sha256": "9ba13aba3988aad280a42ce061f35291091cfccaa25129f74043e94c829782e6",
+  "notes": "1.5.2: corrige la compilación del instalador en equipos con referencias WPF y NinjaTrader implícitas. Conserva cuentas, configuraciones y cupos; no habilita estrategias."
 }
