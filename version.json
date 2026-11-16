@@ -1,10 +1,10 @@
 {
-  "version": "0.5.871",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.871/OptionsDesk-Setup-0.5.871.exe",
-  "sha256": "0af1e277831a6c3f47e58c18f9744919fb38d697c3697edbfdc593f91bed87ab",
-  "publishedAt": "2026-11-13T19:56:23Z",
-  "notes": "0.5.871: Mercado · Tabla premium: la distancia precio–strike solo cuenta fuera del dinero (CALL por encima, PUT por debajo); un contrato dentro del dinero ya no aparece como «distancia ✓» ni como el más cercano a la tabla.",
+  "version": "0.5.877",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.877/OptionsDesk-Setup-0.5.877.exe",
+  "sha256": "1354ab8ee192e82a3c3c0b8ae56530f747241694106b636c3c44a3524d9770a8",
+  "publishedAt": "2026-11-16T17:10:01Z",
+  "notes": "0.5.877: Velas · el gráfico aparece mucho más rápido al abrir un símbolo o cambiar de temporalidad (ya no espera a la cadena de opciones: de unos 8 s a 1–2 s).",
   "channel": "stable",
-  "sig": "VrhnbW9XeoHDivX4ut1nbBHjFaQ9tgYZ/LntgQGoIYFa8nDOt/Nq6cKEyioCivtVxb/CGGG7whgSpa8U+xkYCg==",
+  "sig": "8vRCUMkDakb2HpSBlvuFlOFtgGwTswqXFNToldhxiThxIUT8eveFbzfGkhXKCQ5tfRZTql3XJbdAxUhVJ2vtDA==",
   "sigKey": "oGwQsY6R"
 }
