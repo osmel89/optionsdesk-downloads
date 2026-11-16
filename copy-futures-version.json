@@ -1,0 +1,6 @@
+{
+  "version": "1.1.3",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/copy-futures-v1.1.3/CopyFutures-Setup-1.1.3.exe",
+  "sha256": "4fed52088da3b5cd4b3fe66c73881ed063c8b665a7abd1b0b46c08f26b5c1c79",
+  "notes": "1.1.3: se recupera solo tras una desconexión del bróker y el instalador compila en cualquier NinjaTrader. Instalarlo no activa la copia."
+}
