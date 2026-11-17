@@ -1,6 +1,6 @@
 {
-  "version": "1.5.3",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.3/OptionFutures-Apertura-Setup-1.5.3.exe",
-  "sha256": "3a62f76aa3a3ee1a9a7882741c594170b51a835fe96671a7d50e65a1fdf18d47",
-  "notes": "1.5.3: armado temprano en espera hasta la ventana AM/PM; revalida licencia, cuenta, cotizaciones y riesgo al despertar. Restaura la ventana al habilitar. Conserva cuentas y cupos; no activa estrategias. Playback de esta actualización pendiente."
+  "version": "1.5.4",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.4/OptionFutures-Apertura-Setup-1.5.4.exe",
+  "sha256": "89b1fdb3c556cf2382ed781552782782fb1a3ee99e922cbbe689fa2b2b3e0d32",
+  "notes": "1.5.4: corrige la recuperación SHORT→LONG durante el envío demorado de Playback; revalida desde la dirección original si se pierde la recuperación. Registro en vivo con origen, cotizaciones y motivo. Conserva cuentas y cupos; no activa estrategias. Compilación y pruebas aisladas verificadas; Playback operativo de esta actualización pendiente."
 }
