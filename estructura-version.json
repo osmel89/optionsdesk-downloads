@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.8",
-    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.8/OptionFutures-Estructura-Setup-1.0.8.exe",
-    "sha256":  "12c4344a38725006483d623e3c8efa65daaf7a3991eeec9aaa7864774065db98",
-    "notes":  "1.0.8: corrige una excepción al confirmar stops con fills parciales: snapshots sincronizados y dibujo SL/TP aislado de los callbacks de órdenes. Conserva reglas de entrada, perfiles, riesgo y reconexión. No habilita ni arma al instalar. Fallo concurrente reproducido y pruebas aisladas verificadas; Playback del parche pendiente."
+    "version":  "1.0.9",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.9/OptionFutures-Estructura-Setup-1.0.9.exe",
+    "sha256":  "8c35fbba148fd27e476faa06fc0ce232be5c2ffefba320fc85c37270c28084c2",
+    "notes":  "1.0.9: añade seguimiento de Apex Legacy 50K. Evaluación vincula automáticamente la cuenta seleccionada y oculta los campos exclusivos de PA. El panel muestra saldo neto, importe pendiente hasta $53,000 y requisitos sin confirmar. Cambiar de cuenta no transfiere días confirmados. Conserva SL, pérdida diaria, contratos y protección. No habilita ni arma estrategias al instalar; no certifica aprobación ni retiros de Apex."
 }
