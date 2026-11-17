@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/copy-futures-v1.2.1/CopyFutures-Setup-1.2.1.exe",
-  "sha256": "d74ebcbfc9748a3d001e9f3e45c5b4b313bc1a93114c41bfd262be1b2d2b95cb",
-  "notes": "1.2.1: recuperación tras desconexión con intención previa, conexión estable y cuentas flat sin órdenes; conserva bloqueos y diarios. Cuarentena de cuentas restringidas por el proveedor; rehabilitación solo tras permisos nativos confirmados, sin seleccionarlas automáticamente. Conciliación flat conserva evidencia sin inventar fills ni PnL y mantiene revisión contable pendiente. Desarme manual cancela recuperación. Instalar no activa copias. Pruebas aisladas verificadas; desconexión real en simulación pendiente."
+    "version":  "1.2.2",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/copy-futures-v1.2.2/CopyFutures-Setup-1.2.2.exe",
+    "sha256":  "aeab51789c00954fb7fa18acf665c06d50dd4ce742d6dbe2573784c6ec4410d2",
+    "notes":  "1.2.2: corrige la omisión del siguiente ciclo cuando los fills de salida seguidores llegan después del cierre maestro. Reinicia solo con cuenta flat verificada y órdenes propias resueltas; conserva rechazos, cuarentena, aislamiento y recuperación pendiente. Añade registro del nuevo ciclo y bloqueos. No activa copias al instalar. Intercalado real reproducido y pruebas aisladas verificadas; Playback del parche pendiente."
 }

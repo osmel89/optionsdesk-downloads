@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.7/OptionFutures-Estructura-Setup-1.0.7.exe",
-  "sha256": "80ad70fd293321208a0319d419f313cad84b592b63b596909af88ed10923b9b6",
-  "notes": "1.0.7: recuperación tras desconexión si la estrategia ya estaba armada: exige cinco segundos estables, cotizaciones frescas, cuenta sin posiciones ni órdenes y validación de licencia y riesgo. Desarme manual cancela recuperación; no habilita estrategias deshabilitadas ni rearma al iniciar. Conserva perfiles, referencia opcional de 190 ticks, límites y diarios. Compilación y pruebas aisladas verificadas; desconexión real en simulación pendiente."
+    "version":  "1.0.8",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.8/OptionFutures-Estructura-Setup-1.0.8.exe",
+    "sha256":  "12c4344a38725006483d623e3c8efa65daaf7a3991eeec9aaa7864774065db98",
+    "notes":  "1.0.8: corrige una excepción al confirmar stops con fills parciales: snapshots sincronizados y dibujo SL/TP aislado de los callbacks de órdenes. Conserva reglas de entrada, perfiles, riesgo y reconexión. No habilita ni arma al instalar. Fallo concurrente reproducido y pruebas aisladas verificadas; Playback del parche pendiente."
 }
