@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.4/OptionFutures-Apertura-Setup-1.5.4.exe",
-  "sha256": "89b1fdb3c556cf2382ed781552782782fb1a3ee99e922cbbe689fa2b2b3e0d32",
-  "notes": "1.5.4: corrige la recuperación SHORT→LONG durante el envío demorado de Playback; revalida desde la dirección original si se pierde la recuperación. Registro en vivo con origen, cotizaciones y motivo. Conserva cuentas y cupos; no activa estrategias. Compilación y pruebas aisladas verificadas; Playback operativo de esta actualización pendiente."
+    "version":  "1.5.5",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.5/OptionFutures-Apertura-Setup-1.5.5.exe",
+    "sha256":  "3e804aa80d9586355419fe1af6ba62e6ea04678ccb793975de8b716ee852e744",
+    "notes":  "1.5.5: recuperaciÃ³n tras desconexiÃ³n solo si estaba armada, con conexiÃ³n estable, cotizaciones frescas y validaciones de licencia, cuenta y riesgo. Descarta capturas y decisiones interrumpidas; si la ventana pasÃ³ espera la prÃ³xima apertura, sin enviar Ã³rdenes atrasadas ni reiniciar cupos. Desarme manual cancela recuperaciÃ³n. No habilita ni arma al instalar o iniciar. CompilaciÃ³n y pruebas aisladas verificadas; desconexiÃ³n real en simulaciÃ³n pendiente."
 }

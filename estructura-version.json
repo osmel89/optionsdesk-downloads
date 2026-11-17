@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.6/OptionFutures-Estructura-Setup-1.0.6.exe",
-  "sha256": "defd7e3b9327a6d7019620c79f0c70cbf68ca0d88292e77c0f74f7e1d7f6a668",
-  "notes": "1.0.6: referencia de riesgo opcional basada en 4 MNQ/SL $380: conserva 190 ticks, escala SL por contratos y mantiene pérdida diaria $1,000. Modo AUTO recalcula al aplicar contratos, solo flat; costes y pérdidas consumidas siguen limitando entradas. Incluye ProMaX editable y validación nativa de stops. AUTO apagado por defecto; conserva cuentas, ajustes y diarios, no habilita ni arma estrategias. Referencia de configuración, no optimización de rentabilidad."
+    "version":  "1.0.7",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.7/OptionFutures-Estructura-Setup-1.0.7.exe",
+    "sha256":  "80ad70fd293321208a0319d419f313cad84b592b63b596909af88ed10923b9b6",
+    "notes":  "1.0.7: recuperaciÃ³n tras desconexiÃ³n si la estrategia ya estaba armada: exige cinco segundos estables, cotizaciones frescas, cuenta sin posiciones ni Ã³rdenes y validaciÃ³n de licencia y riesgo. Desarme manual cancela recuperaciÃ³n; no habilita estrategias deshabilitadas ni rearma al iniciar. Conserva perfiles, referencia opcional de 190 ticks, lÃ­mites y diarios. CompilaciÃ³n y pruebas aisladas verificadas; desconexiÃ³n real en simulaciÃ³n pendiente."
 }

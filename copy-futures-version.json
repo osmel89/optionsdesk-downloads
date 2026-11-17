@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/copy-futures-v1.2.0/CopyFutures-Setup-1.2.0.exe",
-  "sha256": "a291fca048ba22dc48be1c6a25bf28a60e80e6a91f4b6aafc3fc5e1cbd8d7e7a",
-  "notes": "1.2.0: cada indicador abre su copia independiente y desarmada, con nombre propio. Impide reutilizar cuentas entre copias; conserva supervisión al retirar un indicador activo. Aísla rechazos y recupera ejecuciones propias sin inventar posiciones ni PnL. Instalar no activa copias. Playback completo pendiente."
+    "version":  "1.2.1",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/copy-futures-v1.2.1/CopyFutures-Setup-1.2.1.exe",
+    "sha256":  "d74ebcbfc9748a3d001e9f3e45c5b4b313bc1a93114c41bfd262be1b2d2b95cb",
+    "notes":  "1.2.1: recuperaciÃ³n tras desconexiÃ³n con intenciÃ³n previa, conexiÃ³n estable y cuentas flat sin Ã³rdenes; conserva bloqueos y diarios. Cuarentena de cuentas restringidas por el proveedor; rehabilitaciÃ³n solo tras permisos nativos confirmados, sin seleccionarlas automÃ¡ticamente. ConciliaciÃ³n flat conserva evidencia sin inventar fills ni PnL y mantiene revisiÃ³n contable pendiente. Desarme manual cancela recuperaciÃ³n. Instalar no activa copias. Pruebas aisladas verificadas; desconexiÃ³n real en simulaciÃ³n pendiente."
 }
