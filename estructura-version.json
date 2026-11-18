@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9",
-    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.9/OptionFutures-Estructura-Setup-1.0.9.exe",
-    "sha256":  "8c35fbba148fd27e476faa06fc0ce232be5c2ffefba320fc85c37270c28084c2",
-    "notes":  "1.0.9: añade seguimiento de Apex Legacy 50K. Evaluación vincula automáticamente la cuenta seleccionada y oculta los campos exclusivos de PA. El panel muestra saldo neto, importe pendiente hasta $53,000 y requisitos sin confirmar. Cambiar de cuenta no transfiere días confirmados. Conserva SL, pérdida diaria, contratos y protección. No habilita ni arma estrategias al instalar; no certifica aprobación ni retiros de Apex."
+  "version": "1.0.10",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.10/OptionFutures-Estructura-Setup-1.0.10.exe",
+  "sha256": "9f7ed5e40bacad67bed37d00a57ca3d1f3edf009e41167e3cc4becfa02f5cf08",
+  "notes": "1.0.10: incorpora Manual Trade al instalador de Estructura: órdenes market/límite, SL y TP físicos con USD, arrastre, BE/trailing, adición con niveles originales, cierre coordinado y reversión. Corrige cierres inmediatos por fills parciales; permite confirmar por orden el exceso de riesgo previsto sin desactivar el corte diario. Mantiene la licencia de membresía y los controles de cuenta. Incluye la corrección del guardado de evidencias de Estructura. No arma bots ni activa copiadores al instalar."
 }
