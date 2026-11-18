@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.6",
-    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.6/OptionFutures-Apertura-Setup-1.5.6.exe",
-    "sha256":  "66b91df35fe98df9f82690be31653c48b2b20f8e210441355711d973560f5893",
-    "notes":  "1.5.6: evita desarmes falsos por pares intermedios de Bid/Ask; conserva los tiempos originales sin ampliar frescura ni inventar precios. Si el cliente abrió antes de conectarse el feed, prepara el panel al llegar los datos y permanece DESARMADO: exige ARMAR manual. Revalida licencia, autorización y riesgo; no ignora reservas de otras instancias. Conserva reconexión, cupos y plazos de apertura. Fallos reproducidos y pruebas aisladas verificadas; apertura con mercado en vivo de esta actualización pendiente."
+  "version": "1.5.7",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/apertura-v1.5.7/OptionFutures-Apertura-Setup-1.5.7.exe",
+  "sha256": "059c8f683d4a71f423de3406968f98c1aa71c78ccaa5aa6b986d1dc175bc0cdc",
+  "notes": "1.5.7: referencia automática de saldo por cuenta y sesión; usa SOD/SodCash o P&L de sesión informado y conserva la referencia verificada sin reiniciar el riesgo al reconectar. Si faltan datos, muestra ESPERANDO SALDOS, conserva solo la intención de armado previa y no envía órdenes. DESARMAR cancela la espera; no recupera aperturas caducadas. Revalidación reducida de +15 a +10 segundos: mañana 09:30:07–09:30:10 NY; Globex 18:01:45–18:02:05 NY. Mantiene licencia, autorización, límites, protección e intentos. Instalación y pruebas aisladas; sin operaciones reales de prueba."
 }
