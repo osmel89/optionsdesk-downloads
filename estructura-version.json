@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.11",
-    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.11/OptionFutures-Estructura-Setup-1.0.11.exe",
-    "sha256":  "44da6186ca28a6c4f47b4fed5126a618834abb912cbe86a09b88a10b5391c357",
-    "notes":  "1.0.11: revisión de Manual Trade: confirmaciones específicas para añadir, ampliar SL, mover límites y revertir; opción diaria Solo aviso sin cierre automático. Conserva SL/TP originales al añadir, muestra cambios confirmados por el proveedor y mantiene BE/trailing tras arrastre manual. Registro de acciones y corrección de cotizaciones en Playback. Conserva licencia y controles de cuenta/proveedor. La instalación no arma bots ni activa copiadores."
+  "version": "1.0.12",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.12/OptionFutures-Estructura-Setup-1.0.12.exe",
+  "sha256": "f47a0b62b433f26a117f066894a38cd749a39ae4c3305e1f5bac6ac6fe180718",
+  "notes": "1.0.12: incluye Manual Trade revisado: market y límites en ambos sentidos, adiciones al mismo precio de SL/TP, arrastre con línea y dólares, BE/trailing, reversión tras confirmar flat y cierre coordinado con Chart Trader. Los movimientos de SL/TP válidos se solicitan directamente; los perfiles PA conservan sus controles. Oculta cuentas no disponibles. Añade controles compartidos Legacy PA 50K con popup de regla y acción correctiva, y objetivo personal configurable de bots. Incluye el perfil independiente ProMaX Continuidad para probar barridos internos/externos a favor del impulso, conservando los perfiles anteriores."
 }
