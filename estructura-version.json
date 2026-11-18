@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.10/OptionFutures-Estructura-Setup-1.0.10.exe",
-  "sha256": "9f7ed5e40bacad67bed37d00a57ca3d1f3edf009e41167e3cc4becfa02f5cf08",
-  "notes": "1.0.10: incorpora Manual Trade al instalador de Estructura: órdenes market/límite, SL y TP físicos con USD, arrastre, BE/trailing, adición con niveles originales, cierre coordinado y reversión. Corrige cierres inmediatos por fills parciales; permite confirmar por orden el exceso de riesgo previsto sin desactivar el corte diario. Mantiene la licencia de membresía y los controles de cuenta. Incluye la corrección del guardado de evidencias de Estructura. No arma bots ni activa copiadores al instalar."
+    "version":  "1.0.11",
+    "url":  "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.11/OptionFutures-Estructura-Setup-1.0.11.exe",
+    "sha256":  "44da6186ca28a6c4f47b4fed5126a618834abb912cbe86a09b88a10b5391c357",
+    "notes":  "1.0.11: revisión de Manual Trade: confirmaciones específicas para añadir, ampliar SL, mover límites y revertir; opción diaria Solo aviso sin cierre automático. Conserva SL/TP originales al añadir, muestra cambios confirmados por el proveedor y mantiene BE/trailing tras arrastre manual. Registro de acciones y corrección de cotizaciones en Playback. Conserva licencia y controles de cuenta/proveedor. La instalación no arma bots ni activa copiadores."
 }
