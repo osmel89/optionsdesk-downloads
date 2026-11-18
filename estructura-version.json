@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.12/OptionFutures-Estructura-Setup-1.0.12.exe",
-  "sha256": "f47a0b62b433f26a117f066894a38cd749a39ae4c3305e1f5bac6ac6fe180718",
-  "notes": "1.0.12: incluye Manual Trade revisado: market y límites en ambos sentidos, adiciones al mismo precio de SL/TP, arrastre con línea y dólares, BE/trailing, reversión tras confirmar flat y cierre coordinado con Chart Trader. Los movimientos de SL/TP válidos se solicitan directamente; los perfiles PA conservan sus controles. Oculta cuentas no disponibles. Añade controles compartidos Legacy PA 50K con popup de regla y acción correctiva, y objetivo personal configurable de bots. Incluye el perfil independiente ProMaX Continuidad para probar barridos internos/externos a favor del impulso, conservando los perfiles anteriores."
+  "version": "1.0.13",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.13/OptionFutures-Estructura-Setup-1.0.13.exe",
+  "sha256": "9c583c0bb68479d654b064bb40d47a2b3627dc70bdac6af9266748beed7b795f",
+  "notes": "1.0.13: Manual Trade como ventana flotante desde New > OptionFutures / Manual Trade, sin panel ni franja sobre las velas. Arrastre directo de SL y TP en el gráfico sin Chart Trader, con línea de vista previa y confirmación nativa al soltar. El BE y trailing siguen activos después del ajuste manual. Corrige la entrega de cotizaciones para evitar bloqueos del simulador y descartar mensajes atrasados. Conserva los perfiles de Estructura, ProMaX Continuidad, la licencia de membresía y los controles PA de 1.0.12. Instalar con NinjaTrader cerrado; no habilita estrategias ni arma bots o copiadores."
 }
