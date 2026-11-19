@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/muse-v1.0.1/Muse-Setup-1.0.1.exe",
-  "sha256": "5515b32a30d29888b31f2cf5db4b95c6e148ce770b614b4ab855802d275bb3c5",
-  "notes": "1.0.1: seguimiento local cada segundo de posiciones manuales y de bots; protección, retrocesos y cierres en contra incluso sin escenario previo vinculado. Avisos de posición con voz local sin esperar a Gemini. Mantiene estable el gráfico observado, tolera fallos transitorios de lectura sin rejuvenecer datos y retira los avisos antiguos al recuperarse. No reactiva escenarios invalidados. Conserva el respaldo de voz gratuito, masculino y pausado. Cierra solo Muse para actualizar; no recompila NinjaTrader ni arma nada. Requiere el lector Muse ya instalado."
+  "version": "1.1.0",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/muse-v1.1.0/Muse-Setup-1.1.0.exe",
+  "sha256": "4457d57afefc6673bbfec31a72a440f5f7b36170a831b1d0a261198b61dbcb85",
+  "notes": "1.1.0: paquete OptionFutures completo con Muse, lector conectado al espacio MNQ de un minuto, Estructura del gráfico, Manual Trade flotante y Copy Futures. Apertura automática opcional al iniciar NinjaTrader, Manual Trade pausado en Sim101 y copia desarmada. Muse incorpora el contexto cerrado de momentum de Continuidad, filtra escenarios contrarios o ya invalidados y distingue vigilancia, confirmación e invalidación intravela. Voz local gratuita masculina pausada. Cierra NinjaTrader y Muse para instalar; conserva ajustes y registros. No habilita estrategias ni envía órdenes."
 }
