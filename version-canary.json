@@ -1,10 +1,10 @@
 {
-  "version": "0.5.878",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.878/OptionsDesk-Setup-0.5.878.exe",
-  "sha256": "eb4b76d3c5f404ee2426abf86ac465f7af4560256317e2e05ca16b85bbc5fb42",
-  "publishedAt": "2026-11-17T18:25:00Z",
-  "notes": "0.5.878: Velas y datos · si el proveedor de datos tarda en responder, la app repite la consulta enseguida en vez de esperar 20 s (las velas cargan aunque el proveedor vaya lento).",
+  "version": "0.5.879",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.879/OptionsDesk-Setup-0.5.879.exe",
+  "sha256": "ba59a944dca6a654a98df8a0e226facaf74c79564b3bce42474489d30d65ab81",
+  "publishedAt": "2026-11-19T15:05:00Z",
+  "notes": "0.5.879: Velas - si Tradier no entrega velas, el grafico muestra las ultimas guardadas con aviso en vez de quedarse en Cargando; vuelven solas al recuperarse.",
   "channel": "canary",
-  "sig": "7SMC9d995s1hmZM6yALKDmrxFYeymt3r6cX/iVl+JQeKwjBzg2KMV0SFhuoF0E1DT4unNs6vjjpTFtaDh8QBDA==",
+  "sig": "jvPYwM4ScGULMw5Mh7je5tuaWe9cWZ1mjA1hDM9booAr1oE//bC3gEhx/dA1oOzKoy+AvotCZrYx8A222YlsAQ==",
   "sigKey": "oGwQsY6R"
 }
