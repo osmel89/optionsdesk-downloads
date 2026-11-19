@@ -1,10 +1,10 @@
 {
-  "version": "0.5.880",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.880/OptionsDesk-Setup-0.5.880.exe",
-  "sha256": "ae81d83b03690ee7787ef299d3910372d5b53776609c46038b9ad53fb57c1053",
-  "publishedAt": "2026-11-19T17:40:00Z",
-  "notes": "0.5.880: Velas - el aviso de velas guardadas dice si es cupo de datos lleno o Tradier caido; Favoritos gasta mucho menos cupo en sesion (volumen sigue en vivo).",
+  "version": "0.5.881",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.881/OptionsDesk-Setup-0.5.881.exe",
+  "sha256": "f436b5b831f8691b8a8ced3d17ebea8d06e405c1d58d0b8c8aad45d2a80366f4",
+  "publishedAt": "2026-11-19T18:10:00Z",
+  "notes": "0.5.881: Velas - si la descarga tarda unos segundos, el grafico usa la copia de hace un momento sin aviso; el aviso de velas guardadas solo para velas viejas.",
   "channel": "stable",
-  "sig": "lLhk59VJ2lUdNMD+VnAiSbyVxIfB5Nl0m5DFPXQ2KkZH3DSlLlMHKhC1eZvQUcsygPjF3LLLnL4mz+23sJnHCw==",
+  "sig": "5HVVaOXb7UFCrhflEATyhEiqOHdjraKBU8c1kax1uG8Gwd3zGubFt5+4TAEZDJ6iRbaNB008fNhnO0sTLvM5Ag==",
   "sigKey": "oGwQsY6R"
 }
