@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/muse-v1.0.0/Muse-Setup-1.0.0.exe",
-  "sha256": "acfbf65e2d57fdeb96b08f25ad0952f55e79851e5c768eba0bce67445131c17c",
-  "notes": "Muse: respaldo de voz local gratuito, masculino y pausado cuando Gemini agota la cuota o no está disponible. No usa ElevenLabs para el respaldo. Conserva las preferencias y credenciales. Actualiza solo Muse, sin recompilar NinjaTrader ni armar estrategias. Requiere el lector del gráfico ya instalado."
+  "version": "1.0.1",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/muse-v1.0.1/Muse-Setup-1.0.1.exe",
+  "sha256": "5515b32a30d29888b31f2cf5db4b95c6e148ce770b614b4ab855802d275bb3c5",
+  "notes": "1.0.1: seguimiento local cada segundo de posiciones manuales y de bots; protección, retrocesos y cierres en contra incluso sin escenario previo vinculado. Avisos de posición con voz local sin esperar a Gemini. Mantiene estable el gráfico observado, tolera fallos transitorios de lectura sin rejuvenecer datos y retira los avisos antiguos al recuperarse. No reactiva escenarios invalidados. Conserva el respaldo de voz gratuito, masculino y pausado. Cierra solo Muse para actualizar; no recompila NinjaTrader ni arma nada. Requiere el lector Muse ya instalado."
 }
