@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/muse-v1.1.0/Muse-Setup-1.1.0.exe",
-  "sha256": "4457d57afefc6673bbfec31a72a440f5f7b36170a831b1d0a261198b61dbcb85",
-  "notes": "1.1.0: paquete OptionFutures completo con Muse, lector conectado al espacio MNQ de un minuto, Estructura del gráfico, Manual Trade flotante y Copy Futures. Apertura automática opcional al iniciar NinjaTrader, Manual Trade pausado en Sim101 y copia desarmada. Muse incorpora el contexto cerrado de momentum de Continuidad, filtra escenarios contrarios o ya invalidados y distingue vigilancia, confirmación e invalidación intravela. Voz local gratuita masculina pausada. Cierra NinjaTrader y Muse para instalar; conserva ajustes y registros. No habilita estrategias ni envía órdenes."
+  "version": "1.1.1",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/muse-v1.1.1/Muse-Setup-1.1.1.exe",
+  "sha256": "1abb2ce25352f922d7ecbd49bb7319e901753f588114888d3038a1b3db266a8f",
+  "notes": "1.1.1: corrige el primer inicio del paquete completo. El vencimiento de MNQ se obtiene de la definición nativa del contrato, sin intentar abrir MNQ sin fecha. Incluye Muse, lector con momentum de Continuidad, Estructura del gráfico, Manual Trade flotante pausado y Copy Futures desarmado. Conserva credenciales y registros. Cierra NinjaTrader y Muse para instalar; no habilita estrategias ni envía órdenes."
 }
