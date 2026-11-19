@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.13/OptionFutures-Estructura-Setup-1.0.13.exe",
-  "sha256": "9c583c0bb68479d654b064bb40d47a2b3627dc70bdac6af9266748beed7b795f",
-  "notes": "1.0.13: Manual Trade como ventana flotante desde New > OptionFutures / Manual Trade, sin panel ni franja sobre las velas. Arrastre directo de SL y TP en el gráfico sin Chart Trader, con línea de vista previa y confirmación nativa al soltar. El BE y trailing siguen activos después del ajuste manual. Corrige la entrega de cotizaciones para evitar bloqueos del simulador y descartar mensajes atrasados. Conserva los perfiles de Estructura, ProMaX Continuidad, la licencia de membresía y los controles PA de 1.0.12. Instalar con NinjaTrader cerrado; no habilita estrategias ni arma bots o copiadores."
+  "version": "1.0.14",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/estructura-v1.0.14/OptionFutures-Estructura-Setup-1.0.14.exe",
+  "sha256": "d844073299407731ddcf85187a3e8c5c45b7acd2d6eeaaed4272a81a6080923e",
+  "notes": "1.0.14: corrige el error «Sequence contains more than one matching element» de las cuentas PA en Estructura y Manual Trade. Distingue las órdenes históricas de las entradas pendientes, conserva las reservas ante envíos sin confirmar y asigna identificadores únicos a las nuevas entradas de Estructura. Mantiene reglas PA, perfiles, licencia, Manual Trade flotante, arrastre de SL/TP, BE y trailing de 1.0.13. Instalar con NinjaTrader cerrado; no habilita estrategias, arma bots ni activa copias."
 }
