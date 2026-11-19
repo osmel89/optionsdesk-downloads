@@ -1,10 +1,10 @@
 {
-  "version": "0.5.881",
-  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.881/OptionsDesk-Setup-0.5.881.exe",
-  "sha256": "f436b5b831f8691b8a8ced3d17ebea8d06e405c1d58d0b8c8aad45d2a80366f4",
-  "publishedAt": "2026-11-19T18:10:00Z",
-  "notes": "0.5.881: Velas - si la descarga tarda unos segundos, el grafico usa la copia de hace un momento sin aviso; el aviso de velas guardadas solo para velas viejas.",
+  "version": "0.5.883",
+  "url": "https://github.com/osmel89/optionsdesk-downloads/releases/download/v0.5.883/OptionsDesk-Setup-0.5.883.exe",
+  "sha256": "0f21f494d0a5003c140f1328924c4e3ccddf258b9597fb1cd6936df39de378e8",
+  "publishedAt": "2026-11-19T21:53:26Z",
+  "notes": "0.5.883: Datos - cada tipo de dato de Tradier lleva su propia cuenta de cupo; si se llenan las velas, las cotizaciones y las cadenas de opciones siguen llegando y el precio en vivo puede reconectarse. 0.5.882: el motor de la nube revisa las 40 acciones fijas y las 20 mas seguidas entre todos los clientes; las demas de tu lista se siguen vigilando desde tu aplicacion.",
   "channel": "stable",
-  "sig": "5HVVaOXb7UFCrhflEATyhEiqOHdjraKBU8c1kax1uG8Gwd3zGubFt5+4TAEZDJ6iRbaNB008fNhnO0sTLvM5Ag==",
+  "sig": "SUNAccSP3SkZ40Io07Gt/P9BA3SFEQmB/CYPDEcdZqDoruXYbbHBbMoxOh4JA/xvaFyVvoQ+S574ZscJeu/1DA==",
   "sigKey": "oGwQsY6R"
 }
